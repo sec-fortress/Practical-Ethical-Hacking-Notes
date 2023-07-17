@@ -123,4 +123,8 @@ Nmap done: 1 IP address (1 host up) scanned in 26.71 seconds
 - **Step 5:** You can select extensions to be attached with each payload/wordlist in the wordlist file e.g **`/index`** will be attached with **`/index.php`**
 - **Step 6:** Just click **`▶️ Start`** 
 
-**Also make sure to always use Burpsuite, Add your target to scope and fire up your scans, you can read more from [here]()**
+~ **Also make sure to always use Burpsuite, Add your target to scope and fire    up your scans, you can read more from [here](https://portswigger.net/burp/documentation/desktop/testing-workflow/test-scope#:~:text=To%20add%20a%20URL%20to%20your%20scope%3A%201,logging%20out-of-scope%20traffic.%20This%20can%20provide%20performance%20benefits.)**
+
+~ **Make sure to view the source of websites too, by adding `view-source` to the front of the url or left clicking on the web page and selecting view source**
+
+
