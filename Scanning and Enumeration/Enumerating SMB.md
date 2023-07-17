@@ -5,4 +5,5 @@ WE can launch up metasploit with the command **`msfconsole`** on linux and conti
 
 ![msf smb enumeration with auxilaries](https://i.imgur.com/iza6D7v.png)
 
-
+*Terms Used:*
+- **Dead End:** 
