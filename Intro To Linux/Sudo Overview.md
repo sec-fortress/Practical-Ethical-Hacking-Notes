@@ -1,4 +1,4 @@
-## What does it do?
+## What doSudo Overviewes it do?
 The `sudo` command in Linux allows a user with appropriate privileges to execute commands as a superuser or another user. It is commonly used to perform administrative tasks that require elevated privileges. Here's an example of how `sudo` is used:
 
 ## How to Use </3
