@@ -15,3 +15,7 @@ Unable to negotiate with 172.16.216.130 port 22: no matching host key type found
 └─$ ssh -oKexAlgorithms=+diffie-hellman-group1-sha1 -c ssh-rsa 172.16.216.130
 Unknown cipher type 'ssh-rsa'
 ```
+
+*Errors:*
+- In the first error, we where told to specify a **key exchange method**, we can do that by adding **`-oKexMethods=+`** followed by the offers given
+- The second error state that we need a particular **host key**
