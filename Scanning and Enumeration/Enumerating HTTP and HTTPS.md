@@ -123,4 +123,4 @@ Nmap done: 1 IP address (1 host up) scanned in 26.71 seconds
 - **Step 5:** You can select extensions to be attached with each payload/wordlist in the wordlist file e.g **`/index`** will be attached with **`/index.php`**
 - **Step 6:** Just click **`▶️ Start`** 
 
-
+**Also make sure to always use Burpsuite, Add your target to scope and fire up your scans, you can read more from [here]()**
