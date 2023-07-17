@@ -13,14 +13,5 @@ We can also used **`smbclient`** to check for shares:
 - **`smbclient`** works with backslashes(\\)
 - Logon with **Anonymous**, do not need passwords
 
-
-
-
-
-
-
-
-
-
 *Terms Used:*
-- **Dead End:** As used with tool `smbclient` and share `IPC$`
+- **Dead End:** As used with the tool `smbclient` and share `IPC$`, a dead end involves you can't or don't have permissions to enumerate further
