@@ -9,4 +9,5 @@ Which allows a ==remote shell== through a remote buffer overflow attack, cool, l
 ***Checklist:**
 
 - [] With the keyword `mod ssl 2.8.4 exploit` whereas adding **exploit** gives us some few links; [outdated exploit](https://www.exploit-db.com/exploits/764), [updated exploit](https://github.com/heltonWernik/OpenLuck) 
-- [] We can also search using the **searchsploit** command in Kali Linux, Note that the more specific you are, the more chances you won't get any results
+- [] We can also search using the **searchsploit** command in Kali Linux, Note that the more specific you are, the more chances you won't get any results, here is how it is done; 
+  
