@@ -5,5 +5,16 @@ WE can launch up metasploit with the command **`msfconsole`** on linux and conti
 
 ![msf smb enumeration with auxilaries](https://i.imgur.com/iza6D7v.png)
 
+We can also used **`smbclient`** to check for shares
+
+
+
+
+
+
+
+
+
+
 *Terms Used:*
-- **Dead End:** 
+- **Dead End:** As used with tool `smbclient` and share `IPC$`
