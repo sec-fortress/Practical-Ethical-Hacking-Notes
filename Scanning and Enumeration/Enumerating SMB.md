@@ -5,7 +5,13 @@ WE can launch up metasploit with the command **`msfconsole`** on linux and conti
 
 ![msf smb enumeration with auxilaries](https://i.imgur.com/iza6D7v.png)
 
-We can also used **`smbclient`** to check for shares
+We can also used **`smbclient`** to check for shares:
+
+![using smbclient to enumerate shares](https://i.imgur.com/z1EBjGJ.png)
+
+*Notes:*
+- **`smbclient`** works with backslashes(\\)
+- Logon with **Anonymous**, do not need passwords
 
 
 
