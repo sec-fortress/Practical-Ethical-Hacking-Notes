@@ -12,6 +12,7 @@ We can also used **`smbclient`** to check for shares:
 *Notes:*
 - **`smbclient`** works with backslashes(\\)
 - Logon with **Anonymous**, do not need passwords
+- You can also use enum4linux, a quick **`enum4linux --help`** should give you an insight on how to use it, it is also fast and straight forward
 
 *Terms Used:*
 - **Dead End:** As used with the tool `smbclient` and share `IPC$`, a dead end involves you can't or don't have permissions to enumerate further
