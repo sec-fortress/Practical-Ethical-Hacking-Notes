@@ -8,8 +8,8 @@ mod_ssl/2.8.4 - mod_ssl 2.8.7 and lower are vulnerable to a remote buffer overfl
 Which allows a **remote shell** through a remote buffer overflow attack, cool, let Google Search:
 ***Checklist:***
 
-- [x] With the keyword `mod ssl 2.8.4 exploit` whereas adding **exploit** gives us some few links; [outdated exploit](https://www.exploit-db.com/exploits/764), [updated exploit](https://github.com/heltonWernik/OpenLuck) 
-- [x] We can also search using the **searchsploit** command in Kali Linux, Note that the more specific you are, the more chances you won't get any results, here is how it is done; 
+- [ ] With the keyword `mod ssl 2.8.4 exploit` whereas adding **exploit** gives us some few links; [outdated exploit](https://www.exploit-db.com/exploits/764), [updated exploit](https://github.com/heltonWernik/OpenLuck) 
+- [ ] We can also search using the **searchsploit** command in Kali Linux, Note that the more specific you are, the more chances you won't get any results, here is how it is done; 
 	- using the command **`searchsploit mod ssl 2.8.4`** gives us this;
 	```shell
 	Exploit Title                                                         |      Path
