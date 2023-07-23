@@ -22,4 +22,9 @@ Which allows a **remote shell** through a remote buffer overflow attack, cool, l
 	Shellcodes: No Results
 	```
 
-Next up is the **`Samba 2.2`**
+Next up is the:
+
+```sh
+SMB Version
+ Unix (Samba 2.2.1a)
+```
