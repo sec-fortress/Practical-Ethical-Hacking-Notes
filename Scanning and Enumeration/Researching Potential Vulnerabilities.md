@@ -29,4 +29,5 @@ SMB Version
  Unix (Samba 2.2.1a)
 ```
 
-After various research a lot of articles and source point to a **Trans2open Vulnerability** which was disclosed 04/07/2003. We have various exploit on the web including a manual exploit built with C after getting reverse shell as a normal user [trans2open-CVE-2003](https://github.com/KernelPan1k/trans2open-CVE-2003-0201) and an exploit from metasploit [](https://www.rapid7.com/db/modules/exploit/linux/samba/trans2open/)
+After various research a lot of articles and source point to a **Trans2open Vulnerability** which was disclosed 04/07/2003. We have various exploit on the web including a manual exploit built with C after getting reverse shell as a normal user [trans2open-CVE-2003](https://github.com/KernelPan1k/trans2open-CVE-2003-0201) and an exploit from metasploit [Samba trans2open Overflow (Linux x86)](https://www.rapid7.com/db/modules/exploit/linux/samba/trans2open/)
+
