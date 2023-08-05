@@ -22,7 +22,8 @@ Unknown cipher type 'ssh-rsa'
 - In the first error, we where told to specify a **key exchange method**, we can do that by adding **`-oKexMethods=+`** followed by the offers given
 - The second error state that we need a particular **host key**, we can specify that with the **`-c`** option followed by the offers given again
 - Still we can't connect, just get the approach that this is correct but somehow we are not connecting
-- If you can't still find a solution try: `-oHostKeyAlgorithms=+ssh-dss` for any type of error that represents the second error in this write-up
+- If you can't still find a solution try: `-oHostKeyAlgorithms=+ssh-dss` for any type of error that represents the second error in this write-up, make sure to replace **ssh-dss** with their offer
+
 *Note:*
 
 > The purpose is not to connect to the machine but to see if we can get any banners that might expose sensitive information to us, once we have those information or whether you have them not, **`ctrl+c`** should be done in your terminal if enumeration is still in progress
