@@ -7,3 +7,5 @@ Resources:
 [Windows Privilege Escalation for Beginners](https://academy.tcm-sec.com/p/windows-privilege-escalation-for-beginners)
 
 [Linux Privilege Escalation for Beginners](https://academy.tcm-sec.com/p/linux-privilege-escalation)
+
+[Download all Capstone VM's](https://cdn.fs.teachablecdn.com/XyWGk3BwRMWhth526GV0)
