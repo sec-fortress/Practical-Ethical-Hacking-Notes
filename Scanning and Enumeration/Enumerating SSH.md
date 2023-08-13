@@ -28,7 +28,8 @@ Unknown cipher type 'ssh-rsa'
 
 > The purpose is not to connect to the machine but to see if we can get any banners that might expose sensitive information to us, once we have those information or whether you have them not, **`ctrl+c`** should be done in your terminal if enumeration is still in progress
 
-You can connect with john using these ssh format
+
+The kioptrix lab has problems sooo, You can connect with john using these ssh format
 
 ```sh
 ssh john@172.16.216.130 -oHostKeyAlgorithms=+ssh-dss -oKexAlgorithms=+diffie-hellman-group-exchange-sha1 -c aes256-cbc
