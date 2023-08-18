@@ -6,4 +6,5 @@ Now use the logs `root:tcm` and you should be logged in successfully, Once logge
 
 ![](https://i.imgur.com/oVlP40y.png)
 
-Time to run our Nmap scan on targets, or directly SSH to the target using h
+Time to run our Nmap scan on targets, or directly SSH to the target using the host system to make things easier for us to interact with the Machine instead of clicking VM Ware always
+
