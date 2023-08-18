@@ -18,9 +18,8 @@ Running our Nmap scan , Query `nmap -p- -sCV 192.168.0.108 -v --min-rate=1000 -T
 
 ![](https://i.imgur.com/v6wqzFu.png)
 
-> Usually i
 ## Enumeration
 
-
+> Usually in CTF's we erase enumerating port 22/SSH out of the board, cos' we don't ususally go through that route except we find a valid username and start bruteforcing for passwords, But in real-world scenario, You should brute force ssh using `root` as username and seeing if the account uses a weak credential, also try to see if you can bypass detecion, like trying to log in over 500 attempts without getting detected, that is a security risk you should add to your r
 
 
