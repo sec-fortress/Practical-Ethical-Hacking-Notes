@@ -33,7 +33,7 @@ Checking what the note.txt has, give us this
 
 ![](https://i.imgur.com/MRhguMj.png)
 
-
+Nice !!!, `cd73502828457d15655bbd7a63fb0bc8` , looks like a password though "Learn SQL😆" , but stored in MD5, you can use `hash-identifier` to check it out in kali , soo we will be cracking it using `john-the-ripper`  
 
 
 
