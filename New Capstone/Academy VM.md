@@ -25,6 +25,8 @@ Running our Nmap scan , Query `nmap -p- -sCV 192.168.0.108 -v --min-rate=1000 -T
 
 **Starting with FTP** 
 
-We have anonymous login on FTP, so let 
+We have anonymous login on FTP, so let start out with that
+
+
 
 
