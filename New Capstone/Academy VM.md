@@ -18,5 +18,9 @@ Running our Nmap scan , Query `nmap -p- -sCV 192.168.0.108 -v --min-rate=1000 -T
 
 ![](https://i.imgur.com/v6wqzFu.png)
 
+> Usually i
+## Enumeration
+
+
 
 
