@@ -10,7 +10,13 @@ Time to run our Nmap scan on targets, first of all directly SSH to the target us
 
 ![](https://i.imgur.com/cTGXvph.png)
 
+![](https://i.imgur.com/aGx2Ruw.png)
+
 If you have problems connecting, Make sure to set network to bridge then run `dhclient` before `ip a` 
 
-Running our Nmap scan
+Running our Nmap scan , Query `nmap -p- -sCV 192.168.0.108 -v --min-rate=1000 -T4 -oN nmap_academy.txt`
+
+![](https://i.imgur.com/v6wqzFu.png)
+
+
 
