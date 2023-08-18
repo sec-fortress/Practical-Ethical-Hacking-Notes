@@ -25,7 +25,16 @@ Running our Nmap scan , Query `nmap -p- -sCV 192.168.0.108 -v --min-rate=1000 -T
 
 **Starting with FTP** 
 
-We have anonymous login on FTP, so let start out with that
+We have anonymous login on FTP, so let start out with that, Remember nmap told us we have `anonymous` login with a `note.txt`
+
+![](https://i.imgur.com/SHmlC7f.png)
+
+Checking what the note.txt has, give us this 
+
+![](https://i.imgur.com/MRhguMj.png)
+
+
+
 
 
 
