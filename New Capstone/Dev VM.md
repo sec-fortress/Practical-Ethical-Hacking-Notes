@@ -115,4 +115,5 @@ Let enumerate NFS , you can read on mounting NFS shares from [here](https://jame
 
 ![](https://i.imgur.com/lvZxlZp.png)
 
-I then decided to bruteforce the file and came across a tool called `fcrackzip` , you can install it doing `sudo apt install fcrackzip` on your terminal
+I then decided to bruteforce the file and came across a tool called `fcrackzip` , you can install it doing `sudo apt install fcrackzip` on your terminal and run it with `fcrackzip -b -l 5–12 -v -u <zip-file>`
+
