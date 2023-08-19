@@ -65,8 +65,9 @@ Great, we got shell back as `www-data` so we need to do privilege escalation
 
 ![](https://i.imgur.com/BoFJmdz.png)
 
-We will be using `Linpeas.sh` for this tutorial, you can transfer it to the target system by using python and wget 
+We will be using `Linpeas.sh` for this tutorial, you can transfer it to the target system by using python and wget , also make sure to grant executable permissions and run with `./linpeas.sh`
 
+![](https://i.imgur.com/X80fXIh.png)
 
 
 
