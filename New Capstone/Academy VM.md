@@ -75,4 +75,4 @@ We found a `backup.sh` folder on the home user `grimmie` but don't have write ac
 
 ![](https://i.imgur.com/gDzx9tR.png)
 
-
+We definitely need a way to pivot to `grimmie` cos' user `grimmie` has a file in it home directory runninh as cron jo
