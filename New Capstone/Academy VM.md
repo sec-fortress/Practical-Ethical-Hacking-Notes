@@ -47,5 +47,9 @@ We have a default Apache web page, trying out directory bruteforce gives us `aca
 
 Checking out `/academy` we have a login page, using the credentials we got `10201321:student` we were successfully logged in
 
+![](https://i.imgur.com/MX9LNyp.png)
+
+
+
 
 
