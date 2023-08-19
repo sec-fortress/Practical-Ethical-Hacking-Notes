@@ -125,3 +125,7 @@ Now that it is cracked , i guess we can read the information, i also guess the i
 
 ![](https://i.imgur.com/65mBaJZ.png)
 
+Trying to login, we are demanded a password key for the id_rsa, so let enumerate harder 
+
+![](https://i.imgur.com/jJRuc9J.png)
+
