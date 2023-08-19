@@ -37,7 +37,16 @@ Nice !!!, `cd73502828457d15655bbd7a63fb0bc8` , looks like a password though "Lea
 
 ![](https://i.imgur.com/BeXT0EU.png)
 
-We got the password which is `student` 
+We got the password which is `student` , we need to try it out somewhere so since we found port 80/HTTP , let check it out
+
+![](https://i.imgur.com/5hsUFWn.png)
+
+We have a default Apache web page, let try it out 
+
+![](https://i.imgur.com/jnxSiyX.png)
+
+
+
 
 
 
