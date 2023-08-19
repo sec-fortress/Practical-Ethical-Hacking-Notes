@@ -85,4 +85,4 @@ Running Directory Bruteforce with `ffuf` we have 6 entries found, let check them
 ![](https://i.imgur.com/XH4htVy.png)
 
 
-Nice soo, let enumerate vulnerabilities for versions of 
+Nice soo, let enumerate vulnerabilities for versions of frameworks used on the website , which i don't seem to find anything interesting, remember we also have port 8080/
