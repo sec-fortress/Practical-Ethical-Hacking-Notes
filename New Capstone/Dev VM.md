@@ -146,4 +146,6 @@ database:
 
 ## Privilege Escalation
 
-Doing `sudo -l` 
+Doing `sudo -l` tells us we can `zip` with sudo permissions
+
+
