@@ -53,7 +53,7 @@ Navigating the websites i found a file upload vulnerability on `/academy/my-prof
 
 ![](https://i.imgur.com/ORgyyqB.png)
 
-We can upload our PHP reverse shell file, Get one from https://www.revshells.com/ , save it in a file with the `.php` extension and 
+We can upload our PHP reverse shell file, Get one from https://www.revshells.com/ , save it in a file with the `.php` extension and upload it as an image file, but before we do that start a netcat listener with `nc -lvnp 1337` , then go ahead with uploading the PHP file
 
 
 
