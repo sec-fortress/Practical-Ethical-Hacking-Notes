@@ -49,7 +49,11 @@ Checking out `/academy` we have a login page, using the credentials we got `1020
 
 ![](https://i.imgur.com/MX9LNyp.png)
 
+Navigating the websites i found a file upload vulnerability on `/academy/my-profile.php`
 
+![](https://i.imgur.com/ORgyyqB.png)
+
+We can upload our PHP reverse shell file, Get one from https://www.revshells.com/ , save it in a file with the `.php` extension and 
 
 
 
