@@ -95,4 +95,8 @@ We can login using SSH, once logged in we can escalate privileges using the `bac
 
 ![](https://i.imgur.com/hS6S34A.png)
 
-We can see that this file is removing a zipped backup file and then somehow unzipping it to `/`
+We can see that this file is removing a zipped backup file and then somehow unzipping it to `/../../../../include` then granting it `r-w-x` execute permissions, let edit this file, i would replace all this with `/bin/bash`
+
+![](https://i.imgur.com/IHhpm68.png)
+
+
