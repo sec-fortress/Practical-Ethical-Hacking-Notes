@@ -129,7 +129,7 @@ Trying to login, we are demanded a password key for the id_rsa, so let enumerate
 
 ![](https://i.imgur.com/jJRuc9J.png)
 
-Going to `http://192.168.0.117/app/config/config.yml` we found some credentials there saying 
+Going to `http://192.168.0.117/app/config/config.yml` we found some credentials there saying , which definitely works when logging in to SSH with `jeanpaul` , sweet 😘
 
 ```yml
 # If you're trying out Bolt, just keep it set to SQLite for now.
@@ -140,4 +140,10 @@ database:
     password: I_love_java
 ```
 
+![](https://i.imgur.com/x3xWeUu.png)
 
+---
+
+## Privilege Escalation
+
+Doing `sudo -l` 
