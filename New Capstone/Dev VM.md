@@ -66,6 +66,8 @@ Service detection performed. Please report any incorrect results at https://nmap
 # Nmap done at Sat Aug 19 04:03:11 2023 -- 1 IP address (1 host up) scanned in 15.82 seconds
 ```
 
-We have port 80/HTTP opened, let check that out first 
+We have port 80/HTTP opened, checking it out looks like we've another default web page 
 
 ![](https://i.imgur.com/p9KMlEI.png)
+
+Running Directory Bruteforce with `ffuf` we have 6 
