@@ -123,5 +123,5 @@ I then decided to bruteforce the file and came across a tool called `fcrackzip` 
 
 Now that it is cracked , i guess we can read the information, i also guess the id_rsa key is for `jeanpaul`
 
-![Uploading file...rlcf5]()
+![](https://i.imgur.com/65mBaJZ.png)
 
