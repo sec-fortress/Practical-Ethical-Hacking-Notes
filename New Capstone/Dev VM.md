@@ -148,4 +148,10 @@ database:
 
 Doing `sudo -l` tells us we can `zip` with sudo permissions
 
+![](https://i.imgur.com/7IUf04x.png)
+
+Checking `GTFOBINS` gives us a way we can get root using `zip`
+
+![](https://i.imgur.com/X509mGc.png)
+
 
