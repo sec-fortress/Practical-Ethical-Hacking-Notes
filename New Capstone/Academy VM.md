@@ -99,7 +99,7 @@ We can see that this file is removing a zipped backup file and then somehow unzi
 
 ![](https://i.imgur.com/24ZRCpY.png)
 
-We got root successfully 
+We got root successfully 🥳
 
 ![](https://i.imgur.com/ULfumcp.png)
 
