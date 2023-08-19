@@ -89,5 +89,7 @@ Nice soo, let enumerate vulnerabilities for versions of frameworks used on the w
 
 ![](https://i.imgur.com/uS8i01U.png)
 
+However enumerating the PHP version doesn't seem to be giving, so i did directory Bruteforce and found 2 entries , 
 
+![](https://i.imgur.com/RP0rVDT.png)
 
