@@ -95,9 +95,15 @@ We can login using SSH, once logged in we can escalate privileges using the `bac
 
 ![](https://i.imgur.com/hS6S34A.png)
 
-We can see that this file is removing a zipped backup file and then somehow unzipping it to `/../../../../include` then granting it `r-w-x` execute permissions, let edit this file, i would replace all this with a bash reverse shell
+We can see that this file is removing a zipped backup file and then somehow unzipping it to `/../../../../include` then granting it `r-w-x` execute permissions, let edit this file, i would replace all this with a bash reverse shell , so anytime the cron job runs it give me back a shell as `root`
 
 ![](https://i.imgur.com/24ZRCpY.png)
+
+We got root successfully 
+
+![](https://i.imgur.com/ULfumcp.png)
+
+
 
 
 
