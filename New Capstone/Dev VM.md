@@ -95,3 +95,10 @@ However enumerating the PHP version doesn't seem to be giving, so i did director
 
 ![](https://i.imgur.com/8bm0ygB.png)
 
+I found a local file inclusion vulnerability but i need to be looged in first
+
+![](https://i.imgur.com/EBWrH6W.png)
+
+![](https://i.imgur.com/V16NJhZ.png)
+
+So i decided to create an account and then try it out
