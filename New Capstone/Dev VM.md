@@ -107,4 +107,5 @@ So i decided to create an account and then try it out, the vulnerability existed
 
 ![](https://i.imgur.com/GnVctnu.png)
 
-The user `/home/jeanpaul` existed , but we need a way to get the password, i can't read `/etc/shadow` , but
+The user `/home/jeanpaul` existed , but we need a way to get the password, i can't read `/etc/shadow` , but we still have one more service to enumerate which if `NFS` {Network File Sharing}
+
