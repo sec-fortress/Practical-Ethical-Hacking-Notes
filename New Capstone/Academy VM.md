@@ -89,4 +89,10 @@ Using the find command i looked for where this password is located inside a file
 
 ![](https://i.imgur.com/RK5Jhcp.png)
 
-We can login using SSH, once logged in we can escalate privileges using the `backup`
+We can login using SSH, once logged in we can escalate privileges using the `backup.sh` file by editing it
+
+![](https://i.imgur.com/MNkh58n.png)
+
+![](https://i.imgur.com/hS6S34A.png)
+
+We can see that this file is removing a zipped backup file and then somehow unzipping it to `/`
