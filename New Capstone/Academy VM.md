@@ -83,3 +83,4 @@ Looks like we have stored passwords somewhere, With this we can definitely escal
 
 ![](https://i.imgur.com/AEgi8Jd.png)
 
+So i used this command to find where this password is located inside a f
