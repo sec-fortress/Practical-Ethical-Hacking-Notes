@@ -41,13 +41,11 @@ We got the password which is `student` , we need to try it out somewhere so sinc
 
 ![](https://i.imgur.com/5hsUFWn.png)
 
-We have a default Apache web page, let try it out 
+We have a default Apache web page, trying out directory bruteforce gives us `academy` and `phpmyadmin` 
 
 ![](https://i.imgur.com/jnxSiyX.png)
 
-
-
-
+Checking out `/academy` we have a login page, using the credentials we got `10201321:student` we were successfully logged in
 
 
 
