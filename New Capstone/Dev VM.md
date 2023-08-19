@@ -74,4 +74,4 @@ Running Directory Bruteforce with `ffuf` we have 6 entries found, let check them
 
 ![](https://i.imgur.com/1acxDub.png)
 
-We do
+`/public` is a 301 that leads to a page we don't have access to , `/index.php` takes us back to the default page, `/src` is just an index page , 
