@@ -101,4 +101,9 @@ I found a local file inclusion vulnerability but i need to be looged in first
 
 ![](https://i.imgur.com/V16NJhZ.png)
 
-So i decided to create an account and then try it out
+So i decided to create an account and then try it out, the vulnerability existed
+
+![](https://i.imgur.com/UXrqKeV.png)
+
+![](https://i.imgur.com/GnVctnu.png)
+
