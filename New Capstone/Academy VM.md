@@ -69,8 +69,10 @@ We will be using `Linpeas.sh` for this lab, you can transfer it to the target sy
 
 ![](https://i.imgur.com/X80fXIh.png)
 
-We found a `backup.sh` folder on the home user `grimmie` but can't access th,  let keep hunting 
+We found a `backup.sh` folder on the home user `grimmie` but don't have write access to the file,  let keep hunting 
 
 ![](https://i.imgur.com/v4Tg06s.png)
+
+![](https://i.imgur.com/gDzx9tR.png)
 
 
