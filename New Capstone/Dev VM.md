@@ -70,4 +70,8 @@ We have port 80/HTTP opened, checking it out looks like we've another default we
 
 ![](https://i.imgur.com/p9KMlEI.png)
 
-Running Directory Bruteforce with `ffuf` we have 6 
+Running Directory Bruteforce with `ffuf` we have 6 entries found, let check them out
+
+![](https://i.imgur.com/1acxDub.png)
+
+We do
