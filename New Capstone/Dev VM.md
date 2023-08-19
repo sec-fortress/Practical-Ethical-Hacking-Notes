@@ -111,4 +111,8 @@ The user `/home/jeanpaul` existed , but we need a way to get the password, i can
 
 ![](https://i.imgur.com/LyqCVHj.png)
 
-Let enumerate NFS , you can read on mounting NFS shares from [here]()
+Let enumerate NFS , you can read on mounting NFS shares from [here](https://jamespatricksec.medium.com/enumerating-and-exploiting-nfs-1571cb484e16) , Tried several passwords but to no avail , right here we can see we have a `note.txt` and an `id_rsa` file
+
+![](https://i.imgur.com/lvZxlZp.png)
+
+I then decided to bruteforce the file and came accross a tool called `fcrackzip`
