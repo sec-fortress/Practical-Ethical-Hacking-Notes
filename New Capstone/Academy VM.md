@@ -61,6 +61,12 @@ Now paste in your reverse shell payload on the execute bar, i will be using `php
 
 ![](https://i.imgur.com/xG9ZJFD.png)
 
+Great, we got shell back as `www-data` so we need to do privilege escalation 
+
+![](https://i.imgur.com/BoFJmdz.png)
+
+We will be using `Linpeas.sh` for this tutorial, you can transfer it to the target system by using python and wget 
+
 
 
 
