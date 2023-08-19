@@ -69,6 +69,8 @@ We will be using `Linpeas.sh` for this lab, you can transfer it to the target sy
 
 ![](https://i.imgur.com/X80fXIh.png)
 
+We found a backup folder on 
 
+![Uploading file...51991]()
 
 
