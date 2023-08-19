@@ -83,4 +83,10 @@ Looks like we have stored passwords somewhere, With this we can definitely escal
 
 ![](https://i.imgur.com/AEgi8Jd.png)
 
-So i used this command to find where this password is located inside a f
+Using the find command i looked for where this password is located inside a file `find /var -type f -exec grep -l "My_V3ryS3cur3_P4ss" {} \;` , it was located under the `/var/www/html/academy/admin/includes/config.php` file
+
+![](https://i.imgur.com/kEPayI7.png)
+
+![](https://i.imgur.com/RK5Jhcp.png)
+
+We can login using SSH, once logged in we can escalate privileges using the `backup`
