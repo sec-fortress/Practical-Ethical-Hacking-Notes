@@ -89,7 +89,9 @@ Nice soo, let enumerate vulnerabilities for versions of frameworks used on the w
 
 ![](https://i.imgur.com/uS8i01U.png)
 
-However enumerating the PHP version doesn't seem to be giving, so i did directory Bruteforce and found 2 entries , 
+However enumerating the PHP version doesn't seem to be giving, so i did directory Brute force and found 2 entries , `/index.php` takes us back to the default page but `/dev` gives us a successfully installed page of the `bolt` default page that was wrongly configured on port 80/HTTP
 
 ![](https://i.imgur.com/RP0rVDT.png)
+
+![](https://i.imgur.com/8bm0ygB.png)
 
