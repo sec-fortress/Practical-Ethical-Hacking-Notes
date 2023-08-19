@@ -79,3 +79,7 @@ We definitely need a way to pivot to `grimmie` cos' user `grimmie` has a file in
 
 ![](https://i.imgur.com/BaM9Dzy.png)
 
+Looks like we have stored passwords somewhere, With this we can definitely escalate to `grimmie`
+
+![](https://i.imgur.com/AEgi8Jd.png)
+
