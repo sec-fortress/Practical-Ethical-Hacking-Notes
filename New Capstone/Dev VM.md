@@ -95,13 +95,13 @@ However enumerating the PHP version doesn't seem to be giving, so i did director
 
 ![](https://i.imgur.com/8bm0ygB.png)
 
-I found a local file inclusion vulnerability but i need to be looged in first
+I found a local file inclusion vulnerability but i need to be logged in first , you can read about it from [here](https://www.exploit-db.com/exploits/48411)
 
 ![](https://i.imgur.com/EBWrH6W.png)
 
 ![](https://i.imgur.com/V16NJhZ.png)
 
-So i decided to create an account and then try it out, the vulnerability existed
+So i decided to create an account and then try it out, the vulnerability existed, **local file inclusion**
 
 ![](https://i.imgur.com/UXrqKeV.png)
 
