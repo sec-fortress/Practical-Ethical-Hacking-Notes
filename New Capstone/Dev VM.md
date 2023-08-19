@@ -4,6 +4,7 @@ As usual login with `root:tcm` , do `dhclient` and then `ip a` to get ip address
 
 Connect to target via SSH  to make things easier 
 
-![Uploading file...36syk]()
+![](https://i.imgur.com/TF1sW8Z.png)
 
-Now let s
+Now let start attacking to get root , run your nmap scan
+
