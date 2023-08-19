@@ -154,4 +154,8 @@ Checking `GTFOBINS` gives us a way we can get root using `zip`
 
 ![](https://i.imgur.com/X509mGc.png)
 
+Hell yeah and we are root 🤟😅
+
+![](https://i.imgur.com/pqEFqQL.png)
+
 
