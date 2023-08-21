@@ -53,8 +53,8 @@ Navigating to `/secret` we are asked to download a file, after downloading we go
 
 Nice, a quick help, since we have port 53 opened let perform a zone transfer, we can add the target to our `/etc/hosts` file giving it any domain name you wish to
 
-![](https://i.imgur.com/5VAZcOg.png)
 
-Trying out zone tran
+
+Trying out zone transfer, Looks like every attempt failed 
 
 
