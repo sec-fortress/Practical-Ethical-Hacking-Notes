@@ -74,7 +74,7 @@ Definitely `/index.php` will take us back to the phpinfo page sooo, let check ou
 
 ![](https://i.imgur.com/LyQqTDI.png)
 
-Enumerating this version gives an `# (Unauthenticated) Remote Code Execution` , i also did a directory bruteforce just to be sure on `http://blackpearl.tcm/navigate` and got alot of entries
+Enumerating this version gives an `# (Unauthenticated) Remote Code Execution` , i also did a directory bruteforce just to be sure on `http://blackpearl.tcm/navigate` and got alot of entries, Nothing seems to be giving good vibes except the `/login.php` 
 
 ![](https://i.imgur.com/hGci25k.png)
 
