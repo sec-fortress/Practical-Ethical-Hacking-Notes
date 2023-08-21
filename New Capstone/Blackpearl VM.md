@@ -86,8 +86,14 @@ Going back to the `(Unauthenticated) Remote Code Execution` vulnerability, let l
 
 ### Privilege Escalation
 
-as usual, i will transfer Linpeas first for further investigations 
+as usual, i will transfer Linpeas first for further investigations 😆
 
 ![](https://i.imgur.com/c8YrdLl.png)
 
-- Check for suid
+- First of all we have the user `alek`
+
+![](https://i.imgur.com/uiYfoGc.png)
+
+- We can run `sudo -l` cos' sudo isn't installed on `www-data`
+- Checking for `SUID` we have an unusual binary here which is `/usr/bin/php7.3`
+
