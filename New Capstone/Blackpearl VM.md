@@ -72,4 +72,6 @@ Definitely `/index.php` will take us back to the phpinfo page sooo, let check ou
 + I couldn't login with default Credentials
 + Checking the source code i can see the CMS version
 
-![Uploading file...ac1o7]()
+![](https://i.imgur.com/LyQqTDI.png)
+
+Enumerating this version gives an `# (Unauthenticated) Remote Code Execution` , you can find the exploits here 
