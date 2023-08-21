@@ -103,3 +103,6 @@ Great `GTFOBINS` has a payload for it to escalate to root using `PHP`, Tweaking 
 
 ![](https://i.imgur.com/dfwVNWV.png)
 
++ Then we are root, We did not need `Linpeas` 😆, Always Enumerate first!! bankaiiii 🎎🤟
+
+![](https://i.imgur.com/qial4zC.png)
