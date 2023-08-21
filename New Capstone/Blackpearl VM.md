@@ -59,3 +59,7 @@ Trying out zone transfer, Looks like every attempt failed 😭 But navigating ba
 
 ![](https://i.imgur.com/7jrkrxJ.png)
 
+![](https://i.imgur.com/KM4NvgK.png)
+
+Great !!, Then we can do a directory bruteforce once again on `blackpearl.tcm` this time, not the IP Address
+
