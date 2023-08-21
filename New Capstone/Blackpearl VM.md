@@ -53,9 +53,9 @@ Navigating to `/secret` we are asked to download a file, after downloading we go
 
 Nice, a quick help, since we have port 53 opened let perform a zone transfer, we can add the target to our `/etc/hosts` file giving it the domain name `blackpearl.tcm`
 
+![](https://i.imgur.com/4Muv2Zk.png)
 
+Trying out zone transfer, Looks like every attempt failed 😭 But navigating back to the website gives us a `phpinfo` page
 
-
-Trying out zone transfer, Looks like every attempt failed 
-
+![](https://i.imgur.com/7jrkrxJ.png)
 
