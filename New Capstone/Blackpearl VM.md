@@ -51,3 +51,7 @@ Navigating to `/secret` we are asked to download a file, after downloading we go
 
 ![](https://i.imgur.com/Yocj6XK.png)
 
+Nice, a quick help, since we have port 53 opened let perform zo we can add the target to our `/etc/hosts` file giving it any domain name you wish to
+
+
+
