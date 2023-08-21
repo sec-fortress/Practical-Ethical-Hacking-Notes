@@ -69,3 +69,7 @@ Definitely `/index.php` will take us back to the phpinfo page sooo, let check ou
 
 ![](https://i.imgur.com/Q5emdP0.png)
 
++ I couldn't login with default Credentials
++ Checking the source code i can see the CMS version
+
+![Uploading file...ac1o7]()
