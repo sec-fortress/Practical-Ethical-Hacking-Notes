@@ -43,4 +43,7 @@ Starting out with port `80/HTTP` , we have an nginx server web page
 
 ![](https://i.imgur.com/txWYUi2.png)
 
-Let run Directory Bruteforce since 
+Let run Directory Brute force since checking `/robots.txt` doesn't seems to give leads
+
+
+
