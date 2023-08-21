@@ -86,4 +86,8 @@ Going back to the `(Unauthenticated) Remote Code Execution` vulnerability, let l
 
 ### Privilege Escalation
 
-as usus
+as usual, i will transfer Linpeas first for further investigations 
+
+![](https://i.imgur.com/c8YrdLl.png)
+
+- Check for suid
