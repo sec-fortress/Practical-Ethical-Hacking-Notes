@@ -47,6 +47,7 @@ Running Directory Brute force gives us a `/secret` page since checking `/robots.
 
 ![](https://i.imgur.com/NykjLj3.png)
 
+Navigating to `/secret` we are asked to download a file, after downloading we got this message 😂
 
 
 
