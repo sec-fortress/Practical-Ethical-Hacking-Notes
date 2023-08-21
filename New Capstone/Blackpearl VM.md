@@ -82,3 +82,8 @@ Going back to the `(Unauthenticated) Remote Code Execution` vulnerability, let l
 
 ![Getting the reverse shell](https://i.imgur.com/AieTDDY.png)
 
+![stty shell for more stable shell](https://i.imgur.com/XTkLHsd.png)
+
+### Privilege Escalation
+
+as usus
