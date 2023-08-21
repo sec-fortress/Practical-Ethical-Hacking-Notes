@@ -51,4 +51,3 @@ Navigating to `/secret` we are asked to download a file, after downloading we go
 
 ![](https://i.imgur.com/Yocj6XK.png)
 
-
