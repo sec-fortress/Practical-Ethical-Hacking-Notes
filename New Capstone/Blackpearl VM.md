@@ -78,3 +78,4 @@ Enumerating this version gives an `# (Unauthenticated) Remote Code Execution` , 
 
 ![](https://i.imgur.com/hGci25k.png)
 
+Going back to the `(Unauthenticated) Remote Code Execution` vulnerability, let look further into it in which you can get the exploit from [here](https://github.com/0x4r2/Navigate-CMS-RCE-Unauthenticated-), Also make sure to follow the guidelines on setting up the exploit on the page
