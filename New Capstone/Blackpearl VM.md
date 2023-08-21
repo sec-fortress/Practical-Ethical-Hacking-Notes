@@ -63,3 +63,9 @@ Trying out zone transfer, Looks like every attempt failed 😭 But navigating ba
 
 Great !!, Then we can do a directory bruteforce once again on `blackpearl.tcm` this time, not the IP Address
 
+![](https://i.imgur.com/cQNERGJ.png)
+
+Definitely `/index.php` will take us back to the phpinfo page sooo, let check out `/navigate` which we are referred to a login page
+
+![](https://i.imgur.com/Q5emdP0.png)
+
