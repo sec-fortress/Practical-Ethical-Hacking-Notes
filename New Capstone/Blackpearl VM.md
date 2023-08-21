@@ -11,7 +11,7 @@ Connect via SSH to make it easier to communicate with targets (Optional)
 
 ![](https://i.imgur.com/ndc7jvJ.png)
 
-Running our Nmap scan to probe/discover Network open ports, We have Port 22, 53 and 80 opened
+Running our Nmap scan to probe/discover Network open ports, We have Port 22, 53 and 80 opened.
 
 ```sh
 # Nmap 7.94 scan initiated Mon Aug 21 08:18:55 2023 as: nmap -p- -sCV -v --min-rate=1000 -T4 -oN nmap.txt 192.168.0.166
@@ -38,3 +38,9 @@ Read data files from: /usr/bin/../share/nmap
 Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
 # Nmap done at Mon Aug 21 08:19:17 2023 -- 1 IP address (1 host up) scanned in 22.22 seconds
 ```
+
+Starting out with port `80/HTTP` , we have an nginx server web page
+
+![](https://i.imgur.com/txWYUi2.png)
+
+Let run Directory Bruteforce since 
