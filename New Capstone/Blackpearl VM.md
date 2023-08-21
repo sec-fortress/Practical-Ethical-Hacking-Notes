@@ -55,6 +55,6 @@ Nice, a quick help, since we have port 53 opened let perform a zone transfer, we
 
 ![](https://i.imgur.com/5VAZcOg.png)
 
-
+Trying out zone tran
 
 
