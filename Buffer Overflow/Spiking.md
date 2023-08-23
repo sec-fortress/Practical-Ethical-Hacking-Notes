@@ -1,1 +1,2 @@
-First of Run the Vulnserver with administrative priv
+First of Run the Vulnserver with administrative privileges
+
