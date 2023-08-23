@@ -44,4 +44,4 @@ s_string_variable("0");
 
 ![](https://i.imgur.com/QUWwcct.png)
 
-The next is `TRUN`, the server doesn't seem vul
+The next is `TRUN`, the server doesn't seem vulnerable to the `STATS` 
