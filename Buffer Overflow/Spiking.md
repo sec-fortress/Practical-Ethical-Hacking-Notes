@@ -6,4 +6,13 @@ Then run `immunity debugger` with administrative privileges also
 
 ![](https://i.imgur.com/oPbscrI.png)
 
-Click `File`
+On the Menu Bar, Click `File` then `Attach`
+
+![](https://i.imgur.com/O27nn37.png)
+
+Now select `vulnserver` from the drop down list and click `Attach`
+
+![](https://i.imgur.com/XrzkOzH.png)
+
+
+
