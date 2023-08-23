@@ -26,4 +26,6 @@ If you are having problems (Probably you are using windows in RDP like me) , thi
 
 ![](https://i.imgur.com/DIP4Nfv.png)
 
+Next thing to do, type `EXIT` to exit the session and do `generic_send_tcp`
+
 
