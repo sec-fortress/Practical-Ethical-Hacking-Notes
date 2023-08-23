@@ -2,6 +2,11 @@ Attackers exploit buffer overflow issues by overwriting the memory of an applica
 
 If attackers know the memory layout of a program, they can intentionally feed input that the buffer cannot store, and overwrite areas that hold executable code, replacing it with their own code. For example, an attacker can overwrite a pointer (an object that points to another area in memory) and point it to an exploit payload, to gain control over the program.
 
+### Quick Visual Recap
+
+- In the Stack we are overflowing the buffer space to reach the **EIP**
+- We can use the **EIP** to point into directions that we instruct
+![1-anathomy-of-the-memory](https://github.com/encryptedninja/command-center/raw/master/buffer_overflow/images/1-anatomy_of_the_memory.png)![2-anatomy_of_the_stack](https://github.com/encryptedninja/command-center/raw/master/buffer_overflow/images/2-anatomy_of_the_stack.png) ![3-overflow](https://github.com/encryptedninja/command-center/raw/master/buffer_overflow/images/3-overflow.png)
 ### Steps to Conduct a Buffer Overflow Attack
 
 - [+] Spiking
