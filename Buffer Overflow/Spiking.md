@@ -14,5 +14,9 @@ Now select `vulnserver` from the drop down list and click `Attach`
 
 ![](https://i.imgur.com/XrzkOzH.png)
 
+Once done, you should see a lot of new stuff on the screen, click the `run` icon to start running
+
+![](https://i.imgur.com/jmoMXPz.png)
+
 
 
