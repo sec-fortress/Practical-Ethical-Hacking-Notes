@@ -30,10 +30,12 @@ Next thing to do, type `EXIT` to exit the session and do `generic_send_tcp`
 
 ![](https://i.imgur.com/T68jrTd.png)
 
-Through the syntax , we need a `spike_script` so let make that :
+Through the syntax , we need a `spike_script` so let make that, Make sure to save it with the `.spk` extension :
 
-```spk
+```spike
 s_readline();
 s_string("STATS ");
-
+s_string_variable("0");
 ```
+
+> In spiking we are literally sending all kin
