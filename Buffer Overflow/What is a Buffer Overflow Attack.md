@@ -13,3 +13,6 @@ If attackers know the memory layout of a program, they can intentionally feed in
 - [ ] Generating Shellcode
 - [ ] Root!!
 
+### Getting Started
+
+Download immunity Debugger from [here](https://debugger.immunityinc.com/ID_register.py) , then download the vulnserver from [here](https://github.com/stephenbradshaw/vulnserver) 
