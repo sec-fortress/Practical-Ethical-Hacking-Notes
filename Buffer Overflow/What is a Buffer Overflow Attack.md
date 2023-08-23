@@ -2,5 +2,14 @@ Attackers exploit buffer overflow issues by overwriting the memory of an applica
 
 If attackers know the memory layout of a program, they can intentionally feed input that the buffer cannot store, and overwrite areas that hold executable code, replacing it with their own code. For example, an attacker can overwrite a pointer (an object that points to another area in memory) and point it to an exploit payload, to gain control over the program.
 
-Ty
+### Steps to Conduct a Buffer Overflow Attack
+
+- [+] Spiking
+- [ ] Fuzzing
+- [ ] Finding the offset
+- [ ] Overwriting the EIP
+- [ ] Finding bad characters
+- [ ] Finding the right module
+- [ ] Generating Shellcode
+- [ ] Root!!
 
