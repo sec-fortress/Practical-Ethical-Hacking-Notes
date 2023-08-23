@@ -44,4 +44,11 @@ s_string_variable("0");
 
 ![](https://i.imgur.com/QUWwcct.png)
 
-The next is `TRUN`, the server doesn't seem vulnerable to the `STATS` 
+The next is `TRUN`, the server doesn't seem vulnerable to the `STATS` command, we will use the same spike code but interchange `STATS` for `TRUN` :
+
+```spike
+s_readline();
+s_string("TRUN ");
+s_string_variable("0");
+```
+
