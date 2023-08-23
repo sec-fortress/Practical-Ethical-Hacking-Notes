@@ -40,5 +40,8 @@ s_string_variable("0");
 
 > In spiking we are literally sending all kinds of different characters to break the program
 
-<!--⚠️Imgur upload failed, check dev console-->
-![[Pasted image 20230823162210.png]]
+![](https://i.imgur.com/TkZLdIa.png)
+
+![](https://i.imgur.com/QUWwcct.png)
+
+The next is `TRUN`, the server doesn't seem vul
