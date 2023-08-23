@@ -15,4 +15,7 @@ If attackers know the memory layout of a program, they can intentionally feed in
 
 ### Getting Started
 
-Download immunity Debugger from [here](https://debugger.immunityinc.com/ID_register.py) , then download the vulnserver from [here](https://github.com/stephenbradshaw/vulnserver) 
+- Make sure you have a Windows operating system (windows 10 Preferably)
+- Download immunity Debugger from [here](https://debugger.immunityinc.com/ID_register.py) , then download the vulnserver from [here](https://github.com/stephenbradshaw/vulnserver) (Make sure it is the complete zipped file) 
+- Now install immunity debugger, Note : you might be asked to install python2 so click "yes" or "accept"
+- Now we are ready

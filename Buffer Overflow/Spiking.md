@@ -1,1 +1,1 @@
-First of
+First of Run the Vulnserver with administrative priv
