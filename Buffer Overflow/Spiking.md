@@ -30,4 +30,10 @@ Next thing to do, type `EXIT` to exit the session and do `generic_send_tcp`
 
 ![](https://i.imgur.com/T68jrTd.png)
 
+Through the syntax , we need a `spike_script` so let make that :
 
+```spk
+s_readline();
+s_string("STATS ");
+
+```
