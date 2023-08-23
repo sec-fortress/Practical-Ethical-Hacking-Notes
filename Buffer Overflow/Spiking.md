@@ -38,4 +38,4 @@ s_string("STATS ");
 s_string_variable("0");
 ```
 
-> In spiking we are literally sending all kin
+> In spiking we are literally sending all kinds of different characters to break the program
