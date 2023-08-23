@@ -28,4 +28,6 @@ If you are having problems (Probably you are using windows in RDP like me) , thi
 
 Next thing to do, type `EXIT` to exit the session and do `generic_send_tcp`
 
+![](https://i.imgur.com/T68jrTd.png)
+
 
