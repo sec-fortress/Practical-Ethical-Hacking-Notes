@@ -52,3 +52,10 @@ s_string("TRUN ");
 s_string_variable("0");
 ```
 
+![](https://i.imgur.com/DpOAYpB.png)
+
+The output here as we can see, sends sequence of a's and the EIP is what we are gonna take advantage of
+
+![](https://i.imgur.com/MN2j7CY.png)
+
+
