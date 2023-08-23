@@ -18,5 +18,12 @@ Once done, you should see a lot of new stuff on the screen, click the `run` icon
 
 ![](https://i.imgur.com/jmoMXPz.png)
 
+Now head over to your Kali machine and do `nc -nv 192.168.0.106 9999` to connect to the vulnserver
+
+![](https://i.imgur.com/brqM1H7.png)
+
+If you are having problems (Probably you are using windows in RDP like me) , this should help
+
+![](https://i.imgur.com/DIP4Nfv.png)
 
 
