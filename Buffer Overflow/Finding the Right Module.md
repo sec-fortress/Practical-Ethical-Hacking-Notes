@@ -54,4 +54,7 @@ except:
         sys.exit()
 ```
 
-- First of all if you notice in this script we have a standalone hex which is `625011af` gotten from the first result 
+- First of all if you notice in this script we have a standalone hex which is `625011af` gotten from the first result in the highlighted box we mentioned earlier and as you can se down the image below `0x` was stripped off
+![](https://i.imgur.com/KvpK6R7.png)
+- then the line `shellcode = "A" * 2003 + "\xaf\x11\x50\62"`
+
