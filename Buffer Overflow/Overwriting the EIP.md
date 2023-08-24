@@ -18,3 +18,6 @@ except:
         print ("Error Connecting to the server")
         sys.exit()
 ```
+
+- Save the script and grant executable permissions, then run it
+
