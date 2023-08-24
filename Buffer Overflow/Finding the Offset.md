@@ -1,2 +1,2 @@
-Talking about finding the offset, we will be looking for where we can overwrite the EIP
-
+- Talking about finding the offset, we will be looking for where we can overwrite the EIP
+- Luckily metasploit has a tool for these and  it is located under the `/usr/share/metasploit-framework/tools/exploit/pattern_create.rb` 
