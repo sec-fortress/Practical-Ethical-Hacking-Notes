@@ -76,9 +76,5 @@ The next thing to do us to set up a break point, just click on the line and pres
 
 ![](https://i.imgur.com/6AhzmLs.png)
 
-Click the run button on immunity debugger and execute the python script we talked about earlier and we should see that we have affected the breakpo
-
-
-
-
+Click the run button on immunity debugger and execute the python script we talked about earlier and we should see that we have affected the `EIP` changing it to "625011af"
 
