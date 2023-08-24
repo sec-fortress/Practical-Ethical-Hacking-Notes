@@ -57,5 +57,5 @@ Run the script and see if any hex character here is missing e.g After running th
 
 ![](https://i.imgur.com/4BqUlIy.png)
 
-- However consecutive characters that follow each other are not bad e.g 04 and 05, in which 05 is the bad character here
+- However consecutive characters that follow each other are not bad e.g 04 and 05, in which 04 is the bad character here
 
