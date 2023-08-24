@@ -30,4 +30,4 @@ while True:
   time.sleep(1)
 ```
 
-The purpose of this script is so far there is connect
+The purpose of this script is so far there is connection to our target which is specified with the `ip` and `port` , it will keep sending buffer, we are trying to narrow down where things are breaking and it byte size
