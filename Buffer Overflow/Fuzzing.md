@@ -34,4 +34,4 @@ The purpose of this script is so far there is connection to our target which is 
 
 - Now run your script and notice what is going on
 
-![](https://i.imgur.com/a4kuXNN.png)
+![](https://i.imgur.com/rRMMTot.gif)
