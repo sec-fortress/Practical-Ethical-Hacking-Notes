@@ -29,3 +29,6 @@ So the hex code equivalent of `JMP ESP` is `FFE4`
 
 - We will go back to our immunity debugger and type in this command `!mona find -s "x\ff\e4" -m essfunc.dll` , make sure there is a "\x" followed by two pairs of hex in other to separate the hex in `"\xff\xe4"` and also the major reason why we are using **essfunc.dll** is because that is the program that has the False statement all through in a row , Now click enter
 
+![](https://i.imgur.com/2iJD21A.png)
+
+The highlighted bo
