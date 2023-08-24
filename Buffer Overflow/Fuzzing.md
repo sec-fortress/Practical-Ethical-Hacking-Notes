@@ -35,3 +35,5 @@ The purpose of this script is so far there is connection to our target which is 
 - Now run your script and notice what is going on
 
 ![](https://i.imgur.com/rRMMTot.gif)
+
+- As you can see the `A * 100` in our script took effect and the payload `TRUN /.:/` was also there, What we are trying to do here is to manipulate the **EIP**
