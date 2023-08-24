@@ -59,7 +59,9 @@ except:
 
 - then the line `shellcode = "A" * 2003 + "\xaf\x11\x50\62"` in which A is sent 2003 times with the TRUN command and the `"\xaf\x11\x50\62"` is still the number we had but starting from the back with \x (because of some x86 architecture) 
 
-Now navigate back to immunity debugger and minimize the tab and maximize it to clear the command output center
+Now navigate back to immunity debugger and minimize the tab and maximize it back to clear the command output center
+
+![](https://i.imgur.com/87DKyzx.png)
 
 
 
