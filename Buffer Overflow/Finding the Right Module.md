@@ -64,10 +64,11 @@ Now navigate back to immunity debugger and minimize the tab and maximize it back
 ![](https://i.imgur.com/87DKyzx.png)
 
 
-	Click on the blackish right arrow on the tools bar and you should see an enter expression tab, then enter our jump code which is 
+Click on the blackish right arrow on the tools bar and you should see an enter expression tab, then enter our jump code which is `625011af` then click "OK"
 
 ![](https://i.imgur.com/lDMN3pM.png)
 
+Check the first square tab and you should see the 
 
 
 
