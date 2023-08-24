@@ -23,4 +23,6 @@ except:
 
 ![](https://i.imgur.com/frEb7Bg.gif)
 
-What we did here is overwrite the `EIP` , 
+What we did here is overwrite the `EIP` , the line `shellcode = "A" * 2003 + "B" * 4` sends A, 2003 times then `"B" * 4` will set the `EIP` to 42424242 since B is in position 2
+
+![](https://i.imgur.com/1tv0WSU.png)
