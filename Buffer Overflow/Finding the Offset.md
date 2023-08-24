@@ -43,4 +43,11 @@ As we can see here our `TRUN` command in our script got executed and it affected
 /usr/share/metasploit-framework/tools/exploit/pattern_offset.rb -l 3000 -q 386F4337
 ```
 
-Not
+Note that the -q option is the value given to us by the `EIP` 
+![](https://i.imgur.com/tTmHmeA.png)
+
+Running it should give you this, in which we have successfully found the offset
+
+![](https://i.imgur.com/yXhDnGe.png)
+
+
