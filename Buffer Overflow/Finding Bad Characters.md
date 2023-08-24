@@ -1,6 +1,6 @@
 Finding bad characters is almost in relation to generating shellcode, when running shellcode we need to know what characters are good and bad for the shellcode.
 
-We can determine this by taking a couple of hex from the GitHub links below and finding which ones have been filtered out by our program in immunity debugger
+We can determine this by taking a couple of hex from the GitHub link below and finding which ones have been filtered out by our program in immunity debugger
 
 - Navigate to https://github.com/cytopia/badchars
 - Open our last python script used in [[Overwriting the EIP]] and paste bad chars from the GitHub link into it , also make a little modification as we can see down below
