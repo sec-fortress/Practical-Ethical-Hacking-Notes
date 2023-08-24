@@ -7,3 +7,6 @@
 ```
 
 ![](https://i.imgur.com/BFPYS3f.png)
+
+- Now we can copy this output and modify the script we used in fuzzing to these :
+
