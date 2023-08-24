@@ -1,5 +1,5 @@
 
-Fuzzing is just like spiking, but now that we know that this server is vulnerable to `TRUN` and not `STATS` we will use this python script for it
+Fuzzing is just like spiking, but now that we know that this server is vulnerable to `TRUN` and not `STATS` we will use this python3 script for it :
 
 ```python
 #!/usr/bin/env python3
@@ -29,3 +29,5 @@ while True:
   string += 100 * "A"
   time.sleep(1)
 ```
+
+The purpose of this script is so far there is connect
