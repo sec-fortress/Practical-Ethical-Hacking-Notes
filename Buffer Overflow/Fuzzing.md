@@ -35,3 +35,5 @@ The purpose of this script is so far there is connection to our target which is 
 - Save your script with `.py` and make sure you have immunity debugger and vulnserver ready
 - Also make sure you click the `run` button first on immunity debugger before moving on
 
+![](https://i.imgur.com/80EQ0QI.png)
+
