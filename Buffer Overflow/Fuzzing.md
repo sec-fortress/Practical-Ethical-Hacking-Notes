@@ -1,5 +1,5 @@
 
-Fuzzing is just like spiking, but now that we know that this server is vulnerable to `TRUN` and not `STATS` we will use this python3 script for it :
+Fuzzing is just like spiking, but now that we know that this server is vulnerable to `TRUN` and not `STATS` we will use this python2 script for it :
 
 ```python
 #!/usr/bin/env python3
@@ -37,3 +37,6 @@ The purpose of this script is so far there is connection to our target which is 
 
 ![](https://i.imgur.com/80EQ0QI.png)
 
+- Now run your script and notice what is going on
+
+![](https://i.imgur.com/a4kuXNN.png)
