@@ -26,3 +26,5 @@ What we are saying in finding the right module is that we are looking for a DLL 
 ![](https://i.imgur.com/gatZgbH.png)
 
 So the hex code equivalent of `JMP ESP` is `FFE4` 
+
+- We will go back to our immunity debugger and type in this command `!mona `
