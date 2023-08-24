@@ -3,7 +3,7 @@ Finding bad characters is almost in relation to generating shellcode, when runni
 We can deter
 
 - Navigate to https://github.com/cytopia/badchars
-- Open our last python script used in [[Overwriting the EIP]] and paste bad chars from the GitHub link into it
+- Open our last python script used in [[Overwriting the EIP]] and paste bad chars from the GitHub link into it , also make a little modification as we can see down below
 
 ![](https://i.imgur.com/4OKCs9D.png)
 
@@ -42,3 +42,5 @@ except:
         print ("Error Connecting to the server")
         sys.exit()
 ```
+
+Running the script and see if any hex character here is missing e.g After running the script and go b
