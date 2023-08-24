@@ -37,4 +37,10 @@ As we can see here our `TRUN` command in our script got executed and it affected
 ![](https://i.imgur.com/pkGSf7R.png)
 
 
-- this time instead of the `pattern_create.rb` script
+- this time instead of the `pattern_create.rb` script from metasploit, we will use the `pattern_offset,rb` script
+
+```shell
+/usr/share/metasploit-framework/tools/exploit/pattern_offset.rb -l 3000 -q 386F4337
+```
+
+Not
