@@ -46,3 +46,9 @@ except:
 Run the script and see if any hex character here is missing e.g After running the script and go back to our immunity debugger do we see any characters from `x01` to `xff` missing??
 
 - After running the script navigate to the immunity debugger, then go to the `Registers` tab and right click on the `ESP`
+
+![](https://i.imgur.com/W4yQJni.png)
+
+- Now click on `Follow in Dump` and navigate to the `Hex Dump` tab, after this start to look for any missing characters, in vulnserver we won't find any missing characters cos' it was 
+
+![](https://i.imgur.com/nZUASEJ.png)
