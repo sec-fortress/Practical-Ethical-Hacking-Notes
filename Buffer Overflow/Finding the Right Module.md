@@ -74,7 +74,9 @@ Check the first square tab and you should see the hex code we saw using nasm
 
 The next thing to do us to set up a break point, just click on the line and press "f2" on your keyboard and the `625011af` should be highlighted with light blue
 
+![](https://i.imgur.com/6AhzmLs.png)
 
+Click the run button on immunity debugger and execute the python script we talked about earlier and we should see that we have affected the breakpo
 
 
 
