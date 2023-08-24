@@ -32,4 +32,9 @@ except:
 
 ![](https://i.imgur.com/UMo5tY2.gif)
 
-As we can see here out `TRUN` command in our script got executed
+As we can see here our `TRUN` command in our script got executed and it affected the `EAX` down to the `EIP`, But we still need a way to affect the `EIP` value which is 386F4337
+
+![](https://i.imgur.com/pkGSf7R.png)
+
+
+- this time instead of the `pattern_create.rb` script
