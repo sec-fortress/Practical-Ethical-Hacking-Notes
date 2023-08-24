@@ -68,7 +68,11 @@ Click on the blackish right arrow on the tools bar and you should see an enter e
 
 ![](https://i.imgur.com/lDMN3pM.png)
 
-Check the first square tab and you should see the 
+Check the first square tab and you should see the hex code we saw using nasm
+
+![](https://i.imgur.com/grMUgTO.png)
+
+The next thing to do us to set up a breakpoint, just click on the line and 
 
 
 
