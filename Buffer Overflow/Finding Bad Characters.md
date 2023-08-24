@@ -45,4 +45,4 @@ except:
 
 Run the script and see if any hex character here is missing e.g After running the script and go back to our immunity debugger do we see any characters from `x01` to `xff` missing??
 
-- First of navigate to the immunity debugger, then go to the `Registers` tab and right click on the `ESP`
+- After running the script navigate to the immunity debugger, then go to the `Registers` tab and right click on the `ESP`
