@@ -19,3 +19,6 @@ What we are saying in finding the right module is that we are looking for a DLL 
 	- Goto your kali terminal and locate `nasm_shell.rb`
 	- Copy the output and paste on your terminal, then click enter
 
+![](https://i.imgur.com/pzDMUSn.png)
+
+- What we are trying to do is convert assembly language into hex code, type in `JMP ESP` on your terminal which is a jump command
