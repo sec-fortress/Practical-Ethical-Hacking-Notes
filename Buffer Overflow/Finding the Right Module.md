@@ -31,4 +31,4 @@ So the hex code equivalent of `JMP ESP` is `FFE4`
 
 ![](https://i.imgur.com/2iJD21A.png)
 
-The highlighted box result is what we are more interested in, so go back to your 
+The highlighted box result is what we are more interested in, so go back to your terminal and exit the nasm_shell.rb  
