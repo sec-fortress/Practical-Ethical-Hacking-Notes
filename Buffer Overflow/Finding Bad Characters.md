@@ -1,0 +1,1 @@
+Finding bad characters is almost in relation to generating shellcode, when running shellcode we need to know what characters are good and bad for the shellcode
