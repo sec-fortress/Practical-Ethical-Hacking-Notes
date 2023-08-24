@@ -15,10 +15,14 @@ What we are saying in finding the right module is that we are looking for a DLL 
 
 ![](https://i.imgur.com/QR7wUnD.png)
 
-- The next thing to do is to find the **app code equivalent of a jump** , to do this:
+- The next thing to do is to find the **hex code equivalent of a jump** , to do this:
 	- Goto your kali terminal and locate `nasm_shell.rb`
 	- Copy the output and paste on your terminal, then click enter
 
 ![](https://i.imgur.com/pzDMUSn.png)
 
 - What we are trying to do is convert assembly language into hex code, type in `JMP ESP` on your terminal which is a jump command
+
+![](https://i.imgur.com/gatZgbH.png)
+
+So the hex code equivalent of `JMP ESP` is `FFE4`
