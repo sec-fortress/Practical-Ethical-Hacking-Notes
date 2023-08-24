@@ -38,7 +38,7 @@ The highlighted box result is what we are more interested in, so go back to your
  
 import sys, socket
 
-625011af
+# 625011af
 
 # replace 2003 with the offset you got 
 shellcode = "A" * 2003 + "\xaf\x11\x50\62"
@@ -54,7 +54,7 @@ except:
         sys.exit()
 ```
 
-- First of all if you notice in this script we have a standalone hex which is `625011af` gotten from the first result in the highlighted box we mentioned earlier and as you can se down the image below `0x` was stripped off
+- First of all if you notice in this script we have a standalone hex which is `625011af` gotten from the first result in the highlighted box we mentioned earlier (commented it cos it is not necessary, just for explanatory purposes ) and as you can see down the image below `0x` was stripped off
 ![](https://i.imgur.com/KvpK6R7.png)
 
 - then the line `shellcode = "A" * 2003 + "\xaf\x11\x50\62"` in which A is sent 2003 times with the TRUN command and the `"\xaf\x11\x50\62"` is still the number we had but starting from the back with \x (because of some x86 architecture) 
@@ -72,7 +72,11 @@ Check the first square tab and you should see the hex code we saw using nasm
 
 ![](https://i.imgur.com/grMUgTO.png)
 
-The next thing to do us to set up a breakpoint, just click on the line and 
+The next thing to do us to set up a break point, just click on the line and press "f2" on your keyboard and the `625011af` should be highlighted with light blue
+
+
+
+
 
 
 
