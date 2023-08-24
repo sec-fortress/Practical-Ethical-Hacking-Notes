@@ -49,6 +49,10 @@ Run the script and see if any hex character here is missing e.g After running th
 
 ![](https://i.imgur.com/W4yQJni.png)
 
-- Now click on `Follow in Dump` and navigate to the `Hex Dump` tab, after this start to look for any missing characters, in vulnserver we won't find any missing characters cos' it was 
+- Now click on `Follow in Dump` and navigate to the `Hex Dump` tab, after this start to look for any missing characters, in vulnserver we won't find any missing characters cos' it was configured that way.
 
 ![](https://i.imgur.com/nZUASEJ.png)
+
+- But here is a picture of what missing/bad characters looks like, over here we are missing 04, 05, 28, 29, 44, 45, AG. BE, BF, CC and CD
+
+![](https://i.imgur.com/4BqUlIy.png)
