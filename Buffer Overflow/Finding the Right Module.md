@@ -15,4 +15,7 @@ What we are saying in finding the right module is that we are looking for a DLL 
 
 ![](https://i.imgur.com/QR7wUnD.png)
 
-- The next thing to do is to find the 
+- The next thing to do is to find the **app code equivalent of a jump** , to do this:
+	- Goto your kali terminal and locate `nasm_shell.rb`
+	- Copy the output and paste on your terminal, then click enter
+
