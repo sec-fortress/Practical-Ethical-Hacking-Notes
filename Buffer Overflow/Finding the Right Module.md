@@ -11,4 +11,7 @@ What we are saying in finding the right module is that we are looking for a DLL 
 
 ![](https://i.imgur.com/19zh7e6.png)
 
-- What we are looking for is a row with the `False` statement all through
+- What we are looking for are rows with the `False` statement all through and `.dll` (keep this information for now)
+
+![](https://i.imgur.com/QR7wUnD.png)
+
