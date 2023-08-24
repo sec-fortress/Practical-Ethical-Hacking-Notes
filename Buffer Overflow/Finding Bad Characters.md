@@ -1,6 +1,6 @@
 Finding bad characters is almost in relation to generating shellcode, when running shellcode we need to know what characters are good and bad for the shellcode.
 
-We can deter
+We can determine this by taking a couple of hex from the GitHub links below and finding which ones have been filtered out by our program in immunity debugger
 
 - Navigate to https://github.com/cytopia/badchars
 - Open our last python script used in [[Overwriting the EIP]] and paste bad chars from the GitHub link into it , also make a little modification as we can see down below
@@ -43,7 +43,7 @@ except:
         sys.exit()
 ```
 
-Run the script and see if any hex character here is missing e.g After running the script and go back to our immunity debugger do we see any characters from `x01` to `xff` missing??
+Run the script and see if any hex character here is missing e.g After running the script and going back to our immunity debugger do we see any characters from `x01` to `xff` missing??
 
 - After running the script navigate to the immunity debugger, then go to the `Registers` tab and right click on the `ESP`
 
