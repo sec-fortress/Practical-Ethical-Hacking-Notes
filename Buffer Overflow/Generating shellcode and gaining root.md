@@ -69,3 +69,4 @@ Note that the `"\x90" + 32` in `shellcode = "A" * 2003 + "\xaf\x11\x50\62" + "\x
 - Now start up vulnserver on your windows machine
 - Run the script we saved and you should get a MS DOS shell
 
+![](https://i.imgur.com/EuuIBMF.gif)
