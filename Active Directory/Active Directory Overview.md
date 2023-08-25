@@ -7,4 +7,7 @@ Authentication happens with kerberos or kerberos ticket
 
 ![](https://i.imgur.com/3PA0Ogb.png)
 
-Active directory is commonly used in banks and 95% of fortune 1000 companies
+Active directory is commonly used in banks and 95% of fortune 1000 companies and the major reason why it is vulnerable in the wild are due to misconfigurations, bad setup etc
+
+![](https://i.imgur.com/ihBjo17.png)
+
