@@ -62,4 +62,5 @@ except:
         sys.exit()
 ```
 
-Note that the `"\x90" + 32` in `shellcode = "A" * 2003 + "\xaf\x11\x50\62" + "\x90" + 32 + overflow` is called a noop which mean No Operation
+Note that the `"\x90" + 32` in `shellcode = "A" * 2003 + "\xaf\x11\x50\62" + "\x90" + 32 + overflow` is called a noop which mean **No Operation**
+
