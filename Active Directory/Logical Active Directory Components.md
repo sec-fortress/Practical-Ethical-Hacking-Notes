@@ -13,3 +13,7 @@
 ![](https://i.imgur.com/y9TzJet.png)
 
 4. Forests : a forest is a set or collection of trees in an active directory
+
+![](https://i.imgur.com/pigpqyr.png)
+
+5. Organizational Units (OU's) : is a subdivision within an Active Directory into which you can place users, groups, computers, and other organizational units. They can also represent functional or ad-hoc groupings, such as committee, a task force, a project management organization, a class (for education) and so on.
