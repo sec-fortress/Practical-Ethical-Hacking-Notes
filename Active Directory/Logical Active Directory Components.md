@@ -24,4 +24,6 @@
 
 ![](https://i.imgur.com/cBcAsLZ.png)
 
-7. 
+7. Objects : An object is **a single element, such as a user, group, application or device such as a printer**. Objects are normally defined as either resources, such as printers or computers, or security principals, such as users or groups.
+
+![](https://i.imgur.com/2aWO5mU.png)
