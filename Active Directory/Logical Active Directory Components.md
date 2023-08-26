@@ -8,4 +8,8 @@
 
 ![](https://i.imgur.com/xcPSX8N.png)
 
-3. Trees : A tree is a hierarchy of domains, Just like subd
+3. Trees : A tree is a hierarchy of domains, Just like subdomains could be drive.google.com, question.hackersploit.org 
+
+![](https://i.imgur.com/y9TzJet.png)
+
+4. 
