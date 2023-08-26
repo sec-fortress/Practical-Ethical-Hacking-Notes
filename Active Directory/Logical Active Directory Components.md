@@ -8,4 +8,4 @@
 
 ![](https://i.imgur.com/xcPSX8N.png)
 
-3. Trees : 
+3. Trees : A tree is a hierarchy of domains, Just like subd
