@@ -4,4 +4,4 @@
 
 ![](https://i.imgur.com/iOUQHz2.png)
 
-2. AD DS Data Store : Contain database files for users, services and applications 
+2. AD DS Data Store : Contain database files for users, services and applications  also stores information about user accounts, such as names, passwords, phone numbers, and so on, and enables other authorized users on the same network to access this information. it also stores a very important file called **Ntds.dit**
