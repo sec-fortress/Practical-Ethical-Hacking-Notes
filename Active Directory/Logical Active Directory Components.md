@@ -20,4 +20,8 @@
 
 ![](https://i.imgur.com/4jvmYHH.png)
 
-6. Trusts : 
+6. Trusts : Is a method of connecting two distinct Active Directory domains (or forests) to allow users in one domain to authenticate against resources in the other.
+
+![](https://i.imgur.com/cBcAsLZ.png)
+
+7. 
