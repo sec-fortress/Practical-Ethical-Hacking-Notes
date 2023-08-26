@@ -16,5 +16,8 @@
 
 ![](https://i.imgur.com/pigpqyr.png)
 
-5. Organizational Units (OU's) : is a subdivision within an Active Directory into which you can place users, groups, computers, and other organizational units. They represent functional or ad-hoc groupings, such as committee, a task force, a project management organization, a class (for education) and so on. also o
+5. Organizational Units (OU's) : is a subdivision within an Active Directory into which you can place users, groups, computers, and other organizational units. They represent functional or ad-hoc groupings, such as committee, a task force, a project management organization, a class (for education) and so on. also objects lived within an OU
 
+![](https://i.imgur.com/4jvmYHH.png)
+
+6. Trusts : 
