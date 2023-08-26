@@ -4,5 +4,7 @@
 
 ![](https://i.imgur.com/kdCAfUs.png)
 
-2. Domains : **a collection of objects within a Microsoft Active Directory network
+2. Domains : could be defined as a collection of objects within a Microsoft Active Directory network. an example of a domain could be google.com, hackersploit.org etc, we need where to manage our objects (Printers and computers) that is where the domain comes in
+
+
 
