@@ -12,4 +12,4 @@
 
 ![](https://i.imgur.com/y9TzJet.png)
 
-4. 
+4. Forests : a forest is a set or collection of trees in an active directory
