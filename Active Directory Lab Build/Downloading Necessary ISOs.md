@@ -18,6 +18,7 @@ You will now be referred to this page to **Register**, fill in any details you l
 
 ![](https://i.imgur.com/Tmn7IA7.png)
 
-Now our last step, Under the **ISO - Enterprise downloads **
+Now our last step, Under the **ISO - Enterprise downloads** tab, select any edition you wish too, in my case it is `64-bit edition` and that is all, repeat this same step for the **windows server**
 
 ![](https://i.imgur.com/pBROeJU.png)
+
