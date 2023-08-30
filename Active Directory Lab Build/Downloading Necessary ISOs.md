@@ -10,4 +10,4 @@ After these click the **Windows** drop down and select `Winndows 10 Enterprise` 
 
 ![](https://i.imgur.com/sOtZ8qS.png)
 
-You will be referred to this page, fill in any detail
+You will be referred to the fi page, fill in any details you like (Not compulsory it must be your real details) and click 
