@@ -5,3 +5,4 @@ The Microsoft evaluation center allows us to evaluate all versions of windows do
 ![](https://i.imgur.com/DhJIfeX.png)
 
 After these click the **Windows** drop down and select `Winndows 10 Enterprise` also do the same thing for **Windows server** and select 
+
