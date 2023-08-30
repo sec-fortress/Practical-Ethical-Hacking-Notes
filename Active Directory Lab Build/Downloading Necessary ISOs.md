@@ -14,4 +14,6 @@ You will be referred to this page, click the `Download the ISO – Enterprise` l
 
 ![](https://i.imgur.com/XQIdTFq.png)
 
-You will now be referred e fill in any details you like (Not compulsory it must be your real details) and click 
+You will now be referred to this page to **Register**, fill in any details you like (Not compulsory it must be your real details) and click `Download now`
+
+![](https://i.imgur.com/Tmn7IA7.png)
