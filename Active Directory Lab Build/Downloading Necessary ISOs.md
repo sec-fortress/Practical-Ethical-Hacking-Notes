@@ -4,4 +4,4 @@ The Microsoft evaluation center allows us to evaluate all versions of windows do
 
 ![](https://i.imgur.com/DhJIfeX.png)
 
-After these downl
+After these click the **Windows** drop down and select  above the website and
