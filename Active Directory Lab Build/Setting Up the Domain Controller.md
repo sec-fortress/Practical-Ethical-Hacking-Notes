@@ -84,4 +84,10 @@
 
 ![](https://i.imgur.com/A8LfaEt.png)
 
-- Click the windows search bar and 
+- Click the windows search bar and search with the keyword `Rename` , then select the first result
+
+![](https://i.imgur.com/e5Bc0hE.png)
+
+- Then click **Rename this PC** 
+
+![Uploading file...vawj8]()
