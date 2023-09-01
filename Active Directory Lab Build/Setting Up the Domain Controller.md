@@ -1,4 +1,4 @@
-In the ever-evolving world of cybersecurity, knowledge is power. If you're a pentester seeking to sharpen your skills and gain deeper insights into network vulnerabilities, setting up a domain controller is a crucial step worth exploring
+Welcome to My quick guide on setting up a domain controller. If you're navigating the intricate world of network administration or simply curious about how these critical components work, you're in the right place. In this blog, we'll provide a concise overview of domain controller setup
 
 - Create a New virtual Machine, Using VM ware, you can do the same if you use VirtualBox
 
@@ -211,3 +211,5 @@ As usual login with the Password you used to create the account and let continue
 You can now **Re-Boot** the server and that will be all on setting up a Domain controller
 
 ![](https://i.imgur.com/YrYu0CL.gif)
+
+If You've got any questions, Please reach out to me on Twitter **@Sec_fortress**
