@@ -80,6 +80,8 @@
 
 ![](https://i.imgur.com/lnIIKso.png)
 
-- Click **Yes** and then cancel 
+- Click **Yes** and then **cancel** 
 
 ![](https://i.imgur.com/A8LfaEt.png)
+
+- Click the windows search bar and 
