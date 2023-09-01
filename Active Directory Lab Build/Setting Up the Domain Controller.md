@@ -122,3 +122,5 @@ As usual login with the Password you used to create the account and let continue
 - This will install all Active Directory Domain Services (ADDS) 
 
 ![](https://i.imgur.com/gmaXLOS.png)
+
+- Once this is done
