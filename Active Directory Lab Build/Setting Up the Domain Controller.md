@@ -114,6 +114,8 @@ As usual login with the Password you used to create the account and let continue
 - You should now get this page Keep clicking **Next** till you get to the next page in the image below
 
 ![](https://i.imgur.com/sfrQedd.png)
-- Keep clicking **Next** till you get to the next page in the image below,
 
-![Uploading file...yz526]()
+- Keep clicking **Next** till you get to the next page in the image below, Make sure to check the **Restart the destination server automatically if required** box and click **Yes** on the pop-up then click **install**
+
+![](https://i.imgur.com/7oZGcVt.png)
+
