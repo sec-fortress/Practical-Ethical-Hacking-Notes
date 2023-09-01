@@ -140,5 +140,13 @@ As usual login with the Password you used to create the account and let continue
 
 ![](https://i.imgur.com/i4VTMJ4.png)
 
-- Hit **Next** till you get to the second screenshot below
+- Keep hitting **Next** till you get to the second screenshot below which is going to do a prerequisites check
+
+![](https://i.imgur.com/5WN0dVC.png)
+
+![](https://i.imgur.com/6ZbdFyN.png)
+
+- Then click **Install**
+
+![](https://i.imgur.com/jn5NuII.png)
 
