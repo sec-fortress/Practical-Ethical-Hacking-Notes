@@ -38,6 +38,7 @@
 
 ![](https://i.imgur.com/TnqSOYV.png)
 
-- Select **Custom** and hit next'
+- Select **Custom**
 
-![Uploading file...k9bio]()
+
+
