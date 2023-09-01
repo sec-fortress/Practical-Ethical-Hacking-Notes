@@ -74,3 +74,7 @@
 
 ![](https://i.imgur.com/gmrMgkb.png)
 
+- Hit the Button highlighted in the screen shot or do **Ctrl+Alt+Del** as asked to and type in your Password you created earlier, in the next section.
+
+![](https://i.imgur.com/CRr29Pn.png)
+
