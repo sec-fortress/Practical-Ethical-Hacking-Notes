@@ -111,4 +111,9 @@ As usual login with the Password you used to create the account and let continue
 
 ![](https://i.imgur.com/yJt2Gwy.png)
 
-- Click
+- You should now get this page Keep clicking **Next** till you get to the next page in the image below
+
+![](https://i.imgur.com/sfrQedd.png)
+- Keep clicking **Next** till you get to the next page in the image below,
+
+![Uploading file...yz526]()
