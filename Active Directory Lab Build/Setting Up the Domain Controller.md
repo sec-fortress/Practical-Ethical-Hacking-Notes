@@ -26,7 +26,9 @@
 
 ![](https://i.imgur.com/fvljrcn.png)
 
-- You will be presented with this screen, Hit **Next** and then 
+- You will be presented with this screen, Hit **Next** and then **Install Now**
 
 ![](https://i.imgur.com/gdRNkYo.png)
 
+- Select the **Second Choice** on the sc
+![](https://i.imgur.com/YhlFuNL.png)
