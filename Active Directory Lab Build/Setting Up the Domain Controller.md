@@ -209,6 +209,3 @@ As usual login with the Password you used to create the account and let continue
 
 You can now **Re-Boot** the server and that will be all on setting up a Domain controller
 
-
-
-
