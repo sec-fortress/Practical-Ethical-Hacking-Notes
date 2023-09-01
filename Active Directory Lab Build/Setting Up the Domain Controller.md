@@ -160,5 +160,9 @@ As usual login with the Password you used to create the account and let continue
 
 ![](https://i.imgur.com/DYScNJn.png)
 
-- Then select **Active Directory Certificate Services** under **Roles** and you should see a pop-up window
+- Then select **Active Directory Certificate Services** under **Roles** and you should see a pop-up window like the one below, Click **Add features**
+
+![](https://i.imgur.com/O8H8kRN.png)
+
+
 
