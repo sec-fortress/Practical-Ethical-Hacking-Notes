@@ -196,5 +196,15 @@ As usual login with the Password you used to create the account and let continue
 
 ![](https://i.imgur.com/0GUBnic.png)
 
-- Keep hitting **Next** again 😆 till you get to the page below 
+- Keep hitting **Next** again 😆 till you get to the page below , then click **Configure**
+
+![](https://i.imgur.com/kY6EsjK.png)
+
+- Wait for few seconds and click **Close**
+
+![](https://i.imgur.com/pEUq0nw.png)
+
+You can now **Re-Boot** the server and that will be all on setting up a Domain controller
+
+
 
