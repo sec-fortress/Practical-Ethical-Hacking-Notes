@@ -99,4 +99,12 @@ As usual login with the Password you used to create the account and let continue
 
 - On the Top Right Menu click **Manage** then **Add roles and features**  
 
+![](https://i.imgur.com/IstBvqd.png)
 
+- Once you get this page below, keep clicking **Next** till you get to the next image
+
+![](https://i.imgur.com/zJCgGSY.png)
+
+![](https://i.imgur.com/nAfCfMN.png)
+
+- Now select 
