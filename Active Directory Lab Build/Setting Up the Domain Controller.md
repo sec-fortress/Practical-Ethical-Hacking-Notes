@@ -107,4 +107,8 @@ As usual login with the Password you used to create the account and let continue
 
 ![](https://i.imgur.com/nAfCfMN.png)
 
-- Now select 
+- Now select **Active Directory Domain Services** under the Roles tab, you should get a pop-up, Click **Add Features**
+
+![](https://i.imgur.com/yJt2Gwy.png)
+
+- Click
