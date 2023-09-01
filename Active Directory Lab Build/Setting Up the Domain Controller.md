@@ -70,4 +70,7 @@
 
 ![](https://i.imgur.com/d373quO.png)
 
-- Type in 
+- Type in a Password , in my case it is `P@$$w0rd!` and hit **Finish** 
+
+![](https://i.imgur.com/gmrMgkb.png)
+
