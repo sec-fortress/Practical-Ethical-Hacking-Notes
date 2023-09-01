@@ -158,5 +158,6 @@ As usual login with the Password you used to create the account and let continue
 
 ![](https://i.imgur.com/rQLBbXz.png)
 
-
 ![](https://i.imgur.com/DYScNJn.png)
+
+- Then select ****
