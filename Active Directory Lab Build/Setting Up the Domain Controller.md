@@ -160,4 +160,5 @@ As usual login with the Password you used to create the account and let continue
 
 ![](https://i.imgur.com/DYScNJn.png)
 
-- Then select ****
+- Then select **Active Directory Certificate Services** under **Roles** and you should see a pop-up window
+
