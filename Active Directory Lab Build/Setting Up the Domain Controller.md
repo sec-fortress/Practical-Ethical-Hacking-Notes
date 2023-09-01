@@ -192,4 +192,9 @@ As usual login with the Password you used to create the account and let continue
 
 ![](https://i.imgur.com/PNWIYT6.png)
 
-- Keep hitting **Next** till you get to this
+- Keep hitting **Next** till you get to the page below then select the validity to whatever amount of years you like, Mine would be `99`, then click **Next**
+
+![](https://i.imgur.com/0GUBnic.png)
+
+- Keep hitting **Next** again 😆 till you get to the page below 
+
