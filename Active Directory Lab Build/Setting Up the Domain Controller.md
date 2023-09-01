@@ -168,5 +168,12 @@ As usual login with the Password you used to create the account and let continue
 
 ![](https://i.imgur.com/Jq2RBHL.png)
 
+- If you wanna add features then go ahead and add them, I will be leaving this as default, so click **Next** to continue
 
+![](https://i.imgur.com/dNy7tKy.png)
 
+- Keep clicking **Next** till you get to the page below
+
+![](https://i.imgur.com/xasTZqz.png)
+
+- Check the **Restart the destination server automatically if required** box and click **Yes** on the pop-up then click **install**
