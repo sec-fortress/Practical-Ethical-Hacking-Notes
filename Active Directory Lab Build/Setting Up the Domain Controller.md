@@ -95,3 +95,8 @@
 ![](https://i.imgur.com/6MkAFoC.png)
 
 
+As usual login with the Password you used to create the account and let continue
+
+- On the Top Right Menu click **Manage** then **Add roles and features**  
+
+
