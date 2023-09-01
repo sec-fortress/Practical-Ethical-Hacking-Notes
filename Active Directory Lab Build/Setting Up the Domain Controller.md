@@ -155,6 +155,8 @@ As usual login with the Password you used to create the account and let continue
 
 ![](https://i.imgur.com/8rus4U8.png)
 
+## Setting Up Certificate Services
+
 - Now keep clicking **Next** till you get to the page in the second image below
 
 ![](https://i.imgur.com/rQLBbXz.png)
@@ -207,6 +209,6 @@ As usual login with the Password you used to create the account and let continue
 
 You can now **Re-Boot** the server and that will be all on setting up a Domain controller
 
-![](https://i.imgur.com/x3uoxz5.png)
+
 
 
