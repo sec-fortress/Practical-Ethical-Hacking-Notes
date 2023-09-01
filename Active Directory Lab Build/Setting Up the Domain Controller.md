@@ -118,7 +118,7 @@ As usual login with the Password you used to create the account and let continue
 - Keep clicking **Next** till you get to the next page in the image below, Make sure to check the **Restart the destination server automatically if required** box and click **Yes** on the pop-up then click **install**
 
 ![](https://i.imgur.com/7oZGcVt.png)
-- This will install all Active Directory Domain Services (ADDS)
 
-<!--⚠️Imgur upload failed, check dev console-->
+- This will install all Active Directory Domain Services (ADDS) 
 
+![](https://i.imgur.com/gmaXLOS.png)
