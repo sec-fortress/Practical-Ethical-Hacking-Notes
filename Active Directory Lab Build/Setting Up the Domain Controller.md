@@ -146,7 +146,7 @@ As usual login with the Password you used to create the account and let continue
 
 ![](https://i.imgur.com/6ZbdFyN.png)
 
-- Then click **Install**
+- Then click **Install** (This should take a while), After this is done, it will automatically re-install t
 
 ![](https://i.imgur.com/jn5NuII.png)
 
