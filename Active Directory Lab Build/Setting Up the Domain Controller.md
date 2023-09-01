@@ -150,7 +150,13 @@ As usual login with the Password you used to create the account and let continue
 
 ![](https://i.imgur.com/jn5NuII.png)
 
-- Once again Click **Manage** on the top right page and select **Add roles and **
+- Once again Click **Manage** on the top right page and select **Add roles and features**
 
-![Uploading file...iuyls]()
+![](https://i.imgur.com/8rus4U8.png)
 
+- Now keep clicking **Next** till you get to the page in the second image below
+
+![](https://i.imgur.com/rQLBbXz.png)
+
+
+![](https://i.imgur.com/DYScNJn.png)
