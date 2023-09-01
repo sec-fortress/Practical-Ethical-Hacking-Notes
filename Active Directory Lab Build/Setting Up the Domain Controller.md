@@ -22,7 +22,11 @@
 
 ![](https://i.imgur.com/T2LWFhM.png)
 
-- Now **Play virtual machine** and if you are asked to click any key to boot from CD, Make sure to do that
+- Now **Play virtual machine** and if you are asked to **click any key to boot from CD**, Make sure to do that.
 
 ![](https://i.imgur.com/fvljrcn.png)
+
+- You will be presented with this screen, Hit **Next** and then 
+
+![](https://i.imgur.com/gdRNkYo.png)
 
