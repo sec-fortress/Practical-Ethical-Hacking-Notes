@@ -30,5 +30,14 @@
 
 ![](https://i.imgur.com/gdRNkYo.png)
 
-- Select the **Second Choice** on the sc
+- Select the **Second Choice** on the screenshot and click **Next**
+
 ![](https://i.imgur.com/YhlFuNL.png)
+
+- Accept The **Software License Terms** and Hit **Next** 
+
+![](https://i.imgur.com/TnqSOYV.png)
+
+- Select **Custom** and hit next'
+
+![Uploading file...k9bio]()
