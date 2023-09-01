@@ -123,4 +123,8 @@ As usual login with the Password you used to create the account and let continue
 
 ![](https://i.imgur.com/gmaXLOS.png)
 
-- Once this is done
+- Once the above step is done, Click **Promote this server to a domain controller**
+
+![](https://i.imgur.com/KOmzquC.png)
+
+- Then **Add a **
