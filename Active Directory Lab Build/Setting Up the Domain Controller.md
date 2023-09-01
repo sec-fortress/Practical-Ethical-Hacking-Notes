@@ -132,6 +132,13 @@ As usual login with the Password you used to create the account and let continue
 ![](https://i.imgur.com/uS58I3K.png)
 
 
-- Now type in a password in the highlighted area, It could still be the same password for the MARVEL domain controller, In my case it will be `P@$$w0rd!`
+- Now type in a password in the highlighted area, It could still be the same password for the MARVEL domain controller, In my case it will be `P@$$w0rd!` , then click **Next**
 
 ![](https://i.imgur.com/tw8n5EU.png)
+
+- Hit **Next** here again, then wait for few seconds
+
+![](https://i.imgur.com/i4VTMJ4.png)
+
+- Hit **Next** till you get to the second screenshot below
+
