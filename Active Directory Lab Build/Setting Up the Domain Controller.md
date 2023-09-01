@@ -14,3 +14,10 @@
 
 ![](https://i.imgur.com/rjYcjUM.png)
 
+- You should now see that the virtual machine has been created, click **Edit virtual machine settings** 
+
+![](https://i.imgur.com/WxxHvoa.png)
+
+- If you see a `Floppy Disk` option make sure to remove it to avoid 
+
+![](https://i.imgur.com/T2LWFhM.png)
