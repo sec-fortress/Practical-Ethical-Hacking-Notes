@@ -80,3 +80,6 @@
 
 ![](https://i.imgur.com/lnIIKso.png)
 
+- Click **Yes** and then cancel 
+
+![](https://i.imgur.com/A8LfaEt.png)
