@@ -164,5 +164,9 @@ As usual login with the Password you used to create the account and let continue
 
 ![](https://i.imgur.com/O8H8kRN.png)
 
+- Click **Next**
+
+![](https://i.imgur.com/Jq2RBHL.png)
+
 
 
