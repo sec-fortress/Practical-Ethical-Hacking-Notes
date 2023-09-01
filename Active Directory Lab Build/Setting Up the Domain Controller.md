@@ -88,7 +88,10 @@
 
 ![](https://i.imgur.com/e5Bc0hE.png)
 
-- Then click **Rename this PC** and rename the PC to {anything}-DC , Mine will be `Marvel-DC` , After this the system will ask for a reboot, It okay, Click Yes
+- Then click **Rename this PC** and rename the PC to {anything}-DC , Mine will be `HYDRA-DC` , After this the system will ask for a reboot, It okay, Click **Restart Now** and **Continue**
 
 ![](https://i.imgur.com/8Uv4I1a.png)
+
+![](https://i.imgur.com/6MkAFoC.png)
+
 
