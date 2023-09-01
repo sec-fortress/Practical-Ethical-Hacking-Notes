@@ -18,6 +18,8 @@
 
 ![](https://i.imgur.com/WxxHvoa.png)
 
-- If you see a `Floppy Disk` option make sure to remove it to avoid 
+- If you see a `Floppy Disk` option make sure to remove it to avoid future errors , Also tweak the **Hard Disk** and **Memory** option to what ever suite you, Making sure that **Hard Disk** has nothing less than **60gb** and the **Memory** to **2gb**, When done click **OK**
 
 ![](https://i.imgur.com/T2LWFhM.png)
+
+Now 
