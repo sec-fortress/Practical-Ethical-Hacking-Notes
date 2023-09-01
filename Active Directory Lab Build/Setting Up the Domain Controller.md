@@ -146,8 +146,11 @@ As usual login with the Password you used to create the account and let continue
 
 ![](https://i.imgur.com/6ZbdFyN.png)
 
-- Then click **Install** (This should take a while), After this is done, it will automatically restart the system
+- Then click **Install** (This should take a while), After this is done, it will automatically restart the system, So type in your password as usual
 
 ![](https://i.imgur.com/jn5NuII.png)
 
+- Once again Click **Manage** on the top right page and select **Add roles and **
+
+![Uploading file...iuyls]()
 
