@@ -58,6 +58,15 @@
 
 ![](https://i.imgur.com/Gihgtz7.png)
 
-- Wait for the Installation process to finish
+- Wait for the Installation process to finish and you should get a reboot
 
 ![](https://i.imgur.com/O5mvzy3.png)
+
+- Just click **Enter** on your keyboard
+
+![](https://i.imgur.com/SQ0NHs1.png)
+
+- Then wait for this Initialization to finish
+
+![](https://i.imgur.com/d373quO.png)
+
