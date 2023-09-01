@@ -42,4 +42,6 @@
 
 ![](https://i.imgur.com/atutfrA.png)
 
+-  Click **New**
 
+![](https://i.imgur.com/kpXAqF4.png)
