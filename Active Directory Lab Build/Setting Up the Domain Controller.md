@@ -176,4 +176,7 @@ As usual login with the Password you used to create the account and let continue
 
 ![](https://i.imgur.com/xasTZqz.png)
 
-- Check the **Restart the destination server automatically if required** box and click **Yes** on the pop-up then click **install**
+- Check the **Restart the destination server automatically if required** box and click **Yes** on the pop-up then click **install** , It is gonna start the installation of the **Active Directory Certificate Services** and automatically **Re-boot** the system
+
+![](https://i.imgur.com/kuhEQd7.png)
+
