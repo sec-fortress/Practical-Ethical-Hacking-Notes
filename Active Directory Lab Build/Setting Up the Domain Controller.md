@@ -184,3 +184,12 @@ As usual login with the Password you used to create the account and let continue
 
 ![](https://i.imgur.com/WjFx8jB.png)
 
+- Once you get the pop-up hit **Next**
+
+![](https://i.imgur.com/GHLUDVf.png)
+
+- Then on the next page make sure to check the **Certification Authority** box cos' it is unchecked by default then hit **Next**
+
+![](https://i.imgur.com/PNWIYT6.png)
+
+- Keep hitting **Next** till you get to this
