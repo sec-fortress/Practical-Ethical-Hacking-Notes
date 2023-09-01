@@ -45,3 +45,19 @@
 -  Click **New**
 
 ![](https://i.imgur.com/kpXAqF4.png)
+
+- Click **Apply**
+
+![](https://i.imgur.com/0H7tD6T.png)
+
+- Click **Ok**
+
+![](https://i.imgur.com/HfTPFU1.png)
+
+- Then click **Next**
+
+![](https://i.imgur.com/Gihgtz7.png)
+
+- Wait for the Installation process to finish
+
+![](https://i.imgur.com/O5mvzy3.png)
