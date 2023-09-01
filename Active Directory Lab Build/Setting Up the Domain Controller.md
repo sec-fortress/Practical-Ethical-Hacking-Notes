@@ -127,4 +127,8 @@ As usual login with the Password you used to create the account and let continue
 
 ![](https://i.imgur.com/KOmzquC.png)
 
-- Then **Add a **
+- Then **Add a new forest**, since we don't have one yet,  The **Root domain name** could be 
+
+![](https://i.imgur.com/uS58I3K.png)
+
+
