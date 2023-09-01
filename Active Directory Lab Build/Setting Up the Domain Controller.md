@@ -38,7 +38,8 @@
 
 ![](https://i.imgur.com/TnqSOYV.png)
 
-- Select **Custom**
+- Select **Custom** here
 
+![](https://i.imgur.com/atutfrA.png)
 
 
