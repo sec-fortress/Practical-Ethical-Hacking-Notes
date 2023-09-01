@@ -127,8 +127,11 @@ As usual login with the Password you used to create the account and let continue
 
 ![](https://i.imgur.com/KOmzquC.png)
 
-- Then **Add a new forest**, since we don't have one yet,  The **Root domain name** could be 
+- Then **Add a new forest**, since we don't have one yet, The **Root domain name** could be {ANYTHING}.local , then clcik **Next**
 
 ![](https://i.imgur.com/uS58I3K.png)
 
 
+- Now type in a password in the highlighted area, It could still be the same password for the MARVEL domain controller, In my case it will be `P@$$w0rd!`
+
+![](https://i.imgur.com/tw8n5EU.png)
