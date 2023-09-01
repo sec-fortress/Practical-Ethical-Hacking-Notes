@@ -88,6 +88,7 @@
 
 ![](https://i.imgur.com/e5Bc0hE.png)
 
-- Then click **Rename this PC** 
+- Then click **Rename this PC** and rename the PC to {anything}-DC , Mine will be `Marvel-DC` , After this the system will ask for a reboot, It okay, Click Yes
 
-![Uploading file...vawj8]()
+![](https://i.imgur.com/8Uv4I1a.png)
+
