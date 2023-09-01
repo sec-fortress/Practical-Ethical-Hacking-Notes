@@ -1,3 +1,4 @@
+In the ever-evolving world of cybersecurity, knowledge is power. If you're a pentester seeking to sharpen your skills and gain deeper insights into network vulnerabilities, setting up a domain controller is a crucial step worth exploring
 
 - Create a New virtual Machine, Using VM ware, you can do the same if you use VirtualBox
 
@@ -209,3 +210,4 @@ As usual login with the Password you used to create the account and let continue
 
 You can now **Re-Boot** the server and that will be all on setting up a Domain controller
 
+![](https://i.imgur.com/YrYu0CL.gif)
