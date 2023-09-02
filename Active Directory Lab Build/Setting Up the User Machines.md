@@ -9,8 +9,11 @@ This won't cover more, like setting up the Domain, cos' the setup looks almost t
 - On the next page click **New >> Apply >> OK >> Next**
 - Windows will start setup
 - Basic setup choose your **language** and **region** (US), Second keyboard layout should be **Skip**
-- 
-- 
+- After the **Network** setup, you should get a screen like the one below, Choose **Domain jin instead**
+
+![](https://i.imgur.com/6xWUC3j.png)
+
+-  
 - 
 - 
 - 
