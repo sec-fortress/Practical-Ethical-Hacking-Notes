@@ -30,6 +30,10 @@ Boot up your Window Server, which is our domain controller
 
 ![](https://i.imgur.com/YEp5Hib.png)
 
+- Now you should see a pop-up window, fill in what information you like in the highlighted area
+
+![](https://i.imgur.com/BpgfdkK.png)
+
 
 
 
