@@ -40,7 +40,11 @@ Boot up your Window Server, which is our domain controller
 
 ![](https://i.imgur.com/XWZbLll.png)
 
-- Now we are going to create another service account for SQL , We are going to duplicate the **Administrator** account like we did for **tstark** , then set everything as illustrated ito the picture below
+- Now we are going to create another service account for SQL , We are going to duplicate the **Administrator** account like we did for **tstark** , then set everything as illustrated in the picture below
+
+![](https://i.imgur.com/PZyrVGa.png)
+
+
 
 
 
