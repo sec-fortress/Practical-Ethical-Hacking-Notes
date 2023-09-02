@@ -18,7 +18,7 @@ This won't cover more, like setting up the Domain, cos' the setup looks almost t
 ![](https://i.imgur.com/uP9CLn2.png)
 
 - On the next screen type in any password, since it is an AD lab, i will use `Password1`  as my own weak password 
-- 
+- The answer to my 3 security questions is `olaoluwa` , feel free to use whatever you feel like
 - 
 - 
 - 
