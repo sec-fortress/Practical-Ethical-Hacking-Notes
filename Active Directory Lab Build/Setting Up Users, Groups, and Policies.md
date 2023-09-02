@@ -15,3 +15,11 @@ Boot up your Window Server, which is our domain controller
 - Now Right-click on **MARVEL.local** and then select **New** then **Organizational Unit** 
 
 ![](https://i.imgur.com/FkrlPwL.png)
+
+- Now you should see another pop-up, Under the Name: tab, Input **Groups** , then click **OK** 
+
+![](https://i.imgur.com/C3uehsq.png)
+
+![](https://i.imgur.com/JDoXHBd.png)
+
+
