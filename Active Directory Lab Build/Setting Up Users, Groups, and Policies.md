@@ -50,7 +50,11 @@ Boot up your Window Server, which is our domain controller
 
 ![](https://i.imgur.com/4FnuOsr.png)
 
-- Now **Double-click** on the **SQL Service** and on the description input
+- Now **Double-click** on the **SQL Service** and on the description input **The password is MYpassword123#**, The reason why we are doing this is because this is a vulnerable lab and again some some users still do this thinking they are the only one that can see the description, meanwhile every valid user can :)
+
+![Uploading file...6iyfa]()
+
+
 
 
 
