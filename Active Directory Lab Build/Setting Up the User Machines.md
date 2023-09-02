@@ -31,8 +31,12 @@ This won't cover more, like setting up the Domain, cos' the setup looks almost t
 
 ![](https://i.imgur.com/KDrN7lk.png)
 
-- You should now be in the **About** section of settings, Click **Rename this PC**
-- 
-- 
+- You should now be in the **About** section of settings, Click **Rename this PC**, I am going to rename mine to **SPIDERMAN** (without space), cos' that is what i named the virtual machine
+
+![](https://i.imgur.com/IrUEuHR.png)
+
+- Restart the PC and Install VMware tools if Necessary
+
+
 
 
