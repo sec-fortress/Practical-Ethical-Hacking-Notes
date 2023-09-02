@@ -8,5 +8,6 @@ Boot up your Window Server, which is our domain controller
 
 ![](https://i.imgur.com/Cq4NJdh.png)
 
-- 
+- Once you see the drop down click **Users**, Note that the **Domain Admin** and the **Enterprise Admin** are the most important here
+
 ![](https://i.imgur.com/2Xjig96.png)
