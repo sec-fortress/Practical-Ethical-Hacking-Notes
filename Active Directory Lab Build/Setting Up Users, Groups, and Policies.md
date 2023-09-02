@@ -50,7 +50,7 @@ Boot up your Window Server, which is our domain controller
 
 ![](https://i.imgur.com/4FnuOsr.png)
 
-
+- Now **Double-click** on the **SQL Service** and on the description input
 
 
 
