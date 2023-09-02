@@ -8,6 +8,9 @@ This won't cover more, like setting up the Domain, cos' they look the same
 - Select **Custom: Install Windows only (advanced)**
 - On the next page click **New >> Apply >> OK >> Next**
 - Windows will start setup
+- Basic setup choose your **language** and **region** (US), Second keyboard layout should be **Skip**
+- 
+- 
 - 
 - 
 - 
