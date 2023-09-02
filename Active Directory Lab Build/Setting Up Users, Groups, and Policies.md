@@ -34,7 +34,13 @@ Boot up your Window Server, which is our domain controller
 
 ![](https://i.imgur.com/BpgfdkK.png)
 
-- In the next windows type in any password you like, mine will be `Password12345!`
+- In the next windows type in any password you like, mine will be `Password12345!`, Then hit **Next**, also make sure to turn on the option **Password never expires**
+
+![](https://i.imgur.com/MMC3JUa.png)
+
+![](https://i.imgur.com/XWZbLll.png)
+
+- Now we are going to create another service account for SQL , We are going to duplicate the **Administrator** account like we did for **tstark** , then set everything as illustrated ito the picture below
 
 
 
