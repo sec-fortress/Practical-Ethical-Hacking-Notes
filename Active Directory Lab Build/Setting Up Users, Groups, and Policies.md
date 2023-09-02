@@ -24,6 +24,8 @@ Boot up your Window Server, which is our domain controller
 
 - Now move all the groups in the **Users** directory to **Groups** as seen in the GIF below , thereby leaving only the **Administrator** and **Guest** user account under the **Users** directory
 
-![Uploading file...t0wag]()
+![](https://i.imgur.com/BycPBDf.gif)
+
+
 
 
