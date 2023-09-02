@@ -5,3 +5,8 @@ Boot up your Window Server, which is our domain controller
 ![](https://i.imgur.com/OKpvqAo.png)
 
 - Now you should see a pop-up window, Click the drop down as shown below
+
+![](https://i.imgur.com/Cq4NJdh.png)
+
+- 
+![](https://i.imgur.com/2Xjig96.png)
