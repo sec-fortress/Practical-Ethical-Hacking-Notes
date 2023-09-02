@@ -27,8 +27,11 @@ This won't cover more, like setting up the Domain, cos' the setup looks almost t
 
 ![](https://i.imgur.com/XSq8G5S.png)
 
-- 
-- 
+- You should now see the Windows User Environment {GUI} , Goto the Search bar and search with the keyword,  **rename**
+
+![](https://i.imgur.com/KDrN7lk.png)
+
+- You should now be in the **About** section of settings, Click **Rename this PC**
 - 
 - 
 
