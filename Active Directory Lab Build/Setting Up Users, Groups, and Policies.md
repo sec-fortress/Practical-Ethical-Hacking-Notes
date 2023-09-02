@@ -30,10 +30,11 @@ Boot up your Window Server, which is our domain controller
 
 ![](https://i.imgur.com/YEp5Hib.png)
 
-- Now you should see a pop-up window, fill in what information you like in the highlighted area
+- Now you should see a pop-up window, fill in what information you like in the highlighted area and hit **Next**
 
 ![](https://i.imgur.com/BpgfdkK.png)
 
+- In the next windows type in any password you like, mine will be `Password12345!`
 
 
 
