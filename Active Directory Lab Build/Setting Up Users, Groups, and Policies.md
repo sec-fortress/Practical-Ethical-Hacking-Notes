@@ -26,6 +26,10 @@ Boot up your Window Server, which is our domain controller
 
 ![](https://i.imgur.com/BycPBDf.gif)
 
+- Under the **Users** directory make a copy of the **Administrator** account, Just right click the **Administrator** account and click **Copy**
+
+![](https://i.imgur.com/YEp5Hib.png)
+
 
 
 
