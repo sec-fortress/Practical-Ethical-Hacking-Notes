@@ -44,7 +44,7 @@ Boot up your Window Server, which is our domain controller
 
 ![](https://i.imgur.com/PZyrVGa.png)
 
-- Then one the next window set your password, mine is `MYpassword123#` also make sure that you set the password to **Password never expires**
+- Then on the next window set your password, mine is `MYpassword123#` also make sure that you set the password to **Password never expires**
 
 ![](https://i.imgur.com/KniRCHl.png)
 
