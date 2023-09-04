@@ -88,7 +88,7 @@ Boot up your Window Server, which is our domain controller
 
 ![](https://i.imgur.com/soFsZa1.png)
 
-- 
+- Click on N
 
 
 
