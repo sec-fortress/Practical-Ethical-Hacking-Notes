@@ -66,5 +66,14 @@ Boot up your Window Server, which is our domain controller
 
 ![](https://i.imgur.com/tRXjVpm.png)
 
-- Make another user called **Peter Parker** (SPIDERMAN) and repeat these same steps setting the password to `Password1` and never expires
+- Make another user called **Peter Parker** (SPIDERMAN) and repeat these same steps setting the password to `Password1` and never expires, Therefore just right click on the **Frank Castle** account and hit **copy**
+
+![](https://i.imgur.com/J2F207J.png)
+
+
+
+
+
+
+
 
