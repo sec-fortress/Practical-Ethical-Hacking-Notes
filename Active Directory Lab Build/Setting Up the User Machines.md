@@ -36,7 +36,7 @@ This won't cover more, like setting up the Domain, cos' the setup looks almost t
 ![](https://i.imgur.com/IrUEuHR.png)
 
 - Restart the PC and Install VMware tools if Necessary
-
+- Repeat these same steps for THEPUNISHER account
 
 
 
