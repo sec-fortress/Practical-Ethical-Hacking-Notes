@@ -54,5 +54,5 @@ Boot up your Window Server, which is our domain controller
 
 ![](https://i.imgur.com/ji4ng2P.png)
 
-- Now we need to create a couple of other Users to utilize in this environment
+- Now we need to create a couple of other Users to utilize in this environment, You can ckl
 
