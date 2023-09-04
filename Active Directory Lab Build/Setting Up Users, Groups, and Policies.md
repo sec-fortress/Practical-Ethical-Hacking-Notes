@@ -88,7 +88,11 @@ Boot up your Window Server, which is our domain controller
 
 ![](https://i.imgur.com/soFsZa1.png)
 
-- Click on N
+- The next pop-up window, On the top right bar Click **Tasks** then you will see a drop down click **New Share** 
+
+![](https://i.imgur.com/r41YDQn.png)
+
+
 
 
 
