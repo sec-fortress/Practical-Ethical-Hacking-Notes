@@ -70,9 +70,15 @@ Boot up your Window Server, which is our domain controller
 
 ![](https://i.imgur.com/J2F207J.png)
 
+- Fill in the required fields as shown below
 
+![](https://i.imgur.com/i42ACYQ.png)
 
+- Set the password policy to **Password never expires**
 
+![](https://i.imgur.com/pAvGnkV.png)
+
+- 
 
 
 
