@@ -80,7 +80,9 @@ Boot up your Window Server, which is our domain controller
 
 ![](https://i.imgur.com/D7aFRQY.png)
 
-- 
+- We need to create a file share that we can abuse later on
+
+
 
 
 
