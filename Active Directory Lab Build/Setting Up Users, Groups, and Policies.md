@@ -58,6 +58,8 @@ Boot up your Window Server, which is our domain controller
 
 ![](https://i.imgur.com/90jMy7j.png)
 
-- You should now see the pop-up as shown below, it is time to link the two users we created (THEPUNISHER and SPIDERMAN)
+- You should now see the pop-up as shown below, it is time to link the two users we created (THEPUNISHER and SPIDERMAN), This will be for THEPUNISHER, so fill in the details as shown below
 
 ![](https://i.imgur.com/ZejJks4.png)
+
+- You will get the password screen next, i will be uisng `Password1` as my password, also make sure to set the Password policy to **Passwords Never Expire**
