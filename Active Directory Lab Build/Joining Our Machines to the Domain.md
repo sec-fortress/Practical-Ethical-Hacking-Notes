@@ -90,3 +90,7 @@ Right click on the administrator account again and click **properties** , then m
 
 ![](https://i.imgur.com/jJWiZZ1.png)
 
+Now we can click on **groups** also then right click on **administrators** and **properties**
+
+
+![](https://i.imgur.com/XXoOjC9.png)
