@@ -100,6 +100,10 @@ Boot up your Window Server, which is our domain controller
 
 ![](https://i.imgur.com/rpjBuok.png)
 
-- You should now see another way 
+- You should now see another window asking to specify a share name , Type in any name you like, Mine is **hackme** , Then click **Next**
+
+![](https://i.imgur.com/mtRwbtY.png)
+
+
 
 
