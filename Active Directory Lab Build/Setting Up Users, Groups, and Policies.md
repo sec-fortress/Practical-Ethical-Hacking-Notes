@@ -171,4 +171,7 @@ Now double-click **Turn off microsoft defender antivirus** , you should see anot
 
 ![](https://i.imgur.com/u9PmT0K.png)
 
-We can now close the management editor and now enforce this rule
+We can now close the management editor and now enforce this rule , Just right-click on the **disable windows defender** rule and click **Enforced** as shown below
+
+![](https://i.imgur.com/uTYJcIp.png)
+
