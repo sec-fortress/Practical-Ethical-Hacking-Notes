@@ -43,3 +43,10 @@ Since we are joining the domain we don't need to input any Email , click the Alt
 
 ![](https://i.imgur.com/NGTOgco.png)
 
+Now we can type in our Domain name, in my case it is **MARVEL.local** and immediately you should see another pop-up window asking for a `Username` and `Password`
+
+![](https://i.imgur.com/BQJGPUS.png)
+
+![](https://i.imgur.com/r345DzN.png)
+
+Now the User name is `administrator` and password is `P@$$w0rd!`
