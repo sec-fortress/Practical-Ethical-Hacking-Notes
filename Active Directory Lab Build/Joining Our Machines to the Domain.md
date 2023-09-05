@@ -68,3 +68,5 @@ Now we can go to **THEPUNISHER** VM and login as **MARVEL\administrator** with t
 
 ![](https://i.imgur.com/687Uvsy.png)
 
+![](https://i.imgur.com/K3JyorK.png)
+
