@@ -165,6 +165,8 @@ Now under **Computer Configuration** by the left (drop-down) Click **Policies** 
 
 ![](https://i.imgur.com/s0jNuXO.png)
 
-Now select **Turn off microsoft defender antivirus**
+Now double-click **Turn off microsoft defender antivirus** , you should see another pop-up click **Enabled** >> **Apply** >> **OK**
 
 ![](https://i.imgur.com/k51pEdY.png)
+
+
