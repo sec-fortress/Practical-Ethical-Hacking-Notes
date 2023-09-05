@@ -20,4 +20,7 @@ Now we need to join the 2 windows server with our domain controller, Let first o
 
 ![](https://i.imgur.com/SMDrVwj.png)
 
-- Now clcik 
+- Now click **Use the following DNS server addresses** and add the IP address of your domain controller to the the **preferred DNS server** box, then click **OK** (You can use **ipconfig** to check for the IP of your DC in command prompt)
+
+![](https://i.imgur.com/I1aF2G4.png)
+
