@@ -49,4 +49,9 @@ Now we can type in our Domain name, in my case it is **MARVEL.local** and immedi
 
 ![](https://i.imgur.com/r345DzN.png)
 
-Now the User name is `administrator` and password is `P@$$w0rd!`
+Now the User name is `administrator` and password is `P@$$w0rd!` , you should remember what the username and password is
+
+On the next window is the **Add account** , make sure to set the account type to **Administrator** then hit **Next** and then **Restart now**.
+
+![](https://i.imgur.com/JbuTTwE.png)
+
