@@ -58,3 +58,5 @@ On the next window is the **Add account** , make sure to set the account type to
 **NOW GO AHEAD AND DO THIS EXACT SAME THING FOR USER "PETERPARKER"**
 
 
+
+Now we can login to our Domain Controller, Navigate to serever manager then **Tools**
