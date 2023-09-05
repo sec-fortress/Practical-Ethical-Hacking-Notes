@@ -125,5 +125,5 @@ Once all this is done, Open up **Command Prompt** as an **Administrator**
 Now type in this command on the terminal
 
 ```cmd
-
+setspn -a HYDRA-DC/SQLService.MARVEL.local:60111 HYDRA-DC\SQLService
 ```
