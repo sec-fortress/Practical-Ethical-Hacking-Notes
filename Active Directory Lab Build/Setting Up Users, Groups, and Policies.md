@@ -104,6 +104,13 @@ Boot up your Window Server, which is our domain controller
 
 ![](https://i.imgur.com/mtRwbtY.png)
 
-- The next screen click **Next** , 
+- The next screen click **Next** till you get to the Last screen then click **Close**
 
+![](https://i.imgur.com/Batb8bv.png)
+
+![](https://i.imgur.com/DPtgqTv.png)
+
+![](https://i.imgur.com/ZXPV6A6.png)
+
+![](https://i.imgur.com/DIKxMSL.png)
 
