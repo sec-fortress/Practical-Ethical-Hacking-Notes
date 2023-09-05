@@ -145,3 +145,5 @@ Now click **Apply** and then **OK**
 
 **NOW REPEAT THE SAME CONCEPT FOR THE NETWORK, NAVIGATE TO FILE EXPLORER, ENABLE NETWORK AND YOU SHOULD SEE HYDRA-DC**
 
+![](https://i.imgur.com/loxzNw2.png)
+
