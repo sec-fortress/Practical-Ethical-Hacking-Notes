@@ -122,3 +122,8 @@ Once all this is done, Open up **Command Prompt** as an **Administrator**
 
 ![](https://i.imgur.com/wdiHrer.png)
 
+Now type in this command on the terminal
+
+```cmd
+
+```
