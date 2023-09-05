@@ -149,4 +149,10 @@ Now right click on **MARVEL.local** and select **Create a GPO.....** as shown in
 
 ![](https://i.imgur.com/fjn5X5L.png)
 
+![](https://i.imgur.com/bxuoNwZ.png)
 
+Now click on the drop down of **MARVEL.local** and you should see the policy there
+
+![](https://i.imgur.com/U98r4t4.png)
+
+Now Right-click on it and click edit, you shou
