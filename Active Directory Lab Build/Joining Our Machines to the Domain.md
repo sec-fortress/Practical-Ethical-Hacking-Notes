@@ -86,3 +86,7 @@ So we can now set a password, mine will be `Password1!` , then hit **OK**
 
 ![](https://i.imgur.com/nCToKnl.png)
 
+Right click on the administrator account again and click **properties** , then make sure the **Account is disabled** option is unchecked (We are doing this cos' it is a vulnerable lab, in best practices, that should be checked)
+
+![](https://i.imgur.com/jJWiZZ1.png)
+
