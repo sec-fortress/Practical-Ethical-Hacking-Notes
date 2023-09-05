@@ -160,5 +160,8 @@ Now navigate to **File explorer** >> **This PC** >> **Computer** >> **Map networ
 
 ![](https://i.imgur.com/P4IFECr.png)
 
+On the next window which is **Map Network drive** , input it as seen below, also make sure **Connect using different credentials** is turned on
+
+![](https://i.imgur.com/AqHlUAg.png)
 
 
