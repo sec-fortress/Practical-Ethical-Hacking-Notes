@@ -147,3 +147,9 @@ Now click **Apply** and then **OK**
 
 ![](https://i.imgur.com/loxzNw2.png)
 
+Now sign-out from this session and let login with the user **peterparker** on SPIDERMAN VM, Click **Other users** on the sign-in page
+
+![](https://i.imgur.com/M75leWl.png)
+
+
+
