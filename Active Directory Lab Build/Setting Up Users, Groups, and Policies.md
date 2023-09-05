@@ -92,8 +92,10 @@ Boot up your Window Server, which is our domain controller
 
 ![](https://i.imgur.com/r41YDQn.png)
 
+- You should see another pop-up window , click **SMB Share - Quick** Then **Next**
+
+![](https://i.imgur.com/CCnpen8.png)
+
 - 
-
-
 
 
