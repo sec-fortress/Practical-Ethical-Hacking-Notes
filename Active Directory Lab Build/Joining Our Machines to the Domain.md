@@ -31,4 +31,10 @@ Now we need to join the 2 windows server with our domain controller, Let first o
 **MAKE SURE TO REPEAT THIS SAME STEPS FOR THE USER "PETERPARKER"**
 #### Joining the domain
 
-We can go back to the user "frankcastle" and on the
+We can go back to the user "frankcastle" and on the windows search bar, type in the keyword **domain** ,  you should see **Access work or school** settings, click it.
+
+![](https://i.imgur.com/N8F08Dt.png)
+
+On the next pop-up window click **Connect**
+
+![](https://i.imgur.com/lkFjcdk.png)
