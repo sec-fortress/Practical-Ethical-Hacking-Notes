@@ -171,3 +171,4 @@ The next screen type in your admin credentials which is `administrator:P@$$w0rd!
 
 ![](https://i.imgur.com/CERDFDd.png)
 
+**THIS CONCLUDES OUR VULNERABLE ACTIVE DIRECTORY LAB **
