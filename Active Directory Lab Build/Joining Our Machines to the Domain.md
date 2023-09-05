@@ -78,4 +78,11 @@ Now you should see another window, click on users and you should see the various
 
 ![](https://i.imgur.com/U6oV2uD.png)
 
-Right-clcik on the administrator account and click ****
+Right-click on the administrator account and click **Set password** >> **Proceed**
+
+![](https://i.imgur.com/275xd2t.png)
+
+So we can now set a password, mine will be `Password1!` , then hit **OK**
+
+![](https://i.imgur.com/nCToKnl.png)
+
