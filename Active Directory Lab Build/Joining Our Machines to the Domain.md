@@ -165,3 +165,6 @@ On the next window which is **Map Network drive** , input it as seen below, also
 ![](https://i.imgur.com/AqHlUAg.png)
 
 
+The next screen type in **administrator** as 
+
+![](https://i.imgur.com/5ASw8pk.png)
