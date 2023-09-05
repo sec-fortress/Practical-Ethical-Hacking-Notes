@@ -8,5 +8,8 @@ Now we need to join the 2 windows server with our domain controller, Let first o
 
 ![](https://i.imgur.com/hokvKkE.png)
 
-- 
+- You should now see the settings window, Scroll down and click **Change adapter options**
 
+![](https://i.imgur.com/L2Kn3Pg.png)
+
+- 
