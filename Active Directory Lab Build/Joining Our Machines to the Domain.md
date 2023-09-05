@@ -90,7 +90,22 @@ Right click on the administrator account again and click **properties** , then m
 
 ![](https://i.imgur.com/jJWiZZ1.png)
 
-Now we can click on **groups** also then right click on **administrators** and **properties**
+Now we can click on **groups** also then right click on **administrators** >> **properties**
 
 
 ![](https://i.imgur.com/XXoOjC9.png)
+
+Click **Add**
+
+![](https://i.imgur.com/0Vd0oQH.png)
+
+Type in **fcastle** 
+
+![](https://i.imgur.com/jL0EhHx.png)
+
+Then **Apply** >> **OK**
+
+![](https://i.imgur.com/s9cneWv.png)
+
+![](https://i.imgur.com/OqI9RMv.png)
+
