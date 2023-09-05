@@ -62,3 +62,5 @@ Now we can login to our Domain Controller, Navigate to server manager then **Too
 
 ![](https://i.imgur.com/rLexQpQ.png)
 
+![](https://i.imgur.com/ELLxfjl.png)
+
