@@ -112,3 +112,9 @@ Then **Apply** >> **OK**
 Now head over to **File explorer** and click on the **Network** folder, Hit  **Ok** if you are prompted to turn it on
 
 ![](https://i.imgur.com/cOHV1C5.png)
+
+Here you can click the **Click to change** prompt and click **Turn on network.......**
+
+![](https://i.imgur.com/mOEKPHR.png)
+
+
