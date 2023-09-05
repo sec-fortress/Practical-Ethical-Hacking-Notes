@@ -175,3 +175,4 @@ We can now close the management editor and now enforce this rule , Just right-cl
 
 ![](https://i.imgur.com/uTYJcIp.png)
 
+Since we are using RDP, Make sure to set the network to 
