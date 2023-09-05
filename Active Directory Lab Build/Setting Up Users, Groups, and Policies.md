@@ -159,4 +159,9 @@ Now Right-click on it and click **edit**, you should see another page
 
 ![](https://i.imgur.com/fjp9hll.png)
 
-Now under **Computer Configuration** by the left (drop-down) Click **Policies** >> **Administrative Templates.......** >> 
+Now under **Computer Configuration** by the left (drop-down) Click **Policies** >> **Administrative Templates.......** >> **Windows Components** >> **Microsoft Defender Antivirus**
+
+![](https://i.imgur.com/yCVGqLR.png)
+
+![](https://i.imgur.com/s0jNuXO.png)
+
