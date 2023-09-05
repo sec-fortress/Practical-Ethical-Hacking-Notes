@@ -156,7 +156,7 @@ Then do `.\` followed by the username which is peterparker, so it should look li
 ![](https://i.imgur.com/phKLyr8.png)
 
 
-Now navigate to **File explorer** >> 
+Now navigate to **File explorer** >> **This PC** >> **Computer** >> 
 
 ![](https://i.imgur.com/P4IFECr.png)
 
