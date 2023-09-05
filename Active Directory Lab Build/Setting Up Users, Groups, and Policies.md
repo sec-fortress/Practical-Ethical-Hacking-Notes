@@ -104,6 +104,6 @@ Boot up your Window Server, which is our domain controller
 
 ![](https://i.imgur.com/mtRwbtY.png)
 
-- 
+- The next screen click **Next** , 
 
 
