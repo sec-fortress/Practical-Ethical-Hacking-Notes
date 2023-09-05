@@ -121,3 +121,8 @@ Immediately you should see our **HYDRA-DC** (If you don't see it then windows fi
 
 ![](https://i.imgur.com/Hlc9xGf.png)
 
+**NOW DO THIS SAME THING FOR USER SPIDERMAN, BUT WHEN YOU GET TO GROUPS MAKE SURE TO STOP, COS' WE ARE SETTING 2 USERS FOR THIS ONE**
+
+Right-click on **Administrators** as usual and click **properties**
+
+![](https://i.imgur.com/lXioRCe.png)
