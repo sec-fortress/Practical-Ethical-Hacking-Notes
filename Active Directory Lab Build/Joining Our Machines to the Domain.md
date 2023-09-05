@@ -24,3 +24,7 @@ Now we need to join the 2 windows server with our domain controller, Let first o
 
 ![](https://i.imgur.com/I1aF2G4.png)
 
+- After clicking **OK** on the previous window, you will see another underlying window, make sure to click **OK** again to save the settings
+
+![](https://i.imgur.com/YGRlvBb.png)
+
