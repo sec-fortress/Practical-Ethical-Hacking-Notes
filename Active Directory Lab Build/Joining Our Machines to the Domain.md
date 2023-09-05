@@ -138,3 +138,10 @@ The second one is **fcastle** , **Check Names** then **OK**
 The reason why we are doing Check names is to see if it exist, if it does we should get the output as shown below, if it does not which is not suppose to be, we should get a pop-up
 
 ![](https://i.imgur.com/z80stjv.png)
+
+Now click **Apply** and then **OK**
+
+![](https://i.imgur.com/pKdHitK.png)
+
+**NOW REPEAT THE SAME CONCEPT FOR THE NETWORK, NAVIGATE TO FILE EXPLORER, ENABLE NETWORK AND YOU SHOULD SEE HYDRA-DC**
+
