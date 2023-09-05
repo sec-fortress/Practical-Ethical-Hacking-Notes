@@ -114,3 +114,5 @@ Boot up your Window Server, which is our domain controller
 
 ![](https://i.imgur.com/DIKxMSL.png)
 
+![](https://i.imgur.com/YwJ6lc5.png)
+
