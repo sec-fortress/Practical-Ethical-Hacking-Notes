@@ -131,3 +131,10 @@ The first one is **pparker** , click **Check Names** and then **OK**
 
 ![](https://i.imgur.com/CqBJ3Dx.png)
 
+The second one is **fcastle** , **Check Names** then **OK**
+
+![](https://i.imgur.com/zfjCrSb.png)
+
+The reason why we are doing Check names is to see if it exist, if it does we should get the output as shown below, if it does not which is not suppose to be, we should get a pop-up
+
+![](https://i.imgur.com/z80stjv.png)
