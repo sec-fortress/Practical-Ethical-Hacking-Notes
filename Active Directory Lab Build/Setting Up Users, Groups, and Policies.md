@@ -155,4 +155,8 @@ Now click on the drop down of **MARVEL.local** and you should see the policy the
 
 ![](https://i.imgur.com/U98r4t4.png)
 
-Now Right-click on it and click edit, you shou
+Now Right-click on it and click **edit**, you should see another page
+
+![](https://i.imgur.com/fjp9hll.png)
+
+Now under **Computer Configuration** by the left (drop-down) Click **Policies** >> **Administrative Templates.......** >> 
