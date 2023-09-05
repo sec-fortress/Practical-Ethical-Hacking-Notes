@@ -165,6 +165,8 @@ On the next window which is **Map Network drive** , input it as seen below, also
 ![](https://i.imgur.com/AqHlUAg.png)
 
 
-The next screen type in **administrator** as 
+The next screen type in your admin credentials which is `administrator:P@$$w0rd!` and you should see it mapped
 
 ![](https://i.imgur.com/5ASw8pk.png)
+
+![](https://i.imgur.com/CERDFDd.png)
