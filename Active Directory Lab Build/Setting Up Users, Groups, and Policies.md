@@ -127,3 +127,10 @@ Now type in this command on the terminal
 ```cmd
 setspn -a HYDRA-DC/SQLService.MARVEL.local:60111 HYDRA-DC\SQLService
 ```
+
+What we are doing here is setting a port for the **SQLService**
+
+![](https://i.imgur.com/oRmJ2ij.png)
+
+we can also use the command `setspn -T MARVEL.local -Q */*` to make sure it was properly configured
+
