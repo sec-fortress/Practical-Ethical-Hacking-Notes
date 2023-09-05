@@ -64,3 +64,7 @@ Now we can login to our Domain Controller, Navigate to server manager then **Too
 
 ![](https://i.imgur.com/ELLxfjl.png)
 
+Now we can go to **THEPUNISHER** VM and login as **MARVEL\administrator** with the password `P@$$w0rd!` (Make sure to do this same thing for **SPIDERMAN** VM)
+
+![](https://i.imgur.com/687Uvsy.png)
+
