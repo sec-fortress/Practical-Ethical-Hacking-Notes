@@ -70,3 +70,7 @@ Now we can go to **THEPUNISHER** VM and login as **MARVEL\administrator** with t
 
 ![](https://i.imgur.com/K3JyorK.png)
 
+Once the above is done, we can go back to our **THEPUNISHER** VM and on the search bar, type in the keyword **users** and click on **Edit local users and groups**
+
+![](https://i.imgur.com/dJCrzez.png)
+
