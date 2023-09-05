@@ -109,3 +109,6 @@ Then **Apply** >> **OK**
 
 ![](https://i.imgur.com/OqI9RMv.png)
 
+Now head over to **File explorer** and click on the **Network** folder, Hit  **Ok** if you are prompted to turn it on
+
+![](https://i.imgur.com/cOHV1C5.png)
