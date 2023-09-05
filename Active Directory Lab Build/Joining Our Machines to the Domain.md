@@ -151,5 +151,9 @@ Now sign-out from this session and let login with the user **peterparker** on SP
 
 ![](https://i.imgur.com/M75leWl.png)
 
+Then do `.\` followed by the username which is peterparker, so it should look like **.\peterparker** and then type in your password
+
+![](https://i.imgur.com/phKLyr8.png)
+
 
 
