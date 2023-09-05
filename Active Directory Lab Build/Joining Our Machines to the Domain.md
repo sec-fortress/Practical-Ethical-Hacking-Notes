@@ -28,3 +28,7 @@ Now we need to join the 2 windows server with our domain controller, Let first o
 
 ![](https://i.imgur.com/YGRlvBb.png)
 
+**MAKE SURE TO REPEAT THIS SAME STEPS FOR THE USER "PETERPARKER"**
+#### Joining the domain
+
+We can go back to the user "frankcastle" and on the
