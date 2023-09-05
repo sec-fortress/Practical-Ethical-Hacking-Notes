@@ -117,4 +117,7 @@ Here you can click the **Click to change** prompt and click **Turn on network...
 
 ![](https://i.imgur.com/mOEKPHR.png)
 
+Immediately you should see our **HYDRA-DC** (If you don't see it then windows firewall did alot of work, make sure to turn it off)
+
+![](https://i.imgur.com/Hlc9xGf.png)
 
