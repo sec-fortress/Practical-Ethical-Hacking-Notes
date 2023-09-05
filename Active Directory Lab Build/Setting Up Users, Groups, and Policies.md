@@ -145,4 +145,8 @@ You should now see a new window, by the left click the **Forest** drop down icon
 
 ![](https://i.imgur.com/Ox7nkNQ.png)
 
-under 
+Now right click on **MARVEL.local** and select **Create a GPO.....** as shown in the image below, then on the next screen rename it to **Disable windows defender**
+
+![](https://i.imgur.com/fjn5X5L.png)
+
+
