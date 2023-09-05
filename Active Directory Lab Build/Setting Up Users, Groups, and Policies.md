@@ -132,5 +132,8 @@ What we are doing here is setting a port for the **SQLService**
 
 ![](https://i.imgur.com/oRmJ2ij.png)
 
-we can also use the command `setspn -T MARVEL.local -Q */*` to make sure it was properly configured
+we can also use the command `setspn -T MARVEL.local -Q */*` to make sure it was properly configured, Note that SPN stands for **Service Principle Name**
 
+![](https://i.imgur.com/gmBddS4.png)
+
+The Next thing to do is to set up a group policy
