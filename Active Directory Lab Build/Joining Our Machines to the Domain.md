@@ -12,4 +12,8 @@ Now we need to join the 2 windows server with our domain controller, Let first o
 
 ![](https://i.imgur.com/L2Kn3Pg.png)
 
-- 
+- You should see another **Network connections** tab, Double click **Ethernet0** and click properties on the next pop-up
+
+![](https://i.imgur.com/Z1lpzAz.png)
+
+
