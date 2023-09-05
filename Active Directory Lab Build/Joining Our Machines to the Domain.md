@@ -74,3 +74,8 @@ Once the above is done, we can go back to our **THEPUNISHER** VM and on the sear
 
 ![](https://i.imgur.com/dJCrzez.png)
 
+Now you should see another window, click on users and you should see the various accounts created
+
+![](https://i.imgur.com/U6oV2uD.png)
+
+Right-clcik on the administrator account and click ****
