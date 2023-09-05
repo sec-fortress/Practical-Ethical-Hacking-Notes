@@ -55,3 +55,6 @@ On the next window is the **Add account** , make sure to set the account type to
 
 ![](https://i.imgur.com/JbuTTwE.png)
 
+**NOW GO AHEAD AND DO THIS EXACT SAME THING FOR USER "PETERPARKER"**
+
+
