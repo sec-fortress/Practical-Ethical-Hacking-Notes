@@ -116,3 +116,7 @@ Boot up your Window Server, which is our domain controller
 
 ![](https://i.imgur.com/YwJ6lc5.png)
 
+Once all this is done, Open up **Command Prompt as an Administrator**
+
+![](https://i.imgur.com/DUOuN6w.png)
+
