@@ -16,4 +16,4 @@ Now we need to join the 2 windows server with our domain controller, Let first o
 
 ![](https://i.imgur.com/Z1lpzAz.png)
 
-
+- You should now see another window, do
