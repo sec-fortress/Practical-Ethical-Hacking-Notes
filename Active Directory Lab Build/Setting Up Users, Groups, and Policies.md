@@ -96,6 +96,10 @@ Boot up your Window Server, which is our domain controller
 
 ![](https://i.imgur.com/CCnpen8.png)
 
-- 
+- You should see another pop-up click **Next**
+
+![](https://i.imgur.com/rpjBuok.png)
+
+
 
 
