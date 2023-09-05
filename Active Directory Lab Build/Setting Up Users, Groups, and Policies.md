@@ -136,5 +136,5 @@ we can also use the command `setspn -T MARVEL.local -Q */*` to make sure it was 
 
 ![](https://i.imgur.com/gmBddS4.png)
 
-The Next thing to do is to set up a group policy, It a policy that will be pushed for the entire domain
+The Next thing to do is to set up a group policy, It a policy that will be pushed for the entire domain, Navigate to your search bar and search with keyword **group** and click on the first resu
 
