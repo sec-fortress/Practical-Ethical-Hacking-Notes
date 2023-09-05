@@ -56,7 +56,9 @@ On the next window is the **Add account** , make sure to set the account type to
 ![](https://i.imgur.com/JbuTTwE.png)
 
 **NOW GO AHEAD AND DO THIS EXACT SAME THING FOR USER "PETERPARKER"**
+#### Confirmation to check if we did Join this Machines
 
+Now we can login to our Domain Controller, Navigate to server manager then **Tools** >> **Active directory Users and Computers**. 
 
+![](https://i.imgur.com/rLexQpQ.png)
 
-Now we can login to our Domain Controller, Navigate to serever manager then **Tools**
