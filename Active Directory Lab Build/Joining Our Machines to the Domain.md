@@ -38,3 +38,8 @@ We can go back to the user "frankcastle" and on the windows search bar, type in 
 On the next pop-up window click **Connect**
 
 ![](https://i.imgur.com/lkFjcdk.png)
+
+Since we are joining the domain we don't need to input any Email , click the Alternate action, **join this  device to a local Active Directory domain**
+
+![](https://i.imgur.com/NGTOgco.png)
+
