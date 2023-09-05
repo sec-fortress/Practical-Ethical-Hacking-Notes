@@ -169,4 +169,6 @@ Now double-click **Turn off microsoft defender antivirus** , you should see anot
 
 ![](https://i.imgur.com/k51pEdY.png)
 
+![](https://i.imgur.com/u9PmT0K.png)
 
+We can now close the management editor and now enforce this rule
