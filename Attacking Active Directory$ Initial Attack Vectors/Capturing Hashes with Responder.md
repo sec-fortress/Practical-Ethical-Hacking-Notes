@@ -14,7 +14,8 @@ Since we need **Client-side** interactions
 
 ![](https://i.imgur.com/5rCINLz.png)
 
-- Going back to our attacker terminal, we have the weak **NTLMv2** password hash
+- Going back to our attacker terminal, we now have the weak **NTLMv2** password hash
 
+![](https://i.imgur.com/UfyvbVb.png)
 
 
