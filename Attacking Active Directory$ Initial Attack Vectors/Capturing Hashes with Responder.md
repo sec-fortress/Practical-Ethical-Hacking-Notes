@@ -6,4 +6,7 @@ sudo responder -I wlan0 -dwPv
 
 ![](https://i.imgur.com/5W0zCBS.png)
 
+Since we need **Client-side** interactions
 
+- Navigate to our **THEPUNISHER** VM
+- Logi
