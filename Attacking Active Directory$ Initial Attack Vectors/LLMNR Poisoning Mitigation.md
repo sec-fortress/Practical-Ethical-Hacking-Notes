@@ -7,5 +7,8 @@
 
 2. On the new window pop-up right click on **Default Domain policy** and click **Edit**
 
-![Uploading file...bzp03]()
+![Uploading file...hs2fk]()
+
+
+
 
