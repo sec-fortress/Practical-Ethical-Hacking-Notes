@@ -10,5 +10,11 @@ Since we need **Client-side** interactions
 
 - Navigate to our **THEPUNISHER** VM
 - Login as an **other user** with the username and password `fcastle:Password1`
-- Navigate to **File explorer** and do this
+- Navigate to **File explorer** and do this :
+
+![](https://i.imgur.com/5rCINLz.png)
+
+- Going back to our attacker terminal, we have the weak **NTLMv2** password hash
+
+
 
