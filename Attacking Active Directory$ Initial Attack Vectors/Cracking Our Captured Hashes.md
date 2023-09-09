@@ -16,3 +16,6 @@ OR
 
 > Note that cracking NTLMv2 hashes might be a little bit slower than cracking NTLMv1 hashes, Because with NTLMv1 hashes we can do a lot more complex attacks  against it
 
+We can then crack this hash by doing
+
+`hashcat -m 5600 `
