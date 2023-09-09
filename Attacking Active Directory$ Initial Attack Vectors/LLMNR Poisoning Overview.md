@@ -16,4 +16,11 @@ LLMNR works by **sending out multicast queries over local networks asking if an
 
 ![](https://i.imgur.com/7V1Ux4X.png)
 
-3. 
+3. Then we should see a password hash come through
+
+![](https://i.imgur.com/JGlqYNy.png)
+
+4. Finally we can grab a tool like `johntheripper` or `hashcat` to crack this hash
+
+![](https://i.imgur.com/zranx24.png)
+
