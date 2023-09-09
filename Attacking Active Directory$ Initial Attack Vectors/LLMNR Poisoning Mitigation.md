@@ -5,3 +5,7 @@
 
 ![](https://i.imgur.com/D28Rh9s.png)
 
+2. On the new window pop-up right click on **Default Domain policy** and click **Edit**
+
+![Uploading file...bzp03]()
+
