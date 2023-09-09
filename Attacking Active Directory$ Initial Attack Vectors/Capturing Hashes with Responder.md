@@ -18,4 +18,5 @@ Since we need **Client-side** interactions
 
 ![](https://i.imgur.com/UfyvbVb.png)
 
+Note that this hashes will all equate to the same thing even though they are not identical
 
