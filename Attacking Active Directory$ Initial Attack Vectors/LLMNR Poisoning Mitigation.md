@@ -1,6 +1,6 @@
 ![](https://i.imgur.com/0OPKAu9.png)
 
-We can disable 
+We can disable LLMNR and NBT-NS through the group policy management as shown below :
 
 1. search for **Group Policy management** in the windows server search bar
 
