@@ -20,5 +20,7 @@ We can then crack this hash by doing `hashcat -m 5600 hash.txt /usr/share/wordli
 
 ![](https://i.imgur.com/YtPIx11.png)
 
-You ca
+If you cleared your screen, you can use the `--show` option if you want to review the cracked hash file password, just like this
+
+
 
