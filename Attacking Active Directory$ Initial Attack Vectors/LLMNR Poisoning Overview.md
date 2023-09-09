@@ -8,5 +8,12 @@ LLMNR works by **sending out multicast queries over local networks asking if an
 
 ### Steps to Re-Produce
 
+1. We run the `Responder` script to listen to LLMNR queries made by other devices on that network and **performs man-in-the-middle attacks on them** (This could be early in the morning why people are turning on their PC's)
 
 ![](https://i.imgur.com/uYKJtur.png)
+
+2. Then we wait for an unexpected event to occur on the client-side
+
+![](https://i.imgur.com/7V1Ux4X.png)
+
+3. 
