@@ -12,3 +12,7 @@ OR
 
 2.  On your Linux terminal do `hashcat --help | grep NTLMv2`
 
+![](https://i.imgur.com/toyU1IY.png)
+
+> Note that cracking NTLMv2 hashes might be a little bit slower than cracking NTLMv1 hashes, Because with NTLMv1 hashes we can do a lot more complex attacks  against it
+
