@@ -22,5 +22,4 @@ We can then crack this hash by doing `hashcat -m 5600 hash.txt /usr/share/wordli
 
 If you cleared your screen, you can use the `--show` option if you want to review the cracked hash file password, just like this
 
-
-
+We can also `Johnteripper`
