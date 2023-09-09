@@ -9,4 +9,6 @@ sudo responder -I wlan0 -dwPv
 Since we need **Client-side** interactions
 
 - Navigate to our **THEPUNISHER** VM
-- Logi
+- Login as an **other user** with the username and password `fcastle:Password1`
+- Navigate to **File explorer** and do this
+
