@@ -7,8 +7,10 @@
 
 2. On the new window pop-up right click on **Default Domain policy** and click **Edit**
 
-![Uploading file...hs2fk]()
+![](https://i.imgur.com/tl2PKAf.png)
 
+3. You should now see another pop-up window , By the left side menu click **Policies** >> **Administrative Templates** >> **Network** >> **DNS Client**
 
+![](https://i.imgur.com/AmJuoNg.png)
 
 
