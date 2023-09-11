@@ -12,4 +12,11 @@ We want to turn off the **SMB** and **HTTP** option form the `responder.conf` fi
 
 ![](https://i.imgur.com/V6D6sNt.png)
 
-We can now run `responder` alongside another tool called `ntlmrelayx` which 
+We can now run `responder` alongside another tool called `ntlmrelayx` which is responsible for the "message signing disabled" prompt we got from nmap, Also this will dump the hashes from the windows **SAM** file
+
+![](https://i.imgur.com/YXuUKHP.png)
+![](https://i.imgur.com/gQakMYk.png)
+
+We still need client interaction and as usual we can do that with `\\ATTACKER-IP`
+
+![](https://i.imgur.com/7V1Ux4X.png)
