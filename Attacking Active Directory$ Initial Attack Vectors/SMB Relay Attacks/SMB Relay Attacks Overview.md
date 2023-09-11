@@ -20,3 +20,5 @@ We can now run `responder` alongside another tool called `ntlmrelayx` which is r
 We still need client interaction and as usual we can do that with `\\ATTACKER-IP`
 
 ![](https://i.imgur.com/7V1Ux4X.png)
+
+We can also get a 
