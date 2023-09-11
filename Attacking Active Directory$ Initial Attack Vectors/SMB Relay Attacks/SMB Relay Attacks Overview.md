@@ -2,4 +2,9 @@ An SMB relay attack **allows us to relay SMB authentication requests to another
 
 ![](https://i.imgur.com/uxIHt98.png)
 
-**How **
+### How does this Attack work
+
+First of all we need to be sure that that SMB signing is disabled, we can do this by using nmap as shown below
+
+![](https://i.imgur.com/OjIsj29.png)
+
