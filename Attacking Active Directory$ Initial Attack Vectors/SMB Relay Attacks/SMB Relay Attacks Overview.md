@@ -27,3 +27,8 @@ We can also get a reverse shell with `ntlmrelayx` by adding the `-i` option to o
 
 We can then start up our listener and our shell would look like this 
 
+![](https://i.imgur.com/jEaBAGM.png)
+
+We can also run system commands with the `-c` option using `ntlmrelayx` , as shown below the whoami command tells us we are **nt authority\system**
+
+![](https://i.imgur.com/jUg42xH.png)
