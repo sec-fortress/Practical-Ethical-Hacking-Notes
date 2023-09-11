@@ -9,3 +9,6 @@ Now we can save  the host that have the prompt **"message signing enabled but no
 
 Now we can disable the **HTTP** and **SMB** protocol in the responder.conf file, located under `/etc/responder/Responder.conf`
 
+![](https://i.imgur.com/7mRX0rr.png)
+
+We can then startup `responder` with the syntax used previously in **LLMNR Poisoning** `sudo responder -i wlan0 `
