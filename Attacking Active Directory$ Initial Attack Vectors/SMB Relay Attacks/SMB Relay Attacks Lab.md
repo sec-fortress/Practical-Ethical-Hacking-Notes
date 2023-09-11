@@ -15,3 +15,4 @@ We can then startup `responder` with the syntax used previously in **LLMNR Poiso
 
 ![](https://i.imgur.com/TaJpooZ.png)
 
+Now we can startup the `ntlmrelayx.py` tool, if you don't have it, you can download it from [here](https://github.com/fortra/impacket/blob/master/examples/ntlmrelayx.py) and move it to `/usr/bin` 
