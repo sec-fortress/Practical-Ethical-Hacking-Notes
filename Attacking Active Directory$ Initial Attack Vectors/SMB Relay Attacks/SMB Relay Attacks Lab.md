@@ -11,4 +11,5 @@ Now we can disable the **HTTP** and **SMB** protocol in the responder.conf file,
 
 ![](https://i.imgur.com/7mRX0rr.png)
 
-We can then startup `responder` with the syntax used previously in **LLMNR Poisoning** `sudo responder -i wlan0 `
+We can then startup `responder` with the syntax used previously in **LLMNR Poisoning** `sudo responder -i wlan0 -dwPv` (v for verbose)
+
