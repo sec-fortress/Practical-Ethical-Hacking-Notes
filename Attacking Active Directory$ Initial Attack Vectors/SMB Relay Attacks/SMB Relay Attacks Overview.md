@@ -8,7 +8,8 @@ First of all we need to be sure that that SMB signing is disabled, we can do thi
 
 ![](https://i.imgur.com/OjIsj29.png)
 
-We want to turn off the **SMB** and **HTTP** option form t because we wanna make sure, this hashes are not just been captured, but they are relayed also
+We want to turn off the **SMB** and **HTTP** option form the `responder.conf` file because we wanna make sure, this hashes are not just been captured, but they are relayed also
 
 ![](https://i.imgur.com/V6D6sNt.png)
 
+We can now run `responder` alongside another tool called `ntlmrelayx` which 
