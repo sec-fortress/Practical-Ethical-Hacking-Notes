@@ -58,6 +58,11 @@ From here, you can interact using the shell and access the files and folders., f
 
 ```shell
 sec-fortress@kali#~$ use C$
-sec-fortress@kaluse ADMIN$
+sec-fortress@kali#~$ use ADMIN$
+sec-fortress@kali#~$ use IPC$
 ```
+
+Then we can do `ls`
+
+![](https://i.imgur.com/Q2m4kx2.png)
 
