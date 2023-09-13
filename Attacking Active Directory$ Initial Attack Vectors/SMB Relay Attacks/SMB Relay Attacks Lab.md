@@ -21,3 +21,5 @@ Now we can startup the `ntlmrelayx.py` tool wit these syntax `ntlmrelayx.py -tf 
 
 ![](https://i.imgur.com/Rdh5Zvu.jpg)
 
+The next thing is for our target, to create an event (We are gonna be utilizing **THE-PUNISHER** VM) , remember the `\\ATACKER-IP`
+
