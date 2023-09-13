@@ -54,5 +54,10 @@ This will give you the SMB shell as below
 
 ![](https://www.hackingloops.com/wp-content/uploads/2023/01/7-2.png)
 
-From here, you can interact using the shell and access the files and folders.
+From here, you can interact using the shell and access the files and folders., for example to see the content of these shares we can say
+
+```shell
+sec-fortress@kali#~$ use C$
+sec-fortress@kaluse ADMIN$
+```
 
