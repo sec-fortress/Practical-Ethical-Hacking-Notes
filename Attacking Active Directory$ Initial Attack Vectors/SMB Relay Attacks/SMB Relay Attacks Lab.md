@@ -17,3 +17,6 @@ We can then startup `responder` with the syntax used previously in **LLMNR Poiso
 
 Now we can startup the `ntlmrelayx.py` tool, if you don't have it, you can download it from [here](https://github.com/fortra/impacket/blob/impacket_0_9_19/examples/ntlmrelayx.py) and move it to `/usr/bin` 
 
+> If you are still having problem with ntlmrelayx not working, you can download this [tool](https://github.com/Dewalt-arch/pimpmykali) officially made by the TCM members to fix things
+
+
