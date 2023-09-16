@@ -93,4 +93,5 @@ Exploit targets:
     4   Command
 ```
 
-It is better 
+It is better to choose `Native upload` for the targets if you have failed on `Automatic` 
+
