@@ -166,5 +166,11 @@ Impacket v0.9.19 - Copyright 2019 SecureAuth Corporation
 Microsoft Windows [Version 10.0.19045.2006]
 (c) Microsoft Corporation. All rights reserved.
 
-C:\Windows\system32>
+C:\Windows\system32> whoami
+nt authority\system
 ```
+
+We can use the `exit` command to close this section
+
+Sometimes we might not be able to pass our password as a string directly, we can just remove the password from our command and things would be fine
+
