@@ -17,3 +17,13 @@
 
 ![](https://i.imgur.com/FqMWCNX.png)
 
+# Practical
+
+1. Metasploit
+
+```shell
+sec-fortress@Pwn-F0rk-3X3C:~/PEH/AD$ msfconsole
+
+msf6 > use exploit/windows/smb/psexec
+```
+
