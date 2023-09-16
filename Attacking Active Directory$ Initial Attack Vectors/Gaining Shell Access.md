@@ -217,3 +217,7 @@ C:\Windows\system32>
 ```
 
 In case we get blocked by antivirus we have other tools like `wmiexec.py` and `smbexec.py` ,  this tools also have the same syntax with `psexec.py` so we can just run them directly if one doesn't work
+
+![](https://i.imgur.com/eEFbLov.png)
+
+
