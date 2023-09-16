@@ -6,4 +6,9 @@
 
 ![](https://i.imgur.com/wWJPEWY.png)
 
-> Metasploit is mostly noisy which might get picked up by an ADR
+> Metasploit is mostly noisy which might get picked up by an antivirus, that is why we have other tools like `psexec.py` which is a little bit noisy
+> 
+
+1. 
+
+![](https://i.imgur.com/RrMmz5y.png)
