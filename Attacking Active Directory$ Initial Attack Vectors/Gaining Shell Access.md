@@ -118,3 +118,11 @@ meterpreter > background
 msf6 exploit(windows/smb/psexec) > 
 ```
 
+```shell
+msf6 exploit(windows/smb/psexec) > set smbuser administrator
+smbuser => administrator
+msf6 exploit(windows/smb/psexec) > unset smbdomain
+Unsetting smbdomain...
+[!] Variable "smbdomain" unset - but will use a default value still. If this is not desired, set it to a new value or attempt to clear it with set --clear smbdomain
+```
+
