@@ -126,3 +126,7 @@ Unsetting smbdomain...
 [!] Variable "smbdomain" unset - but will use a default value still. If this is not desired, set it to a new value or attempt to clear it with set --clear smbdomain
 ```
 
+Now we need our hash, Note that the **NT** part of this hash is the most important, but we need to select both the **LM** and **NT** part for this attack
+
+![](https://i.imgur.com/c8XeAIx.png)
+
