@@ -36,8 +36,7 @@ Module options (exploit/windows/smb/psexec):
 
    Name                  Current Setting  Required  Description
    ----                  ---------------  --------  -----------
-   RHOSTS                                 yes       The target host(s), see https://docs.metasploit.com/docs/using-metasploit/basics/using-meta
-                                                    sploit.html
+   RHOSTS                                 yes       The target host(s), see https://docs.metasploit.com/docs/using-metasploit/basics/using-metasploit.html
    RPORT                 445              yes       The SMB service port (TCP)
    SERVICE_DESCRIPTION                    no        Service description to be used on target for pretty listing
    SERVICE_DISPLAY_NAME                   no        The service display name
@@ -63,4 +62,10 @@ Exploit target:
    0   Automatic
 
 View the full module info with the info, or info -d command.
+
+msf6 exploit(windows/smb/psexec) > set payload windows/x64/meterpreter/reverse_tcp
+payload => windows/x64/meterpreter/reverse_tcp
 ```
+
+
+
