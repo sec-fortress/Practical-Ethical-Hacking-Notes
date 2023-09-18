@@ -55,6 +55,8 @@ sec-fortress@Pwn-F0rk-3X3C:~$ sudo mitm6 -d marvel.local
 
 Now we can go ahead and re-boot our `THE-PUNISHER` machine and focus on our terminal
 
+>Note that the target we interact with depends on our output
+
 ![](https://i.imgur.com/3DID7Ig.png)
 
 Checking your present folder, `~/PEH/AD` , you should have a folder with the folder name when you specified the `-l` option, this folder contains sensitive files in **html, grep and json** format (HTML formats are the best)
@@ -67,9 +69,11 @@ We can also do other stuff like creating another user, first of all we can login
 
 ![](https://i.imgur.com/0VwsLjf.jpg)
 
-Then since this is recorded as an event, we can go back to our `ntlmrelayx.py` tool page on your terminal, checking the output you should see a new user created
+Then since this is recorded as an event, we can go back to our `ntlmrelayx.py` tool page on your terminal, checking the output you should see a new user created with the password
 
 ![](https://i.imgur.com/FcNSdmh.png)
 
-PS: If you can't find one just restart your `mitm6` tool and `ntlmrelayx`
+PS: If you can't find one just restart your `mitm6` tool and `ntlmrelayx.py` , also try restarting the system (THE-PUNISHER), you should see it 🤟
+
+
 
