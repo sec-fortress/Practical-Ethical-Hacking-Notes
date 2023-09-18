@@ -43,4 +43,10 @@ Impacket v0.9.19 - Copyright 2019 SecureAuth Corporation
 [*] Servers started, waiting for connections
 ```
 
-Note that `-6` represents IPv6 `-t` for targets `-wh` for fake web proxy auto-discovery `-l` will create a folder named bankai 
+Note that `-6` represents IPv6 `-t` for targets `-wh` for fake web proxy auto-discovery `-l` will create a folder named **bankai**
+
+Then start up the `mitm6` server with the following command :
+
+```shell
+
+```
