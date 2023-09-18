@@ -53,3 +53,6 @@ sec-fortress@Pwn-F0rk-3X3C:~$ sudo mitm6 -d marvel.local
 
 ![](https://i.imgur.com/S8Go70A.png)
 
+Now we can go ahead and re-boot our `THE-PUNISHER` machine and focus on our terminal
+
+![](https://i.imgur.com/3DID7Ig.png)
