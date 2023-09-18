@@ -59,9 +59,17 @@ Now we can go ahead and re-boot our `THE-PUNISHER` machine and focus on our term
 
 Checking your present folder, `~/PEH/AD` , you should have a folder with the folder name when you specified the `-l` option, this folder contains sensitive files in **html, grep and json** format (HTML formats are the best)
 
-The highlighted ones are very important
+The highlighted ones as shown below are very important :
 
 ![](https://i.imgur.com/yysEMrW.png)
 
-We can also do other stuff like creating another user, first of all 
+We can also do other stuff like creating another user, first of all we can login as the local admin
+
+![](https://i.imgur.com/0VwsLjf.jpg)
+
+Then since this is recorded as an event, we can go back to our `ntlmrelayx.py` tool page on your terminal, checking the output you should see a new user created
+
+![](https://i.imgur.com/FcNSdmh.png)
+
+PS: If you can't find one just restart your `mitm6` tool and `ntlmrelayx`
 
