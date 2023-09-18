@@ -63,5 +63,5 @@ The highlighted ones are very important
 
 ![](https://i.imgur.com/yysEMrW.png)
 
-We can also create a new
+We can also do other stuff like creating another user, first of all 
 
