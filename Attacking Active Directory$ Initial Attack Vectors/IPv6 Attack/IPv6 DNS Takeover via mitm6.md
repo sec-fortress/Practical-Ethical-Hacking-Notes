@@ -48,5 +48,8 @@ Note that `-6` represents IPv6 `-t` for targets `-wh` for fake web proxy auto-di
 Then start up the `mitm6` server with the following command :
 
 ```shell
-
+sec-fortress@Pwn-F0rk-3X3C:~$ sudo mitm6 -d marvel.local
 ```
+
+![](https://i.imgur.com/S8Go70A.png)
+
