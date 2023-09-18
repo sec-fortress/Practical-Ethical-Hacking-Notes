@@ -59,5 +59,9 @@ Now we can go ahead and re-boot our `THE-PUNISHER` machine and focus on our term
 
 Checking your present folder, `~/PEH/AD` , you should have a folder with the folder name when you specified the `-l` option, this folder contains sensitive files in **html, grep and json** format (HTML formats are the best)
 
+The highlighted ones are very important
 
+![](https://i.imgur.com/yysEMrW.png)
+
+We can also create a new
 
