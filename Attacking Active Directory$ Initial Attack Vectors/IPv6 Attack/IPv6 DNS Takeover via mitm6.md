@@ -17,3 +17,10 @@ sec-fortress@Pwn-F0rk-3X3C:~$
 
 ![](https://i.imgur.com/jIbtM8b.jpg)
 
+### Setting up ntlmrelayx and mitm6
+
+On your terminal do :
+
+```shell
+
+```
