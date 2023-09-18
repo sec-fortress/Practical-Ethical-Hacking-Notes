@@ -8,5 +8,8 @@
 	- Printers
 	- Etc
 - Think Outside the box
-- Ask client to create an account for us
+- If nothing is found for too long, ask client to create an account for us for further enumeration
+- Gather as much information as we can
+
+
 
