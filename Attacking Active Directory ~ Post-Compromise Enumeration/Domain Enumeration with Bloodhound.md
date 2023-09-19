@@ -40,7 +40,10 @@ $ mkdir bloodhound
 $ cd bloodhound
 
 #excalidraw 
-#
+# -d : the Domain
+# -u : specific user on the domain
+# -p : password for the specific user for the domain we specified
+# -ns : 
 $ sudo bloodhound-python -d MARVEL.local -u fcastle -p Password1 -ns 192.168.0.149 -c all
 
 ```
