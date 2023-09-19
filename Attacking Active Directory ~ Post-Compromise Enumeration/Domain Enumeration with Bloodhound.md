@@ -30,6 +30,7 @@ $ sudo bloodhound
 
 You should be referred to the bloodhound GUI, type in you **neo4j** credentials, mine is `neo4j:neo4j1`
 
-```
-```
+## **Data Collection**
+
+
 
