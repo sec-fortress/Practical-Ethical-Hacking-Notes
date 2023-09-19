@@ -20,7 +20,7 @@ $ sudo ldapdomaindump --help
 # -u : Specific user on the domain
 # -p : Password of specific user on the domain
 # -o : Output directory, else output will be generated into current folder
-$ sudo ldapdomaindump ldaps://192.168.0.149 -u 'MARVEL\fcastle' -p Password1 -o /tmp
+$ sudo python3 ldapdomaindump ldaps://192.168.0.149 -u 'MARVEL\fcastle' -p Password1 -o /tmp
 
 # 
 
@@ -41,8 +41,8 @@ Traceback (most recent call last):
 --SNIP--
 
 # Do these
-$ pip install ldap3 dnspython
+$ pip install ldap3 dnspython future
 $ pip install --upgrade ldap3==2.5.1
-
+$ sudo python3 ldapdomaindump ldaps://192.168.0.149 -u 'MARVEL\fcastle' -p Password1
 
 ```
