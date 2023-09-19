@@ -16,8 +16,12 @@ $ cd marvel.local
 $ sudo ldapdomaindump --help 
 
 # standard enumeration using Credentials
-# -u
+# ldaps:// : domain controller IP
+# -u : Specific user on the domain
+# -p : Password of specific user on the domain
+# -o : Output directory, else output will be generated into current folder
 $ sudo ldapdomaindump ldaps://192.168.0.149 -u 'MARVEL\fcastle' -p Password1 -o /tmp
+
 
 
 ```
