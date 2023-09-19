@@ -15,6 +15,9 @@ $ cd marvel.local
 # For help message
 $ sudo ldapdomaindump --help 
 
+# standard enumeration using Credentials
+$ 
+
 
 ```
 
