@@ -17,3 +17,7 @@ $ sudo neo4j console
 2023-09-19 11:32:18.062+0000 INFO  Remote interface available at http://localhost:7474/
 ```
 
+- [ ] Now you will be asked for a password and username, Login it with `neo4j:neo4j`
+- [ ] You will then be asked to create a new password, I will be using `neo4j1`
+
+## **Usage**
