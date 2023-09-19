@@ -58,4 +58,7 @@ _Upload Data :_
 
 ![](https://i.imgur.com/BjQKXa3.png)
 
-__
+_Select all files :_
+
+![](https://i.imgur.com/gn65Wd4.png)
+
