@@ -13,7 +13,7 @@ $ mkdir marvel.local
 $ cd marvel.local
 
 # For help message
-
+$ sudo ldapdomaindump --help 
 
 
 ```
