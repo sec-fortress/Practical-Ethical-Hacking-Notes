@@ -34,6 +34,12 @@ You should be referred to the bloodhound GUI, type in you **neo4j** credentials,
 
 Data collection are mostly done by ingestors , ingestors collect data for us remotely so we don't have to pull down data by ourself's
 
+```powershell
+# Crate a directory called bloodhound and switch to it
+$ mkdir bloodhound
+$ cd bloodhound
 
+
+```
 
 
