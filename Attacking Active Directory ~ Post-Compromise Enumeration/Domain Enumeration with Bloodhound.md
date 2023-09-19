@@ -62,3 +62,6 @@ _Select all files :_
 
 ![](https://i.imgur.com/gn65Wd4.png)
 
+## Bloodhound UI Info
+
+The bloodhound GUI is really easy to navigate, clicking the three horizontal lines at the top left of this GUI we should see the **Databa** 
