@@ -64,4 +64,7 @@ _Select all files :_
 
 ## Bloodhound UI Info
 
-The bloodhound GUI is really easy to navigate, clicking the three horizontal lines at the top left of this GUI we should see the **Databa** 
+The bloodhound GUI is really easy to navigate, clicking the three horizontal lines at the top left of this GUI we should see The **Database Info** tab that focuses on that has been pull down from the uploaded files we submitted, The '**Node Info**' tab will **display information about a node that you click on in the graph**, The **Analysis** tab holds a lot of pre-built queries that you may find handy.
+
+)
+
