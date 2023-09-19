@@ -1,5 +1,7 @@
 ## **Installation**
 
 ```powershell
-$ sudo pip3 
+$ sudo pip3 install bloodhound
 ```
+
+
