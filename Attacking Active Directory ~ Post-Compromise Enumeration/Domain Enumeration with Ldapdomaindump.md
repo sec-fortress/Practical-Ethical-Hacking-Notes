@@ -26,3 +26,23 @@ $ sudo ldapdomaindump ldaps://192.168.0.149 -u 'MARVEL\fcastle' -p Password1 -o 
 
 ```
 
+## **Fixing Errors**
+
+```powershell
+# If you have the error as shown below
+
+$ sudo ldapdomaindump ldaps://192.168.0.149 -u 'MARVEL\fcastle' -p Password1
+[*] Connecting to host...
+[*] Binding to host
+Traceback (most recent call last):
+  File "/usr/local/bin/ldapdomaindump", line 3, in <module>
+    ldapdomaindump.main()
+  File "/usr/local/lib/python2.7/dist-packages/ldapdomaindump/__init__.py", line 940, in main
+--SNIP--
+
+# Do these
+$ pip install ldap3 dnspython
+$ pip install --upgrade ldap3==2.5.1
+
+
+```
