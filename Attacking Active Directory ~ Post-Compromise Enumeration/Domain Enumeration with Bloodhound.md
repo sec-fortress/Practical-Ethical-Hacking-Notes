@@ -39,6 +39,9 @@ Data collection are mostly done by ingestors , ingestors collect data for us rem
 $ mkdir bloodhound
 $ cd bloodhound
 
+#excalidraw 
+#
+$ sudo bloodhound-python -d MARVEL.local -u fcastle -p Password1 -ns 192.168.0.149 -c all
 
 ```
 
