@@ -22,7 +22,7 @@ $ sudo ldapdomaindump --help
 # -o : Output directory, else output will be generated into current folder
 $ sudo ldapdomaindump ldaps://192.168.0.149 -u 'MARVEL\fcastle' -p Password1 -o /tmp
 
-
+# 
 
 ```
 
