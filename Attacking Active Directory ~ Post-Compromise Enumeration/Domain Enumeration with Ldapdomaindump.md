@@ -16,7 +16,8 @@ $ cd marvel.local
 $ sudo ldapdomaindump --help 
 
 # standard enumeration using Credentials
-$ 
+# -u
+$ sudo ldapdomaindump ldaps://192.168.0.149 -u 'MARVEL\fcastle' -p Password1 -o /tmp
 
 
 ```
