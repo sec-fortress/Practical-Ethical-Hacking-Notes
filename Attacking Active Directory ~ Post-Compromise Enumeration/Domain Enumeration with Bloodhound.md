@@ -39,7 +39,7 @@ Data collection are mostly done by ingestors , ingestors collect data for us rem
 $ mkdir bloodhound
 $ cd bloodhound
 
-# Domain enumeration  
+# Data collection process with bloodhound-python 
 # -d : the Domain
 # -u : specific user on the domain
 # -p : password for the specific user for the domain we specified
@@ -48,4 +48,5 @@ $ cd bloodhound
 $ sudo bloodhound-python -d MARVEL.local -u fcastle -p Password1 -ns 192.168.0.149 -c all
 ```
 
+Now you should see all files [Data Collected] stored in the current folder
 
