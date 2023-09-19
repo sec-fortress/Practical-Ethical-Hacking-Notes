@@ -50,3 +50,6 @@ $ sudo bloodhound-python -d MARVEL.local -u fcastle -p Password1 -ns 192.168.0.1
 
 Now you should see all files [Data Collected] stored in the current folder
 
+## **Data Analysis**
+
+For better view of data we need to import it to the bloodhound GUI interface, You can click the **upload** Icon by the top right of the bloodhound inte
