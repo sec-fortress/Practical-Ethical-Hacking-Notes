@@ -3,14 +3,8 @@
 
 If IPv6 is not possible in a network and we do want to compromise an account, well, this tool is a **"TO-GO"** for us.
 
-## **Ldapdomaindump Setup**
-
-```powershell
-# clone ldapdomaindump repo
-$ git clone https://github.com/dirkjanm/ldapdomaindump.git 
 
 
-```
 ## **Example Usage**
 
 **Note:** LDAP requires a bind credential -- can be a low-level domain user -- in order to connect to the LDAP service and run queries.
@@ -28,11 +22,13 @@ $ sudo ldapdomaindump --help
 # -u : Specific user on the domain
 # -p : Password of specific user on the domain
 # -o : Output directory, else output will be generated into current folder
-$ sudo python3 ldapdomaindump ldaps://192.168.0.149 -u 'MARVEL\fcastle' -p Password1 -o /tmp
+$ sudo python3 /usr/bin/ldapdomaindump ldaps://192.168.0.149 -u 'MARVEL\fcastle' -p Password1 -o /tmp
 
 # 
 
 ```
+
+
 
 ## **Fixing Errors**
 
@@ -51,6 +47,5 @@ Traceback (most recent call last):
 # Do these
 $ pip install ldap3 dnspython future
 $ pip install --upgrade ldap3==2.5.1
-$ sudo python3 ldapdomaindump ldaps://192.168.0.149 -u 'MARVEL\fcastle' -p Password1
-
+$ sudo python3 /usr/bin/ldapdomaindump ldaps://192.168.0.149 -u 'MARVEL\fcastle' -p Password1
 ```
