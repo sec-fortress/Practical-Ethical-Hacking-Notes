@@ -27,7 +27,9 @@ $ sudo python3 /usr/bin/ldapdomaindump ldaps://192.168.0.149 -u 'MARVEL\fcastle'
 
 
 
-We can now see all files dumped by ldap
+We can now see all files that are dumped in our current folder
+
+![](https://i.imgur.com/d0UOqOT.png)
 
 
 ## **Fixing Errors**
