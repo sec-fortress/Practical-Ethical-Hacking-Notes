@@ -5,7 +5,11 @@ If IPv6 is not possible in a network and we do want to compromise an account, we
 
 ## **Ldapdomaindump Setup**
 
-```powers
+```powershell
+# clone ldapdomaindump repo
+$ git clone https://github.com/dirkjanm/ldapdomaindump.git 
+
+
 ```
 ## **Example Usage**
 
