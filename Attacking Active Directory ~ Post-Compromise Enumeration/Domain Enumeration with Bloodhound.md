@@ -27,3 +27,9 @@ $ sudo neo4j console
 # startup bloodhound with these terminal command
 $ sudo bloodhound
 ```
+
+You should be referred to the bloodhound GUI, type in you **neo4j** credentials, mine is `neo4j:neo4j1`
+
+```
+```
+
