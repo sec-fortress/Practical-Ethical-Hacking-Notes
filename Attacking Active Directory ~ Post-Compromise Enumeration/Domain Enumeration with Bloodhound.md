@@ -39,14 +39,13 @@ Data collection are mostly done by ingestors , ingestors collect data for us rem
 $ mkdir bloodhound
 $ cd bloodhound
 
-#excalidraw 
+# Domain enumeration  
 # -d : the Domain
 # -u : specific user on the domain
 # -p : password for the specific user for the domain we specified
 # -ns : the specific IP for you name server which is the domain controller
 # -c : collect all data
 $ sudo bloodhound-python -d MARVEL.local -u fcastle -p Password1 -ns 192.168.0.149 -c all
-
 ```
 
 
