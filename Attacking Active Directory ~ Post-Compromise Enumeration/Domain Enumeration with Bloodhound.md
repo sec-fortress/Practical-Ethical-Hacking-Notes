@@ -4,6 +4,7 @@
 # Install bloodhound and neo4j
 $ sudo pip3 install bloodhound
 $ sudo apt install neo4j
+$ sudo apt install bloodhound
 ```
 
 ## **Setup**
@@ -21,3 +22,8 @@ $ sudo neo4j console
 - [ ] You will then be asked to create a new password, I will be using `neo4j1`
 
 ## **Usage**
+
+```powershell
+# startup bloodhound with these terminal command
+$ sudo bloodhound
+```
