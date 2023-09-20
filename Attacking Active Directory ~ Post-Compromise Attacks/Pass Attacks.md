@@ -41,3 +41,5 @@ $ sudo crackmapexec smb 192.168.0.0/24 -u administrator -H aad3b435b51404eeaad3b
 ### **Example**
 
 
+![](https://i.imgur.com/BPORRyU.png)
+
