@@ -62,7 +62,13 @@ We can also dump `shares` and `lsa` (The LSA secrets are **a set of encrypted k
 
 ## **Crackmapexec Modules**
 
-Modules are set of objects within `crackmapexec` that makes it more efficient to use.
+Modules are set of objects within `crackmapexec` that makes it more efficient to use, In other to use a module we need to use the `-M` option followed by the module name.
 
 ![](https://i.imgur.com/aS8WTXb.jpg)
 
+
+### **Usage**
+
+```powershell
+
+```
