@@ -13,8 +13,10 @@ Once we have access to the domain controller, we can run this tool for more enum
 
 ## **Usage**
 
-- [+] You should now see a command prompt
+- [+] You should now see **PingCastle** running on your command prompt, Click **Enter**.
 
+
+![](https://i.imgur.com/o3hWOXF.png)
 
 
 
