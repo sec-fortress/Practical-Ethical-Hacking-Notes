@@ -80,6 +80,7 @@ Then we can do `ls`
 $ secretsdump.py MARVEL.local/fcastle:Password1@192.168.0.132
 ```
 
+
 **_Dumped Hashes :_**
 
 
