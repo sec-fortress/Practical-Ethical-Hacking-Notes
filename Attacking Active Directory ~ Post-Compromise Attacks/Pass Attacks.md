@@ -24,4 +24,7 @@ $ sudo crackmapexec smb 192.168.0.0/24 -u administrator -H aad3b435b51404eeaad3b
 ![](https://i.imgur.com/BEJeQ9g.jpg)
 
 
-**Note :** We cannot use NTLMv2 hashes for the pass the hash attack [refer to LLMNR poisoning for this type of hashes] , 
+**Note :** We cannot use NTLMv2 hashes for the pass the hash attack [refer to LLMNR poisoning for this type of hashes] , Only use NTLMv1 hashes [refer to SMB relay attacks for this type of hashes]. Also make sure to run your `crackmapexec` twice with the same syntax as this may lead to different results.
+
+
+
