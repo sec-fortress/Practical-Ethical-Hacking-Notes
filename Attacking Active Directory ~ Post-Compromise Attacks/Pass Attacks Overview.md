@@ -4,3 +4,11 @@
 
 If we crack a password and/or can dump the SAM hashes with **secretsdump.py** or **ntlmrelayx.py**, we can leverage both for lateral movement in networks
 
+
+
+## **Attack 1  : Crackmapexec**
+
+```powershell
+# show help message
+$ crackmapexec --help
+```
