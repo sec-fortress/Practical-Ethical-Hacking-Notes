@@ -58,3 +58,8 @@ We can also dump `shares` and `lsa` (The LSA secrets are **a set of encrypted k
 
 ![](https://i.imgur.com/FcNerVS.jpg)
 
+
+
+## **Crackmapexec Modules**
+
+
