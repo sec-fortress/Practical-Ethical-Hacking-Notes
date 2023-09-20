@@ -43,4 +43,15 @@ $ sudo crackmapexec smb 192.168.0.0/24 -u administrator -H aad3b435b51404eeaad3b
 
 ![](https://i.imgur.com/BPORRyU.png)
 
-We can also dump `shares` and `lsa` passwords
+We can also dump `shares` and `lsa` (The LSA secrets are **a set of encrypted keys that are stored in the registry**, They could be used or cracked again) passwords of our targets
+
+
+**_Dumping shares :_**
+
+
+![](https://i.imgur.com/xPXK6Qs.png)
+
+
+
+**_Dumping lsa's :_**
+
