@@ -68,6 +68,11 @@ Then we can do `ls`
 
 ## **Dumping Hashes with Secretsdump.py**
 
+**Note :** Make sure to disable/turn `Off` the **HTTP** and **SMB** protocol in the responder.conf file, located under `/etc/responder/Responder.conf`
+
+## **Usage**
+
+
 ```powershell
 # Dumping SAM hashes
 
