@@ -11,7 +11,9 @@ Once we have access to the domain controller, we can run this tool for more enum
 - [ ] unzip the zipped file and run as **Administrator**
 
 
+## **Usage**
 
+- [+] You should now see a command prompt
 
 
 
