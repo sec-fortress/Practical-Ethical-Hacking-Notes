@@ -25,4 +25,4 @@ Once we have access to the domain controller, we can run this tool for more enum
 ![](https://i.imgur.com/oagPsqw.png)
 
 
-- []  
+- [+] Once the analysis is done, you should see a   
