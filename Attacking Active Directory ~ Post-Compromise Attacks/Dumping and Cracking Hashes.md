@@ -37,3 +37,4 @@ MARVEL.local/fcastle:$DCC2$10240#fcastle#e6f48c2526bd594441d3da3723155f6f
 ```
 
 
+**Note :** You should always focus on the hashes of  `administrator` and other users like `frankcastle` in our place, usually Guest, DefaultAccount and WDAGUtilityAccount are more of defaults account so there is no much 
