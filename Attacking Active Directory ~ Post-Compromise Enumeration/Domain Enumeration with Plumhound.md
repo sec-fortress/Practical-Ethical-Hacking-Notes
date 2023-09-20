@@ -21,5 +21,8 @@ $ sudo python3 PlumHound.py --help
 $ sudo python3 PlumHound.py --easy -p neo4j1
 
 # Run default tasks
-
+$ sudo python3 PlumHound.py -x tasks/default.tasks -p neo4j1 
 ```
+
+Now we can change our directory to `reports` then open the `index.html` with **Firefox** for a better view.
+
