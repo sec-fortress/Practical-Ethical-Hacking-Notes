@@ -28,7 +28,7 @@ $ sudo crackmapexec smb 192.168.0.0/24 -u administrator -H aad3b435b51404eeaad3b
 
 
 
-## **Dumping Hashes**
+## **Dumping Password Hashes**
 
 ```powershell
 # dump SAM hashes of local admin and users
@@ -53,5 +53,8 @@ We can also dump `shares` and `lsa` (The LSA secrets are **a set of encrypted k
 
 
 
-**_Dumping lsa's :_**
+**_Dumping lsa :_**
+
+
+![](https://i.imgur.com/FcNerVS.jpg)
 
