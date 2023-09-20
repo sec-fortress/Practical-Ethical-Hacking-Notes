@@ -66,3 +66,8 @@ Then we can do `ls`
 
 ![](https://i.imgur.com/Q2m4kx2.png)
 
+## **Dumping Hashes with Secretsdump.py**
+
+```shell
+# 
+```
