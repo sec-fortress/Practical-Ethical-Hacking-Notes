@@ -11,6 +11,8 @@ $ sudo pip install -r requirements.txt
 
 ## **Usage**
 
+**Note**
+
 ```powershell
 # show help message
 $ sudo python3 PlumHound.py --help
