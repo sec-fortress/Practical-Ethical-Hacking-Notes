@@ -4,8 +4,16 @@
 # install plumhound on your Kali machine
 $ cd /opt
 $ sudo git clone https://github.com/PlumHound/PlumHound.git
-$ cd Plumhound
+$ cd PlumHound
 $ sudo pip install -r requirements.txt
-
 ```
 
+
+## **Usage**
+
+```powershell
+# show help message
+$ sudo python3 PlumHound.py --help
+
+
+```
