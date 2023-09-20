@@ -82,7 +82,7 @@ $ sudo crackmapexec smb 192.168.0.0/24 -u administrator -H aad3b435b51404eeaad3b
 
 ## **Crackmapexec Databases**
 
-The crackmapexec data
+The crackmapexec database stores a list of activity of everything we gathered during our initial attack with it including credentials, hosts and password hashes.
 
 ```powershell
 # launching database
@@ -90,6 +90,8 @@ $ cmedb
 
 # show help message
 cmedb (default)(smb) > help
-
-
 ```
+
+
+
+![](https://i.imgur.com/EMHFQJF.png)
