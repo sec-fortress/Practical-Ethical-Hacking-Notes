@@ -18,6 +18,8 @@ $ sudo pip install -r requirements.txt
 $ sudo python3 PlumHound.py --help
 
 # query the domain
+$ sudo python3 PlumHound.py --easy -p neo4j1
 
+# Run default tasks
 
 ```
