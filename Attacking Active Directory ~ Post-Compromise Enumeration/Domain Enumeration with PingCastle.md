@@ -25,4 +25,4 @@ Once we have access to the domain controller, we can run this tool for more enum
 ![](https://i.imgur.com/oagPsqw.png)
 
 
-- [+] Once the analysis is done, you should see a   
+- [ ] Once the analysis is done, you should see a `.html` detailed report file in the **PingCastle** unzipped folder, We can now view this file for further analysis, Here is what my own report looks like from **[here](https://sec-fortress.github.io/posts/articles/posts/ad_hc_marvel.local.html)**
