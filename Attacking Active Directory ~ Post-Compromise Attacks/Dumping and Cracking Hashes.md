@@ -45,5 +45,25 @@ Also watch out for **Wdigest** password cos' it is an old protocol on Windows 7,
 
 ### **Dumping Individual hashes with local admin hash**
 
-sometimes we might not be able to dump hashes by just specifying the user like we did in the first step, we where able to dump `MARVEL.local/fcastle` hash but we where not able to dump `MARVEL.local/pparkers` hash, If we can dump a user hash, we can copy the local admin hash and try it out with other users to see if they share the same admin hash, then we can get a user
+sometimes we might not be able to dump hashes by just specifying the user like we did in the first step, we where able to dump `MARVEL.local/fcastle` hash but we where not able to dump `MARVEL.local/pparkers` hash, If we can dump a user hash, we can copy the local admin hash and try it out with other users to see if they share the same admin hash, then we can get a user hash from there
+
+```powershell
+# Dumping peterparker hash with local admin hash
+$ secretsdump.py administrator:@192.168.0.183 -hashes aad3b435b51404eeaad3b435b51404ee:7facdc498ed1680c4fd1448319a8c04f
+```
+
+
+
+![](https://i.imgur.com/4nSVJeN.jpg)
+
+
+```powershell
+# dumping pe
+```
+
+
+
+
+
+
 ## **Cracking Hashes**
