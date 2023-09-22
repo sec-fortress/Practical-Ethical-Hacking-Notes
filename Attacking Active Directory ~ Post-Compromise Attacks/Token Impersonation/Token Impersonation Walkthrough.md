@@ -4,6 +4,7 @@ First of all make sure you have a `meterpreter` shell on our target system
 
 ```powershell
 meterpreter > load incognito
+meterpreter > list_tokens -u
 
 
 ```
