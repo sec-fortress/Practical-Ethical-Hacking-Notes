@@ -81,5 +81,8 @@ We can take the `NT` potion (second potion) of each user hash we want to crack a
 # paste hash into a txt file
 $ echo "7facdc498ed1680c4fd1448319a8c04f" > hash.txt
 
+# cracking hash with hashcat
+$ hashcat -m 1000 hash.txt /usr/share/wordlists/rockyou.txt
+
 
 ```
