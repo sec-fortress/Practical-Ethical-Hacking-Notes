@@ -29,3 +29,10 @@ meterpreter > revself
 **Since we are able to dump user fcastle token and impersonate it, let do the same for the local admin, first of all switch user from fcastle to the local admin.**
 
 
+
+![](https://i.imgur.com/lPsa2e1.png)
+
+```powershell
+
+```
+
