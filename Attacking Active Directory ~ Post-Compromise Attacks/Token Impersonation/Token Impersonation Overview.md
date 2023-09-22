@@ -5,6 +5,7 @@ Tokens are just like browser cookies in concept, they are temporary keys that al
 
 ## **Types**
 
-**Delegate :** Created for logging in to a machine or Using Remote Desktop
+**Delegate :** Created for logging in to a machine or Using Remote Desktop.
 
-**Impersonate :** "Now In"
+**Impersonate :** "Non-Interactive" Such as attaching a network drive or a domain logon  script.
+
