@@ -63,3 +63,13 @@ C:\Windows\system32>net group "Domain Admins" hawkeye /ADD /DOMAIN
 
 
 ![](https://i.imgur.com/B2iYLvs.png)
+
+
+
+
+
+
+**_Then using secretsdump.py we can see that user hawkeye exists (Make sure to point the IP directly to the domain controller)_**
+
+![](https://i.imgur.com/JUnXMzk.jpg)
+
