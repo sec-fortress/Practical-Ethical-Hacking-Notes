@@ -84,5 +84,6 @@ $ echo "7facdc498ed1680c4fd1448319a8c04f" > hash.txt
 # cracking hash with hashcat
 $ hashcat -m 1000 hash.txt /usr/share/wordlists/rockyou.txt
 
-
+# cracking hash with john
+$ john --format=NT --wordlist=/usr/share/wordlists/rockyou.txt hash.txt --fork=4
 ```
