@@ -23,3 +23,6 @@ This will revert the `meterpreter` session to its original state
 ```powershell
 meterpreter > revself
 ```
+
+
+**Since we are able to dump user fcastle token and login**
