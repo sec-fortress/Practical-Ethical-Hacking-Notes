@@ -11,4 +11,12 @@ $ sudo GetUserSPNs.py MARVEL.local/fcastle:Password1 -dc-ip 192.168.0.149  -requ
 ```
 
 
-###
+#### **Example**
+
+![](https://i.imgur.com/RaJyFv0.png)
+
+
+## **Cracking the TGS hash**
+
+- Save the TGS hash in a `.txt` file and then we can crack it with either **hashcat** or **johntheripper**
+
