@@ -11,12 +11,15 @@ meterpreter > impersonate_token marvel\\fcastle
 
 #### **Example**
 
+
+![b5tFh1b.png](https://i.imgur.com/b5tFh1b.png)
 ![](https://i.imgur.com/b5tFh1b.png)
 
 
 #### **Revert Msfconsole Shell**
 
-This will revert the meterpreter session to its original state
+This will revert the `meterpreter` session to its original state
+
 ```powershell
 meterpreter > revself
 ```
