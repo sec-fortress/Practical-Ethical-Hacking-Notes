@@ -21,6 +21,6 @@ IconIndex=1
 - Then start up responder with the command `sudo responder -I wlan0 -v`
 - Navigate back to that share where the file was uploaded on your THEPUNISHER vm and go back to your terminal where responder is opened, you should see the hashes dumped
 
-
+Navigate to https://academy.tcm-sec.com/courses/1152300/lectures/33637401 to know better
 
 
