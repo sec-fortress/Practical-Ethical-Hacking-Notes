@@ -73,3 +73,13 @@ $ secretsdump.py administrator:@192.168.0.183 -hashes aad3b435b51404eeaad3b435b5
 
 
 ## **Cracking Hashes**
+
+
+We can take the `NT` potion (second potion) of each user hash we want to crack and then crack it.
+
+```powershell
+# paste hash into a txt file
+$ echo "7facdc498ed1680c4fd1448319a8c04f" > hash.txt
+
+
+```
