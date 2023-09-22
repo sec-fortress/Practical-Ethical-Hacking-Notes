@@ -10,12 +10,10 @@
 
 ```powershell
 1 meterpreter > background
-2 msf > use auxiliary/smb_enum_gpp
+2 msf > use auxiliary/scanner/smb/smb_enum_gpp
 ```
 
 Set the backgrounded session and run it
-
-
 
 
 ## **Mitigation**
