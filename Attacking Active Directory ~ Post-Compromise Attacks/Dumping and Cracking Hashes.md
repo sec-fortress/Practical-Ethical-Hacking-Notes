@@ -87,3 +87,13 @@ $ hashcat -m 1000 hash.txt /usr/share/wordlists/rockyou.txt
 # cracking hash with john
 $ john --format=NT --wordlist=/usr/share/wordlists/rockyou.txt hash.txt --fork=4
 ```
+
+
+**_Hashcat Output :_**
+
+![](https://i.imgur.com/9x7QMIq.png)
+
+
+**_John output :_**
+
+![](https://i.imgur.com/3wGVyzJ.png)
