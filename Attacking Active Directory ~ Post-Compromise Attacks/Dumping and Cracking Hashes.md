@@ -42,8 +42,6 @@ MARVEL.local/fcastle:$DCC2$10240#fcastle#e6f48c2526bd594441d3da3723155f6f
 Also watch out for **Wdigest** password cos' it is an old protocol on Windows 7, Windows 8 , 2008 R2 servers, This is used to store passwords in clear text 
 
 
-### **Additionals**
 
-we couldn't dump pparker's hash by using the command 
-
+### **D**
 ## **Cracking Hashes**
