@@ -14,7 +14,7 @@
 - Transfer all files in this folder to your windows client machine, In our case it is **SPIDERMAN**
 	- We can start up a python3 server on our Attacker machine with `python3 -m http.server 80`
 	- Then navigate to your windows machine and open up a browser then type in our Attacking machine IP
-	- Look for the files and download them
+	- Look for the files and download them (If you have any difficulty turn off your windows Antivirus)
 
 ![](https://i.imgur.com/HwRcWdk.png)
 
