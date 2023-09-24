@@ -9,5 +9,5 @@
 
 ## **Installation**
 
-- Download the mimikatz file from [here](https://github.com/gentilkiwi/mimikatz/releases/download/2.2.0-20220919/mimikatz_trunk.zip)
+- Download the mimikatz file[.zip] from [here](https://github.com/gentilkiwi/mimikatz/releases/download/2.2.0-20220919/mimikatz_trunk.zip)
 - 
