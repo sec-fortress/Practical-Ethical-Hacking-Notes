@@ -18,4 +18,7 @@
 
 ![](https://i.imgur.com/HwRcWdk.png)
 
+- Open up a Command Prompt with **Administrative privileges** on our SPIDERMAN VM
+- 
+- 
 
