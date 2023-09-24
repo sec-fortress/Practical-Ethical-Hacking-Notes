@@ -10,3 +10,5 @@ Kioptrix Download - [https://tcm-sec.com/kioptrix](https://tcm-sec.com/kioptrix
 - Since it is an old machine you can use the `ping` command to check for it IP addr, for example:
 
 ![image](https://github.com/sec-fortress/Practical-Ethical-Hacking-Notes/assets/132317714/f32c7b56-f804-4435-9131-99824e6bdd40)
+
+
