@@ -18,7 +18,12 @@
 
 ![](https://i.imgur.com/HwRcWdk.png)
 
-- Open up a Command Prompt with **Administrative privileges** on our SPIDERMAN VM
-- 
-- 
+- Open up a Command Prompt with **Administrative privileges** on our SPIDERMAN VM and change directory to downloads (Where the Mimikatz file is located at)
 
+![](https://i.imgur.com/QcWQSpt.png)
+
+
+## **General Usage**
+
+```
+```
