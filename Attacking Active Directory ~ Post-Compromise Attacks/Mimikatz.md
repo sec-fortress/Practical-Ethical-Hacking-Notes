@@ -16,3 +16,6 @@
 	- Then navigate to your windows machine and open up a browser then type in our Attacking machine IP
 	- Look for the files and download them
 
+![](https://i.imgur.com/HwRcWdk.png)
+
+
