@@ -25,5 +25,12 @@
 
 ## **General Usage**
 
-```
+```powershell
+# start mimikatz
+c:\Users\peterparker\Downloads>mimikatz.exe
+
+# start debug mode for full efficiency
+mimikatz # privilege::debug
+
+
 ```
