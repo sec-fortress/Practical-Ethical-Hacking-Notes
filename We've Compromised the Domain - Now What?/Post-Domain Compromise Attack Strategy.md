@@ -4,4 +4,5 @@
 	- Enumerate shares for sensitive information
 - [ ] Persistence can be important
 	- What happens if our Domain Accounts (DA) access is lost?
-	- Creating a DA account can be use
+	- Creating a DA account can be useful (Refer to [[Token Impersonation Walkthrough]] to see our we create a DA called hawkeye, also **DO NOT FORGET TO DELETE IT**)
+	- 
