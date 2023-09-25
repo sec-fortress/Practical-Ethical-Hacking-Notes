@@ -8,3 +8,11 @@
 	- Security descriptors
 	- And oh yeah, password hashes
 
+
+## **General Usage**
+
+We can use the tool `secretsdump.py` to dump out the NTDS.dit secrets
+
+```powershell
+# 
+```
