@@ -2,4 +2,9 @@
 
 ### **What is it ?**
 
-- A database used to stio
+- A database used to store AD data. This data includes:
+	- User information
+	- Group information
+	- Security descriptors
+	- And oh yeah, password hashes
+
