@@ -3,4 +3,5 @@
 	- Dump the NTDS.dit and crack passwords
 	- Enumerate shares for sensitive information
 - [ ] Persistence can be important
-	- 
+	- What happens if our Domain Accounts (DA) access is lost?
+	- Creating a DA account can be use
