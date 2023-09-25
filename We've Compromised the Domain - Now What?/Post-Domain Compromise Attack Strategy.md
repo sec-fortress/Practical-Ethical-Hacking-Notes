@@ -1,0 +1,6 @@
+- [ ] Provide as much value to the client as possible
+	- Put your blinders on and do it again (Just because we have 5 days for an engagement and then we got local admin creds on day 1, doesn't mean we shouldn't try it again to see if we can still get it)
+	- Dump the NTDS.dit and crack passwords
+	- Enumerate shares for sensitive information
+- [ ] Persistence can be important
+	- 
