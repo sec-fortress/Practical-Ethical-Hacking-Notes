@@ -6,7 +6,7 @@ If attackers know the memory layout of a program, they can intentionally feed in
 
 - In the Stack we are overflowing the buffer space to reach the **EIP**
 - We can use the **EIP** to point into directions that we instruct
-![1-anathomy-of-the-memory](https://github.com/encryptedninja/command-center/raw/master/buffer_overflow/images/1-anatomy_of_the_memory.png)![2-anatomy_of_the_stack](https://github.com/encryptedninja/command-center/raw/master/buffer_overflow/images/2-anatomy_of_the_stack.png) ![3-overflow](https://github.com/encryptedninja/command-center/raw/master/buffer_overflow/images/3-overflow.png)
+![1-anathomy-of-the-memory](https://github.com/encryptedninja/command-center/raw/master/buffer_overflow/images/1-anatomy_of_the_memory.png)![2-anatomy_of_the_stack](https://github.com/encryptedninja/command-center/raw/master/buffer_overflow/images/2-anatomy_of_the_stack.png)
 ### Steps to Conduct a Buffer Overflow Attack
 
 - [ ] Spiking
