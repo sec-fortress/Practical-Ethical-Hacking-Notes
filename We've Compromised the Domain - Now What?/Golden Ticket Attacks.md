@@ -79,4 +79,5 @@ You should see a new command prompt we can execute commands as any user from her
 ![](https://i.imgur.com/2DBD485.png)
 
 
-Gaining 
+We can then further our attack and gain a shell on remote target with `PsExec.exe` 
+ - Download the file from [here]() and transfer it to the DC downloads folder
