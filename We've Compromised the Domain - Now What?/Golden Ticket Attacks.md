@@ -78,10 +78,12 @@ You should see a new command prompt we can execute commands as any user from her
 
 ![](https://i.imgur.com/2DBD485.png)
 
+### **Using PsExec.exe for remote shell**
+
 
 We can then further our attack and gain a shell on remote target with `PsExec.exe` 
- - Download the file from [here]() and transfer it to the DC downloads folder
- - On your command prompt run
+ - Download the file from [here](https://github.com/sec-fortress/Practical-Ethical-Hacking-Notes/raw/main/PsExec.exe) and transfer it to the DC downloads folder
+ - On your active command prompt run
 
 ```powershell
 # PsExec.exe \\MACHINE-IP/NAME cmd.exe
