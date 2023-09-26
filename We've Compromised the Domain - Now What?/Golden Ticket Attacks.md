@@ -10,3 +10,4 @@
 - [ ] There are a couple of conditions need to be met 
 	- We need the krbtgt NTLM hash
 	- We also need the domain SID 
+- [ ] Once we have this we can generate our golden ticket and once it is generated we can use an attack call **Pass-the-Ticket** in other to utilize this anywhere
