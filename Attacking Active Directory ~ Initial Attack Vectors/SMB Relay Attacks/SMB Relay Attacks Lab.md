@@ -44,9 +44,11 @@ Same as we did in the previous section, we can simply get an interactive SMB she
 $ ntlmrelayx.py -tf targets -smb2support -i
 ```
 
-`-i` will give the interactive shell. After running the command, you will see an output like below
+`-i` will give the interactive shell. After running the command, you will see an output as shown in the image below :
 
-![](https://www.hackingloops.com/wp-content/uploads/2023/01/6-2-1024x407.png)
+
+![](https://i.imgur.com/QSh4895.png)
+
 
 It has successfully exploited and started interactive SMB client shell via TCP on the specified port.
 
