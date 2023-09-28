@@ -25,14 +25,20 @@ The next thing is for our target, to create an event (We are gonna be utilizing 
 
 ![](https://dimitrios-tsarouchas.tech/assets/img/DNS-failure-Wrong-address.png)
 
-**SAM hashes have been dumped**
-![Local-SAM-hashes-have-been-dumped](https://dimitrios-tsarouchas.tech/assets/img/Local-SAM-hashes-have-been-dumped.png)_Local SAM hashes have been dumped_
 
-The authentication succeeded because SMB signing is enabled but not required and because “dtsarouchas” is the Administrator on this computer. Therefore, the SAM hashes were able to be dumped. Now the attacker can copy the SAM hashes, try cracking them offline and move laterally or vertically.
+**_Local SAM hashes have been dumped_**
+
+![](https://i.imgur.com/GCHxNP1.png)
+
+
+
+The authentication succeeded because SMB signing is enabled but not required and because “peterparker” is the Administrator on this computer. Therefore, the SAM hashes were able to be dumped. Now the attacker can copy the SAM hashes, try cracking them offline and move laterally or vertically.
 
 ***
+## **Spawning Reverse Shell**
 
-Same as we did in the previous section, we can simply get an interactive SMB shell by just adding a flag to ntlmrelayx command
+
+Same as we did in the previous section, we can simply get an interactive SMB shell by just adding a flag to `ntlmrelayx.py` command
 
 ```shell
 $ ntlmrelayx.py -tf targets -smb2support -i
