@@ -30,6 +30,8 @@ IconIndex=1
 ![](https://i.imgur.com/LlR1nxJ.jpg)
 
 
-Navigate to https://academy.tcm-sec.com/courses/1152300/lectures/33637401 to know better
+Navigate to https://swepstopia.com/url-file-attack/ to know better
+
+
 
 
