@@ -60,7 +60,8 @@ nc 127.0.0.1 11000
 
 This will give you the SMB shell as below
 
-![](https://www.hackingloops.com/wp-content/uploads/2023/01/7-2.png)
+![](https://i.imgur.com/00tjm6b.png)
+
 
 From here, you can interact using the shell and access the files and folders., for example to see the content of these shares we can say
 
@@ -73,5 +74,7 @@ From here, you can interact using the shell and access the files and folders., f
 
 Then we can do `ls`
 
-![](https://i.imgur.com/Q2m4kx2.png)
+
+![](https://i.imgur.com/M1tuOWf.png)
+
 
