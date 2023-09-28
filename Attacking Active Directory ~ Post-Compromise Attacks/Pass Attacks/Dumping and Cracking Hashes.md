@@ -39,8 +39,9 @@ MARVEL.local/fcastle:$DCC2$10240#fcastle#e6f48c2526bd594441d3da3723155f6f
 
 **Note :** You should always focus on the hashes of  `administrator` and other users like `frankcastle` in our place, usually Guest, DefaultAccount and WDAGUtilityAccount are more of defaults account so there is no much to worry about.
 
-Also watch out for **Wdigest** password cos' it is an old protocol on Windows 7, Windows 8 , 2008 R2 servers, This is used to store passwords in clear text 
+Also watch out for **Wdigest** password cos' it is an old protocol on Windows 7, Windows 8 , Windows server 2008 R2 and Windows Server 2012.This is used to store passwords in clear text 
 
+![](https://tcm-sec.com/wp-content/uploads/2021/08/9327ed5a-2e34-4c71-87c4-a214b4b60444.png)
 
 
 ### **Dumping Individual hashes with local admin hash**
