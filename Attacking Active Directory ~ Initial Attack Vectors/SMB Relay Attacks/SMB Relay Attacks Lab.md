@@ -57,9 +57,10 @@ This will give you the SMB shell as below
 From here, you can interact using the shell and access the files and folders., for example to see the content of these shares we can say
 
 ```shell
-sec-fortress@kali#~$ use C$
-sec-fortress@kali#~$ use ADMIN$
-sec-fortress@kali#~$ use IPC$
+# shares
+# use C$
+# use ADMIN$
+# use IPC$
 ```
 
 Then we can do `ls`
