@@ -34,11 +34,11 @@ The authentication succeeded because SMB signing is enabled but not required and
 
 Same as we did in the previous section, we can simply get an interactive SMB shell by just adding a flag to ntlmrelayx command
 
-```
-impacket-ntlmrelayx -tf targets -smb2support -i
+```shell
+$ ntlmrelayx.py -tf targets -smb2support -i
 ```
 
--i will give the interactive shell. After running the command, you will see an output like below
+`-i` will give the interactive shell. After running the command, you will see an output like below
 
 ![](https://www.hackingloops.com/wp-content/uploads/2023/01/6-2-1024x407.png)
 
