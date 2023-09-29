@@ -6,4 +6,7 @@ $ cd pimpmykali
 $ sudo ./pimpmykali.sh
 ```
 
-- Now 
+- Now select option **3** which is to **Fix Golang** and this will setup golang for us
+
+
+![](https://i.imgur.com/xCrlcpi.png)
