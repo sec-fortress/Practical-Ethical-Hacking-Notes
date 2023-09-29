@@ -12,8 +12,13 @@ $ sudo apt install assetfinder
 ```
 # find subdomains related and partially related to a particular domain given
 $ assetfinder <domain name>
+
+# saved gather subdomains into a TXT file
+$ assetfinder <domain name> >> subd.txt
 ```
 
-
 #### **Example**
+
+
+![](https://i.imgur.com/m7u0vei.png)
 
