@@ -9,4 +9,11 @@ $ sudo apt install assetfinder
 
 ## **General Usage**
 
+```
+# find subdomains related and partially related to a particular domain given
+$ assetfinder <domain name>
+```
+
+
+#### **Example**
 
