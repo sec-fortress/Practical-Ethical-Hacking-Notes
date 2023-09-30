@@ -26,3 +26,4 @@ $ assetfinder <domain name> >> subd.txt
 
 ## **Automating Assetfinder Scan with Bash**
 
+
