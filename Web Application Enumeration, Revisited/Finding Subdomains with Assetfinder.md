@@ -22,3 +22,7 @@ $ assetfinder <domain name> >> subd.txt
 
 ![](https://i.imgur.com/m7u0vei.png)
 
+
+
+## **Automating Assetfinder Scan with Bash**
+
