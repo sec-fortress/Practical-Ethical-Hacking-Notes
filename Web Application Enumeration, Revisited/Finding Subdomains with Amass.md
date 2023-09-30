@@ -14,3 +14,10 @@ $ sudo apt install amass
 $ amass enum -d <domain>
 ```
 
+#### **Example**
+
+
+![](https://i.imgur.com/EtJJxzj.jpg)
+
+
+**We can also write an automat**
