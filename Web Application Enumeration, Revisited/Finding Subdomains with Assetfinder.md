@@ -52,6 +52,6 @@ You can then grant it executable permissions then run it and you should get the 
 
 #### **Example**
 
-![Uploading file...cnclw]()
+![](https://i.imgur.com/yt2wfAR.png)
 
 
