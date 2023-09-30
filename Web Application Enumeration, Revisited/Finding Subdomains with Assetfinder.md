@@ -27,3 +27,4 @@ $ assetfinder <domain name> >> subd.txt
 ## **Automating Assetfinder Scan with Bash**
 
 
+We don't want partially relative subdomains from assetfinder output, we only want domains related to the original domain
