@@ -11,6 +11,8 @@ $ go get -u gorm.io/gorm
 $ go get -u github.com/sensepost/gowitness
 ```
 
+If this doesn't work use **pimpmykali** with menu option **1 fix_missing**
 
 ## **General Usage**
+
 
