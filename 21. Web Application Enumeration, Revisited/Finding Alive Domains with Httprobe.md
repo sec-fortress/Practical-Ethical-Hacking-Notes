@@ -7,5 +7,7 @@ We can install this tool on **Kali Linux** with the command `sudo apt install ht
 We can pipe the output we got from `amass` and `assetfinder` to `httprobe` to get live domains
 
 ```bash
-
+$ cat tesla.com/recon/final.txt | httprobe
 ```
+
+
