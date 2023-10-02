@@ -26,5 +26,4 @@ You should now see a **screenshots** folder created in the present working direc
 I screenshot [https://sec-fortress.github.io](https://sec-fortress,github.io) using this tool and here is the result
 
 
-
 ![](https://i.imgur.com/Z2hmysF.png)
