@@ -27,5 +27,4 @@ I screenshot [https://sec-fortress.github.io](https://sec-fortress,github.io) us
 
 
 
-
 ![](https://i.imgur.com/Z2hmysF.png)
