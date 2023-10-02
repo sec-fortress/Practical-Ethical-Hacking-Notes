@@ -16,3 +16,16 @@ If this doesn't work use **pimpmykali** with menu option **1 fix_missing**
 ## **General Usage**
 
 
+```bash
+$ gowitness single <website>
+```
+
+You should now see a **screenshots** folder created in the present working directory of where this tool was ran
+#### **Example**
+
+I screenshot [https://sec-fortress.github.io](https://sec-fortress,github.io) using this tool and here is the result
+
+
+
+
+![](https://i.imgur.com/Z2hmysF.png)
