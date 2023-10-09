@@ -15,3 +15,12 @@
 
 **Master Service Agreement**
 
+
+
+**Statement of work**
+
+- Clearly define the scope and objectives of the penetration testing project
+- Establish expectations and deliverables for both the client and the testing team
+- Provide a detailed timeline and budget for the project, ensuring transparency and accountability
+- Help identify potential risks and vulnerabilities before they can be exploited by malicious actors
+- Ensure compliance with industry standards and regulations, giving you peace of mind about your security posture.
