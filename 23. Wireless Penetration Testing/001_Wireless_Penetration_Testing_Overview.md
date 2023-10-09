@@ -6,5 +6,13 @@ The assessment of a wireless Network
 - WPA2 PSK(Pre-Shared Key) : a very common type of network found in home, coffee shops etc
 - WPA2 Enterprise : Used in larger organisations and industries
 
+## **Activities**
 
+There are various activities to be performed before a successful wireless pentest
+
+- Evaluating strength of PSK
+- Reviewing nearby networks
+- Assessing guest networks
+- Checking network access
+- 
 
