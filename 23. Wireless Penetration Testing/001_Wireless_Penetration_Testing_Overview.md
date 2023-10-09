@@ -3,5 +3,6 @@
 The assessment of a wireless Network
 
 **Types**
-- WPA2 PSK : a very common type of network found in hom
+- WPA2 PSK(PreShared Key) : a very common type of network found in home, coffee shops etc
+- WPA2 Enterprise : 
 
