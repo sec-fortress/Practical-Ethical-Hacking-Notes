@@ -13,3 +13,5 @@
 - To keep confidential information secure
 - To surrender all copies and records of confidential information on request by another party
 
+**Master Service Agreement**
+
