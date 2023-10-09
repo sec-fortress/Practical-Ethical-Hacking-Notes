@@ -36,3 +36,10 @@
 - Sensitive data handling
 - Status meeting and reports
 
+**Findings Report**
+
+- Executive Summary for Strategic Direction
+- Walkthrough of Technical Risks
+- Potential Impact of Vulnerability
+- Multiple Vulnerability Remediation Options
+
