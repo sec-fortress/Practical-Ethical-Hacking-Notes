@@ -15,7 +15,9 @@
 
 **Master Service Agreement**
 
-
+- The ownership of property in a development
+- Royalties associated with new inventions or discoveries
+- How new information can be released while maintaining confidentiality agreements
 
 **Statement of work**
 
@@ -24,3 +26,13 @@
 - Provide a detailed timeline and budget for the project, ensuring transparency and accountability
 - Help identify potential risks and vulnerabilities before they can be exploited by malicious actors
 - Ensure compliance with industry standards and regulations, giving you peace of mind about your security posture.
+
+
+**Rules of Engagement**
+
+- The type and scope of testing
+- Client contact details
+- Client IT team notifications
+- Sensitive data handling
+- Status meeting and reports
+
