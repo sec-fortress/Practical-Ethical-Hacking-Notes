@@ -1,6 +1,6 @@
 ## **Dumping Hashes with Secretsdump.py**
 
-
+You can dump hashes directly with `secretsdump` rather than using the smbrelay attack, except you need to access shares, you should still try both though
 ## **Usage**
 
 
