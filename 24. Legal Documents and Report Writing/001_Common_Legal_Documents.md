@@ -8,7 +8,7 @@
 
 
 **Mutual Non-Disclosure Agreement**
-- Not to use any confidential information for unauthorised purpose - authorisation must be in writing
+- Not to use any confidential information for unauthorized purpose - authorization must be in writing
 - Not to disclose confidential information to third parties
 - To keep confidential information secure
 - To surrender all copies and records of confidential information on request by another party
