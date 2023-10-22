@@ -1,4 +1,5 @@
 ## What is an IP address?
+
 IPv4 (Internet Protocol version 4) and IPv6 (Internet Protocol version 6) are two versions of the Internet Protocol, which is the underlying protocol that enables communication on the internet. They are used to identify and locate devices on a network.
 
 ## What are IPv4 Addresses?
@@ -15,6 +16,7 @@ In summary, IPv4 and IPv6 are versions of the Internet Protocol that provide uni
 Here is a picture to show us where our IP addresses stand out:
 
 ![image](https://github.com/sec-fortress/Practical-Ethical-Hacking-Notes/assets/132317714/6280758a-ea9f-4657-8d2c-045b6a55f52d)
+
 
 
 # Resource
