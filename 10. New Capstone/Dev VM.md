@@ -74,6 +74,7 @@ Running Directory Bruteforce with `ffuf` we have 6 entries found, let check them
 
 ![](https://i.imgur.com/1acxDub.png)
 
+
 `/public` is a 301 that leads to a page we don't have access to , `/index.php` takes us back to the default page, down from `/src` to `/extensions` is just an index page , also there is information disclosure of `Apache/2.4.38 (Debian) Server`
 
 ![](https://i.imgur.com/TY13A6q.png)
