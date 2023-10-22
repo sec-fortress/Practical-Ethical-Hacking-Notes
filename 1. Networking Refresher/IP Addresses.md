@@ -13,7 +13,9 @@ The transition from IPv4 to IPv6 is necessary due to the depletion of available 
 In summary, IPv4 and IPv6 are versions of the Internet Protocol that provide unique addresses to devices on a network. IPv4 addresses are 32-bit, while IPv6 addresses are 128-bit. IPv6 offers a larger address space and additional features compared to IPv4.
 
 Here is a picture to show us where our IP addresses stand out:
+
 ![image](https://github.com/sec-fortress/Practical-Ethical-Hacking-Notes/assets/132317714/6280758a-ea9f-4657-8d2c-045b6a55f52d)
+
 
 # Resource
 
